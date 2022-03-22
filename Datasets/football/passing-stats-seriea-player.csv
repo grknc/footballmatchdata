@@ -1,0 +1,606 @@
+Rk;PlayerN;Player;NationN;Nation;Pos;Squad;90s;CmpPass;AttPass;PassCmpR;TotDistPass;PrgDistPass;CmpShPas;AttShPas;ShPasCmp%;CmpMedPas;AttMedPas;MedPasCmp%;CmpLngPas;AttLngPas;LngPasCmp%;Ast;xA;A-xA;KP;1/3;PPA;CrsPA;ProgPas
+1;Tammy Abraham\f586779e;Tammy Abraham;eng ENG;ENG;FW;Roma;27.2;415;569;72.9;6294;1538;252;325;77.5;111;158;70.3;35;42;83.3;3;3.2;-0.2;30;30;24;3;56
+2;Francesco Acerbi\b96b595c;Francesco Acerbi;it ITA;ITA;DF;Lazio;20.2;1338;1469;91.1;28137;8848;421;449;93.8;684;721;94.9;214;270;79.3;0;0.4;-0.4;5;98;5;0;75
+3;Michel Aebischer\f9c927de;Michel Aebischer;ch SUI;SUI;MF;Bologna;0.6;45;50;90.0;828;162;22;25;88.0;15;16;93.8;7;7;100.0;0;0.1;-0.1;1;2;0;0;3
+4;Felix Afena-Gyan\0154d290;Felix Afena-Gyan;gh GHA;GHA;FW;Roma;6.0;100;132;75.8;1448;243;60;75;80.0;33;42;78.6;4;7;57.1;0;0.2;-0.2;4;3;6;2;10
+5;Kevin Agudelo\46fa7204;Kevin Agudelo;co COL;COL;FWMF;Spezia;7.6;156;211;73.9;2363;713;83;100;83.0;67;84;79.8;2;11;18.2;0;0.6;-0.6;7;11;8;2;20
+6;Ola Aina\246d153b;Ola Aina;ng NGA;NGA;DF;Torino;11.8;384;546;70.3;6900;3016;184;216;85.2;143;192;74.5;51;106;48.1;0;1.3;-1.3;13;34;18;5;49
+7;Marley Aké\414e1f69;Marley Aké;fr FRA;FRA;FW;Juventus;0.1;4;4;100.0;74;23;1;1;100.0;1;1;100.0;1;1;100.0;0;0.0;0.0;0;0;1;1;0
+8;Jean-Daniel Akpa-Akpro\fdf4b948;Jean-Daniel Akpa-Akpro;ci CIV;CIV;MF;Lazio;3.4;86;105;81.9;1172;177;51;60;85.0;28;31;90.3;2;2;100.0;0;0.0;0.0;2;5;1;0;3
+9;Luis Alberto\5294a83f;Luis Alberto;es ESP;ESP;MF;Lazio;20.9;1342;1601;83.8;22865;7456;664;723;91.8;507;584;86.8;136;238;57.1;7;5.5;+1.5;51;167;42;6;143
+10;Giorgio Altare\aa5322d5;Giorgio Altare;it ITA;ITA;DF;Cagliari;8.8;276;403;68.5;6351;2577;73;92;79.3;128;162;79.0;72;138;52.2;0;0.0;0.0;1;16;4;2;26
+11;Kelvin Amian\bcc81786;Kelvin Amian;fr FRA;FRA;DF;Spezia;21.4;686;859;79.9;11216;5108;358;402;89.1;257;312;82.4;54;102;52.9;1;1.0;0.0;9;43;7;2;52
+12;Nadiem Amiri\555d5edd;Nadiem Amiri;de GER;GER;MFFW;Genoa;1.9;47;71;66.2;759;197;26;31;83.9;16;24;66.7;5;14;35.7;0;0.1;-0.1;5;4;0;0;4
+13;Ethan Ampadu\10b9fa99;Ethan Ampadu;wls WAL; WAL;MFDF;Venezia;18.4;616;814;75.7;12421;4470;225;269;83.6;284;341;83.3;101;175;57.7;2;1.4;+0.6;13;56;9;5;62
+14;Sofyan Amrabat\5a2cb25d;Sofyan Amrabat;ma MAR;MAR;MF;Fiorentina;5.1;272;304;89.5;5754;1200;87;94;92.6;129;140;92.1;51;57;89.5;0;0.1;-0.1;3;29;3;0;27
+15;Felipe Anderson\9f1893b9;Felipe Anderson;br BRA;BRA;FW;Lazio;24.2;876;1115;78.6;13759;3445;498;581;85.7;294;362;81.2;64;108;59.3;5;5.6;-0.6;41;36;46;9;94
+16;Ebenezer Annan\39aa05a7;Ebenezer Annan;gh GHA;GHA;DF;Bologna;0.3;4;11;36.4;66;27;2;2;100.0;2;4;50.0;0;4;0.0;0;0.0;0.0;0;1;0;0;0
+17;Cristian Ansaldi\bbafc0c4;Cristian Ansaldi;ar ARG;ARG;DF;Torino;5.9;220;314;70.1;4360;2250;99;109;90.8;76;107;71.0;40;81;49.4;3;1.0;+2.0;13;35;10;8;35
+18;Janis Antiste\38d9ce53;Janis Antiste;fr FRA;FRA;FWMF;Spezia;6.9;102;154;66.2;1396;261;60;83;72.3;34;47;72.3;3;8;37.5;0;0.2;-0.2;3;4;6;2;7
+19;Mattia Aramu\0847b5a5;Mattia Aramu;it ITA;ITA;MFFW;Venezia;17.6;404;615;65.7;7312;2511;189;231;81.8;146;197;74.1;59;147;40.1;4;3.6;+0.4;31;28;24;11;46
+20;Marko Arnautovi?\00459419;Marko Arnautovi?;at AUT;AUT;FW;Bologna;23.3;523;719;72.7;7540;1223;307;399;76.9;173;228;75.9;24;40;60.0;1;3.3;-2.3;31;19;17;1;37
+21;Tolgay Arslan\963a328b;Tolgay Arslan;de GER;GER;MF;Udinese;15.8;414;522;79.3;7783;1846;169;200;84.5;177;208;85.1;58;90;64.4;0;1.3;-1.3;13;51;6;1;44
+22;Arthur\a820e429;Arthur;br BRA;BRA;FW;Fiorentina;1.7;23;34;67.6;337;81;16;21;76.2;5;9;55.6;2;3;66.7;1;0.0;+1.0;1;2;0;0;3
+23;Kristoffer Askildsen\a69cc629;Kristoffer Askildsen;no NOR;NOR;MF;Sampdoria;8.1;146;215;67.9;2309;873;78;97;80.4;53;73;72.6;11;30;36.7;0;0.2;-0.2;2;13;2;0;22
+24;Kristjan Asllani\0fdcef0e;Kristjan Asllani;al ALB;ALB;MF;Empoli;7.9;354;427;82.9;7618;1743;111;127;87.4;168;186;90.3;70;106;66.0;0;0.6;-0.6;5;33;1;0;25
+25;Emil Audero\649b01d8;Emil Audero;it ITA;ITA;GK;Sampdoria;20.5;472;687;68.7;16206;10658;62;62;100.0;180;186;96.8;229;438;52.3;0;0.0;0.0;1;13;0;0;0
+26;Tommaso Augello\3cd3b384;Tommaso Augello;it ITA;ITA;DF;Sampdoria;20.8;793;1036;76.5;14520;6455;319;380;83.9;389;466;83.5;75;145;51.7;0;1.2;-1.2;14;49;25;10;98
+27;Ramzi Aya\6a1f66a7;Ramzi Aya;it ITA;ITA;DF;Salernitana;1.5;18;28;64.3;386;153;5;6;83.3;9;14;64.3;4;8;50.0;0;0.0;0.0;0;2;0;0;3
+28;Kaan Ayhan\2200181e;Kaan Ayhan;tr TUR;TUR;DF;Sassuolo;9.5;485;547;88.7;10807;3985;153;164;93.3;228;248;91.9;99;128;77.3;0;0.0;0.0;1;45;1;0;46
+29;Milan Badelj\e8c930bb;Milan Badelj;hr CRO;CRO;MF;Genoa;25.5;1001;1260;79.4;19822;5924;367;434;84.6;476;556;85.6;139;223;62.3;0;2.1;-2.1;20;96;12;2;112
+30;Nedim Bajrami\f42d6c13;Nedim Bajrami;al ALB;ALB;MFFW;Empoli;19.1;509;734;69.3;8868;2887;264;304;86.8;174;231;75.3;62;153;40.5;3;4.5;-1.5;49;35;37;8;72
+31;Tiemoué Bakayoko\59bf127b;Tiemoué Bakayoko;fr FRA;FRA;MF;Milan;5.4;275;311;88.4;4915;932;129;148;87.2;104;113;92.0;35;40;87.5;0;0.5;-0.5;3;22;3;0;18
+32;Keita Baldé\509a4ccb;Keita Baldé;sn SEN;SEN;FWMF;Cagliari;10.3;137;191;71.7;1811;339;84;108;77.8;39;54;72.2;5;9;55.6;1;0.8;+0.2;7;12;3;0;8
+33;Fodé Ballo-Touré\f449640d;Fodé Ballo-Touré;sn SEN;SEN;DF;Milan;4.9;228;270;84.4;3880;1077;102;110;92.7;101;119;84.9;20;27;74.1;0;0.2;-0.2;3;12;8;4;18
+34;Filippo Bandinelli\d44360be;Filippo Bandinelli;it ITA;ITA;MF;Empoli;15.8;408;546;74.7;7270;2460;191;213;89.7;168;214;78.5;42;89;47.2;1;1.8;-0.8;23;35;34;12;71
+35;Mattia Bani\0821331c;Mattia Bani;it ITA;ITA;DF;Genoa;8.5;208;270;77.0;4519;1650;53;59;89.8;113;132;85.6;38;71;53.5;0;0.0;0.0;0;10;0;0;20
+36;Antonín Barák\01efac19;Antonín Barák;cz CZE;CZE;MFFW;Hellas Verona;22.6;809;1009;80.2;12031;3352;447;518;86.3;285;346;82.4;42;67;62.7;3;2.6;+0.4;25;64;22;1;97
+37;Nicolo Barella\6928979a;Nicolo Barella;it ITA;ITA;MF;Inter;24.7;1173;1408;83.3;20468;6358;596;661;90.2;427;493;86.6;130;193;67.4;9;5.8;+3.2;42;113;59;16;132
+38;Musa Barrow\e5bf73f3;Musa Barrow;gm GAM;GAM;FWMF;Bologna;17.7;502;658;76.3;8812;1888;261;293;89.1;165;211;78.2;63;129;48.8;4;2.8;+1.2;31;29;24;5;40
+39;Daniele Baselli\ea06dd97;Daniele Baselli;it ITA;ITA;MFFW;Torino;1.7;64;87;73.6;1228;364;24;33;72.7;29;36;80.6;10;14;71.4;0;0.0;0.0;1;8;0;0;3
+40;Daniele Baselli\ea06dd97;Daniele Baselli;it ITA;ITA;MF;Cagliari;2.4;77;105;73.3;1532;564;28;36;77.8;33;38;86.8;13;26;50.0;0;0.5;-0.5;5;13;4;1;12
+41;Toma Baši?\80556f08;Toma Baši?;hr CRO;CRO;MF;Lazio;8.2;282;336;83.9;4506;700;154;169;91.1;105;125;84.0;19;30;63.3;2;0.7;+1.3;2;12;0;0;6
+42;Alessandro Bastoni\75b86fb3;Alessandro Bastoni;it ITA;ITA;DF;Inter;21.8;1377;1541;89.4;27538;8246;513;552;92.9;626;675;92.7;211;267;79.0;1;1.2;-0.2;9;100;15;4;87
+43;Simone Bastoni\1ac232b8;Simone Bastoni;it ITA;ITA;DFMF;Spezia;22.1;805;1087;74.1;15004;6217;362;417;86.8;318;393;80.9;104;220;47.3;2;3.1;-1.1;38;77;27;12;87
+44;Rodrigo Becão\19e4eab9;Rodrigo Becão;br BRA;BRA;DF;Udinese;26.8;828;1021;81.1;16251;5715;295;323;91.3;413;469;88.1;105;195;53.8;1;0.6;+0.4;5;35;5;1;40
+45;Valon Behrami\d3d758d8;Valon Behrami;ch SUI;SUI;MF;Genoa;3.5;51;70;72.9;877;243;20;25;80.0;22;27;81.5;5;9;55.6;0;0.1;-0.1;1;4;0;0;4
+46;Vid Belec\4f8ce0e1;Vid Belec;si SVN;SVN;GK;Salernitana;20.0;336;541;62.1;13124;9592;38;39;97.4;111;111;100.0;185;387;47.8;0;0.0;0.0;0;12;1;0;0
+47;Raoul Bellanova\e3756e72;Raoul Bellanova;it ITA;ITA;DF;Cagliari;20.1;501;695;72.1;9197;2356;225;280;80.4;204;267;76.4;65;117;55.6;2;3.1;-1.1;25;19;20;15;30
+48;Andrea Belotti\d705ba44;Andrea Belotti;it ITA;ITA;FW;Torino;10.1;165;230;71.7;2196;293;109;132;82.6;42;57;73.7;5;14;35.7;1;0.9;+0.1;6;10;3;0;10
+49;Marco Benassi\0000acda;Marco Benassi;it ITA;ITA;DFMF;Fiorentina;1.8;108;131;82.4;2140;618;44;49;89.8;45;56;80.4;19;23;82.6;0;0.1;-0.1;1;10;1;0;9
+50;Marco Benassi\0000acda;Marco Benassi;it ITA;ITA;MF;Empoli;2.4;66;94;70.2;1154;468;33;39;84.6;27;35;77.1;6;10;60.0;0;0.1;-0.1;2;11;4;0;13
+51;Ismaël Bennacer\db092d3b;Ismaël Bennacer;dz ALG;ALG;MF;Milan;14.0;850;972;87.4;16668;4723;348;376;92.6;353;390;90.5;131;184;71.2;1;1.9;-0.9;17;84;19;3;99
+52;Rodrigo Bentancur\3b8674e6;Rodrigo Bentancur;uy URU;URU;MF;Juventus;12.8;660;756;87.3;12365;2858;256;279;91.8;316;346;91.3;76;100;76.0;1;0.3;+0.7;8;79;5;0;56
+53;Domenico Berardi\53a0e358;Domenico Berardi;it ITA;ITA;FW;Sassuolo;26.0;838;1182;70.9;17357;5299;341;430;79.3;312;416;75.0;164;248;66.1;7;7.0;0.0;65;74;51;7;164
+54;Bartosz Bereszy?ski\61b3978f;Bartosz Bereszy?ski;pl POL;POL;DF;Sampdoria;24.7;935;1208;77.4;14979;6254;480;551;87.1;344;434;79.3;74;144;51.4;3;0.9;+2.1;14;51;22;9;73
+55;Etrit Berisha\ee833569;Etrit Berisha;al ALB;ALB;GK;Torino;3.0;49;91;53.8;1836;1336;6;6;100.0;14;16;87.5;29;69;42.0;0;0.0;0.0;0;1;0;0;0
+56;Federico Bernardeschi\ee93c1a9;Federico Bernardeschi;it ITA;ITA;FWMF;Juventus;12.3;355;460;77.2;6298;1579;172;194;88.7;142;165;86.1;35;73;47.9;3;1.5;+1.5;14;22;17;2;46
+57;Daniel Bessa\88895312;Daniel Bessa;it ITA;ITA;MFFW;Hellas Verona;6.9;337;417;80.8;5850;1850;159;186;85.5;132;151;87.4;35;62;56.5;0;0.5;-0.5;9;32;12;0;44
+58;Beto\ed5c0319;Beto;gw GNB;GNB;FW;Udinese;23.3;241;346;69.7;3551;556;143;192;74.5;68;104;65.4;16;24;66.7;0;1.4;-1.4;16;15;6;0;19
+59;Luis Binks\36e88fbc;Luis Binks;eng ENG;ENG;DF;Bologna;6.1;219;264;83.0;5371;1693;52;68;76.5;108;119;90.8;58;71;81.7;0;0.0;0.0;1;15;0;0;14
+60;Cristiano Biraghi\9e1577aa;Cristiano Biraghi;it ITA;ITA;DF;Fiorentina;26.4;1572;1943;80.9;32370;11812;566;608;93.1;738;848;87.0;253;432;58.6;0;3.2;-3.2;45;88;46;26;115
+61;Davide Biraschi\64cd167d;Davide Biraschi;it ITA;ITA;DF;Genoa;10.3;317;432;73.4;6405;2589;114;140;81.4;146;179;81.6;52;104;50.0;0;0.3;-0.3;3;36;6;3;30
+62;Bjarki Bjarkason\f1d25de7;Bjarki Bjarkason;is ISL;ISL;FW;Venezia;0.0;1;2;50.0;8;0;1;1;100.0;0;0;;0;1;0.0;0;0.0;0.0;0;0;0;0;0
+63;Jeremie Boga\fe012aca;Jeremie Boga;ci CIV;CIV;FWMF;Atalanta;3.7;150;181;82.9;2023;413;102;116;87.9;40;47;85.1;3;6;50.0;0;0.1;-0.1;4;8;4;0;12
+64;Jeremie Boga\fe012aca;Jeremie Boga;ci CIV;CIV;FWMF;Sassuolo;7.4;221;271;81.5;3063;630;146;163;89.6;63;79;79.7;7;10;70.0;2;0.8;+1.2;7;6;4;1;17
+65;Luka Bogdan\cb678320;Luka Bogdan;hr CRO;CRO;DF;Salernitana;5.4;88;123;71.5;1810;767;25;29;86.2;49;63;77.8;12;25;48.0;0;0.0;0.0;1;1;0;0;5
+66;Emil Bohinen\c83c203f;Emil Bohinen;no NOR;NOR;MF;Salernitana;0.3;13;17;76.5;161;52;10;12;83.3;3;3;100.0;0;1;0.0;0;0.0;0.0;0;0;0;0;1
+67;Giacomo Bonaventura\d995ed27;Giacomo Bonaventura;it ITA;ITA;MF;Fiorentina;21.5;874;1058;82.6;16389;3301;378;422;89.6;364;436;83.5;116;168;69.0;2;2.3;-0.3;28;65;19;0;84
+68;Federico Bonazzoli\bf57eaab;Federico Bonazzoli;it ITA;ITA;FWMF;Salernitana;15.5;300;404;74.3;5684;991;146;181;80.7;98;125;78.4;49;72;68.1;0;0.6;-0.6;5;24;8;0;31
+69;Kevin Bonifazi\fb77bfef;Kevin Bonifazi;it ITA;ITA;DF;Bologna;10.2;418;505;82.8;9227;3285;130;142;91.5;201;227;88.5;82;130;63.1;0;0.8;-0.8;4;37;3;1;39
+70;Leonardo Bonucci\52ec54d0;Leonardo Bonucci;it ITA;ITA;DF;Juventus;16.9;838;957;87.6;21331;7945;147;159;92.5;445;468;95.1;239;313;76.4;0;0.4;-0.4;4;54;4;0;46
+71;Mehdi Bourabia\0d077b88;Mehdi Bourabia;ma MAR;MAR;MF;Spezia;3.1;93;116;80.2;1511;376;43;47;91.5;47;53;88.7;3;14;21.4;0;0.0;0.0;1;7;0;0;6
+72;Edoardo Bove\ae94a6c5;Edoardo Bove;it ITA;ITA;MFFW;Roma;0.6;23;27;85.2;472;120;14;16;87.5;5;6;83.3;4;5;80.0;0;0.0;0.0;0;3;0;0;4
+73;Josip Brekalo\d4a2533d;Josip Brekalo;hr CRO;CRO;MFFW;Torino;18.7;615;874;70.4;11695;2818;274;339;80.8;221;290;76.2;100;185;54.1;1;3.7;-2.7;40;39;27;7;67
+74;Gleison Bremer\5fd5ed86;Gleison Bremer;br BRA;BRA;DF;Torino;26.3;1052;1235;85.2;24036;6047;242;282;85.8;563;619;91.0;234;307;76.2;1;0.2;+0.8;7;48;2;0;46
+75;Marcelo Brozovi?\33b8d077;Marcelo Brozovi?;hr CRO;CRO;MF;Inter;24.0;1782;1947;91.5;36096;10283;664;712;93.3;799;852;93.8;301;351;85.8;1;1.5;-0.5;25;169;24;7;161
+76;Aleksander Buksa\59f2d958;Aleksander Buksa;pl POL;POL;FW;Genoa;0.7;6;15;40.0;72;33;5;8;62.5;1;3;33.3;0;2;0.0;0;0.0;0.0;0;1;1;0;3
+77;Alessandro Buongiorno\4ae67f27;Alessandro Buongiorno;it ITA;ITA;DF;Torino;10.0;353;435;81.1;6391;1883;162;180;90.0;142;173;82.1;42;69;60.9;1;0.7;+0.3;5;29;1;1;23
+78;Gianluca Busio\4a0b7f07;Gianluca Busio;us USA;USA;MF;Venezia;19.2;678;816;83.1;13779;3161;249;289;86.2;304;339;89.7;112;158;70.9;1;1.6;-0.6;17;57;11;1;50
+79;Jovane Cabral\e34e086c;Jovane Cabral;cv CPV;CPV;FW;Lazio;0.7;14;15;93.3;260;47;8;8;100.0;4;5;80.0;2;2;100.0;0;0.0;0.0;0;1;0;0;1
+80;Liberato Cacace\dd86e8e4;Liberato Cacace;nz NZL;NZL;DF;Empoli;1.9;100;117;85.5;1639;591;50;53;94.3;40;46;87.0;7;12;58.3;0;0.0;0.0;0;5;0;0;5
+81;Martín Cáceres\e94d79e3;Martín Cáceres;uy URU;URU;DF;Cagliari;9.2;318;458;69.4;6934;2499;105;126;83.3;141;184;76.6;65;126;51.6;1;0.4;+0.6;5;31;4;1;26
+82;Felipe Caicedo\93b891d1;Felipe Caicedo;ec ECU;ECU;FW;Genoa;3.2;53;78;67.9;660;95;36;47;76.6;11;18;61.1;1;3;33.3;2;0.9;+1.1;6;2;3;0;4
+83;Felipe Caicedo\93b891d1;Felipe Caicedo;ec ECU;ECU;FWMF;Inter;0.1;2;5;40.0;22;6;0;3;0.0;1;1;100.0;0;0;;0;0.2;-0.2;1;0;1;0;1
+84;Davide Calabria\2146785a;Davide Calabria;it ITA;ITA;DF;Milan;16.9;742;966;76.8;14133;5998;309;348;88.8;324;401;80.8;100;186;53.8;3;1.2;+1.8;14;76;19;12;86
+85;Riccardo Calafiori\aded8e6f;Riccardo Calafiori;it ITA;ITA;DF;Roma;1.9;67;83;80.7;1164;337;33;37;89.2;25;28;89.3;8;15;53.3;1;0.8;+0.2;1;0;2;1;3
+86;Riccardo Calafiori\aded8e6f;Riccardo Calafiori;it ITA;ITA;DF;Genoa;0.9;11;20;55.0;217;114;2;4;50.0;9;14;64.3;0;1;0.0;0;0.0;0.0;0;0;0;0;2
+87;Mattia Caldara\ac7e640b;Mattia Caldara;it ITA;ITA;DF;Venezia;23.0;735;894;82.2;16475;5880;218;237;92.0;354;401;88.3;160;244;65.6;0;0.0;0.0;1;42;2;0;40
+88;Hakan Calhanoglu\cd0fa27b;Hakan Calhanoglu;tr TUR;TUR;MF;Inter;20.3;1119;1383;80.9;22442;6311;460;508;90.6;441;503;87.7;196;327;59.9;8;5.7;+2.3;64;107;32;9;108
+89;José Callejón\78841da9;José Callejón;es ESP;ESP;FW;Fiorentina;13.5;449;575;78.1;7949;2049;220;257;85.6;177;216;81.9;48;87;55.2;2;3.0;-1.0;21;23;19;6;42
+90;Andrea Cambiaso\247ed022;Andrea Cambiaso;it ITA;ITA;DF;Genoa;19.5;696;892;78.0;11649;3867;342;384;89.1;291;362;80.4;52;98;53.1;4;1.8;+2.2;18;33;18;8;51
+91;Matteo Cancellieri\b6a1cdf9;Matteo Cancellieri;it ITA;ITA;MFDF;Hellas Verona;2.2;42;60;70.0;597;195;29;34;85.3;8;16;50.0;5;7;71.4;0;0.2;-0.2;3;5;3;0;4
+92;Antonio Candreva\356c9002;Antonio Candreva;it ITA;ITA;MFFW;Sampdoria;27.3;1023;1536;66.6;21174;7976;441;528;83.5;333;478;69.7;223;454;49.1;8;5.5;+2.5;68;109;62;21;152
+93;Leonardo Capezzi\07ea0ef2;Leonardo Capezzi;it ITA;ITA;MF;Salernitana;1.9;41;48;85.4;714;210;19;23;82.6;17;18;94.4;4;5;80.0;0;0.0;0.0;0;2;1;0;3
+94;Gianluca Caprari\54e53b7e;Gianluca Caprari;it ITA;ITA;FWMF;Hellas Verona;22.7;756;1004;75.3;11710;3324;418;479;87.3;241;314;76.8;63;135;46.7;7;5.2;+1.8;50;49;55;5;101
+95;Francesco Caputo\5bd72174;Francesco Caputo;it ITA;ITA;FW;Sampdoria;24.0;356;473;75.3;5121;681;213;273;78.0;109;137;79.6;20;33;60.6;3;2.9;+0.1;30;15;14;1;22
+96;Francesco Caputo\5bd72174;Francesco Caputo;it ITA;ITA;FW;Sassuolo;1.7;28;35;80.0;367;35;16;20;80.0;10;11;90.9;0;0;;1;0.4;+0.6;3;1;1;0;2
+97;Andrea Carboni\f7e2af2c;Andrea Carboni;it ITA;ITA;DF;Cagliari;19.9;661;872;75.8;13107;4587;245;270;90.7;317;380;83.4;92;195;47.2;0;0.0;0.0;2;57;8;3;60
+98;Nicolò Casale\3f5f38fb;Nicolò Casale;it ITA;ITA;DF;Hellas Verona;21.3;716;879;81.5;13637;4824;257;300;85.7;342;398;85.9;95;141;67.4;2;1.2;+0.8;10;48;9;5;57
+99;Francesco Cassata\96960855;Francesco Cassata;it ITA;ITA;MF;Genoa;0.1;1;1;100.0;50;4;0;0;;0;0;;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+100;Samu Castillejo\130a7a3f;Samu Castillejo;es ESP;ESP;FWMF;Milan;1.4;56;68;82.4;1028;235;29;31;93.5;13;14;92.9;13;19;68.4;0;0.2;-0.2;2;3;4;3;4
+101;Gaetano Castrovilli\0728bebe;Gaetano Castrovilli;it ITA;ITA;MF;Fiorentina;12.7;315;435;72.4;5557;1554;136;165;82.4;141;177;79.7;27;61;44.3;1;1.3;-0.3;9;24;19;1;47
+102;Danilo Cataldi\ba3d3bea;Danilo Cataldi;it ITA;ITA;MF;Lazio;14.5;871;1003;86.8;16134;4557;389;411;94.6;356;401;88.8;111;168;66.1;1;1.7;-0.7;12;73;11;0;57
+103;Pietro Ceccaroni\4d1efb48;Pietro Ceccaroni;it ITA;ITA;DF;Venezia;25.7;1053;1263;83.4;21805;8375;290;325;89.2;613;663;92.5;146;256;57.0;1;0.1;+0.9;3;57;4;2;55
+104;Federico Ceccherini\d9624b51;Federico Ceccherini;it ITA;ITA;DF;Hellas Verona;19.6;751;930;80.8;14245;5042;294;346;85.0;340;383;88.8;100;166;60.2;0;0.7;-0.7;8;60;6;0;67
+105;Emil Ceide\98a84572;Emil Ceide;no NOR;NOR;FW;Sassuolo;0.2;5;12;41.7;68;27;2;3;66.7;3;5;60.0;0;0;;0;0.0;0.0;0;0;1;0;2
+106;Luca Ceppitelli\7d50454d;Luca Ceppitelli;it ITA;ITA;DF;Cagliari;12.6;541;642;84.3;10905;3341;180;194;92.8;272;297;91.6;81;133;60.9;1;0.0;+1.0;0;23;2;0;32
+107;Damir Ceter\eade5337;Damir Ceter;co COL;COL;FW;Cagliari;0.1;1;2;50.0;55;0;0;1;0.0;0;0;;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+108;Julian Chabot\ae7058f9;Julian Chabot;de GER;GER;DF;Sampdoria;5.4;202;245;82.4;4756;1713;53;59;89.8;99;108;91.7;48;76;63.2;0;0.0;0.0;0;15;1;0;19
+109;Giorgio Chiellini\e85fb9b8;Giorgio Chiellini;it ITA;ITA;DF;Juventus;11.0;589;694;84.9;13198;4241;143;156;91.7;317;358;88.5;121;166;72.9;0;0.1;-0.1;3;51;1;0;39
+110;Federico Chiesa\b0f7e36c;Federico Chiesa;it ITA;ITA;MFFW;Juventus;9.6;219;284;77.1;4221;1300;96;115;83.5;81;101;80.2;33;53;62.3;1;1.2;-0.2;17;13;12;6;29
+111;Vlad Chiriche?\c316607a;Vlad Chiriche?;ro ROU;ROU;DF;Sassuolo;21.1;1032;1123;91.9;21749;5961;340;361;94.2;483;519;93.1;193;219;88.1;0;0.1;-0.1;3;30;1;0;38
+112;Riccardo Ciervo\da77b60b;Riccardo Ciervo;it ITA;ITA;MFDF;Sampdoria;2.5;52;73;71.2;991;226;19;25;76.0;22;30;73.3;8;12;66.7;1;0.2;+0.8;4;4;1;1;3
+113;Moustapha Cissé\ee3c4b3f;Moustapha Cissé;gn GUI;GUI;FW;Atalanta;0.3;3;6;50.0;40;1;2;3;66.7;1;2;50.0;0;0;;0;0.0;0.0;0;0;0;0;0
+114;Giorgio Cittadini\e4ba67f2;Giorgio Cittadini;it ITA;ITA;DF;Atalanta;0.0;1;2;50.0;22;21;0;0;;1;2;50.0;0;0;;0;0.0;0.0;0;0;0;0;1
+115;Ebrima Colley\bf356094;Ebrima Colley;gm GAM;GAM;FWMF;Spezia;4.4;88;128;68.8;1614;527;39;46;84.8;39;55;70.9;10;24;41.7;0;1.6;-1.6;6;6;8;3;14
+116;Omar Colley\8b95acda;Omar Colley;gm GAM;GAM;DF;Sampdoria;23.5;893;1074;83.1;18876;5431;223;255;87.5;509;556;91.5;140;233;60.1;0;0.0;0.0;0;55;1;0;53
+117;Andrea Consigli\8cabdc1e;Andrea Consigli;it ITA;ITA;GK;Sassuolo;29.0;911;1165;78.2;25909;14082;190;193;98.4;346;351;98.6;365;611;59.7;0;0.1;-0.1;1;6;1;0;0
+118;Andrea Conti\8fef5412;Andrea Conti;it ITA;ITA;DF;Milan;0.1;4;5;80.0;67;6;3;3;100.0;0;1;0.0;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+119;Andrea Conti\8fef5412;Andrea Conti;it ITA;ITA;DFMF;Sampdoria;2.5;61;77;79.2;919;377;39;45;86.7;16;24;66.7;6;7;85.7;0;0.0;0.0;0;3;1;0;3
+120;Diego Coppola\22ae86f9;Diego Coppola;it ITA;ITA;DF;Hellas Verona;1.8;49;60;81.7;1014;355;18;21;85.7;19;24;79.2;11;14;78.6;0;0.0;0.0;0;3;0;0;5
+121;Joaquín Correa\45b9b619;Joaquín Correa;ar ARG;ARG;FW;Inter;6.6;151;189;79.9;2120;520;93;113;82.3;48;56;85.7;6;9;66.7;1;1.1;-0.1;12;12;12;1;21
+122;Lassana Coulibaly\85a44ecc;Lassana Coulibaly;ml MLI;MLI;MF;Salernitana;19.0;526;632;83.2;8957;2578;250;289;86.5;214;248;86.3;53;68;77.9;0;0.3;-0.3;9;55;8;0;49
+123;Mamadou Coulibaly\c976160c;Mamadou Coulibaly;sn SEN;SEN;MFFW;Salernitana;8.3;212;285;74.4;3717;1092;98;119;82.4;86;105;81.9;24;38;63.2;0;0.2;-0.2;5;24;2;1;22
+124;Alessio Cragno\f554e29b;Alessio Cragno;it ITA;ITA;GK;Cagliari;27.0;600;954;62.9;22364;15993;91;91;100.0;180;186;96.8;327;675;48.4;0;0.0;0.0;0;19;0;0;0
+125;Domenico Criscito\35dd6d80;Domenico Criscito;it ITA;ITA;DF;Genoa;14.4;626;798;78.4;12503;4871;212;234;90.6;323;369;87.5;83;173;48.0;1;0.5;+0.5;6;46;6;1;63
+126;Bryan Cristante\16657b95;Bryan Cristante;it ITA;ITA;MF;Roma;24.1;1187;1432;82.9;25532;7614;373;440;84.8;573;643;89.1;227;316;71.8;0;1.3;-1.3;13;181;17;2;146
+127;Domen ?rnigoj\22cd43d2;Domen ?rnigoj;si SVN;SVN;MFDF;Venezia;15.2;360;500;72.0;6759;2046;176;213;82.6;118;159;74.2;54;89;60.7;1;0.8;+0.2;9;29;5;4;30
+128;Giovanni Crociata\8c964914;Giovanni Crociata;it ITA;ITA;FW;Empoli;0.2;7;9;77.8;92;18;5;6;83.3;2;3;66.7;0;0;;0;0.0;0.0;0;1;1;0;1
+129;Juan Cuadrado\0ab1f153;Juan Cuadrado;co COL;COL;DFMF;Juventus;23.1;1365;1607;84.9;28260;8872;514;562;91.5;608;678;89.7;235;340;69.1;2;4.4;-2.4;48;97;36;15;143
+130;Mickaël Cuisance\5722eced;Mickaël Cuisance;fr FRA;FRA;MF;Venezia;5.8;153;211;72.5;2921;783;64;78;82.1;64;82;78.0;23;41;56.1;0;0.4;-0.4;6;16;3;0;11
+131;Patrick Cutrone\a4fe8cda;Patrick Cutrone;it ITA;ITA;FW;Empoli;12.8;149;219;68.0;2448;472;81;103;78.6;50;70;71.4;15;26;57.7;0;0.8;-0.8;7;7;6;1;15
+132;Danilo D'Ambrosio\44eb9093;Danilo D'Ambrosio;it ITA;ITA;DF;Inter;7.8;486;540;90.0;9566;2729;192;205;93.7;222;235;94.5;68;92;73.9;0;0.0;0.0;1;26;3;0;20
+133;Mikkel Damsgaard\215f3907;Mikkel Damsgaard;dk DEN;DEN;MFFW;Sampdoria;5.7;178;231;77.1;2915;752;89;104;85.6;68;89;76.4;17;29;58.6;0;0.4;-0.4;9;16;7;1;24
+134;Danilo\94b2001f;Danilo;br BRA;BRA;DFMF;Juventus;16.0;933;1075;86.8;18612;6727;317;337;94.1;479;527;90.9;126;190;66.3;1;0.7;+0.3;9;87;9;4;65
+135;Ebrima Darboe\cf043a33;Ebrima Darboe;gm GAM;GAM;MF;Roma;0.7;38;40;95.0;921;150;6;6;100.0;20;22;90.9;11;11;100.0;0;0.0;0.0;0;4;0;0;1
+136;Matteo Darmian\96e0490d;Matteo Darmian;it ITA;ITA;DF;Inter;14.3;467;587;79.6;8271;3201;201;223;90.1;219;265;82.6;39;68;57.4;1;1.3;-0.3;13;22;18;9;52
+137;Pawe? Dawidowicz\16bb656a;Pawe? Dawidowicz;pl POL;POL;DF;Hellas Verona;13.2;520;603;86.2;9812;2884;195;207;94.2;245;282;86.9;68;89;76.4;0;0.1;-0.1;4;38;3;0;28
+138;Sebastien De Maio\952a03fe;Sebastien De Maio;fr FRA;FRA;DF;Udinese;2.0;53;75;70.7;1202;529;13;15;86.7;31;35;88.6;9;24;37.5;0;0.3;-0.3;1;3;0;0;2
+139;Tommaso De Nipoti\7f9d956a;Tommaso De Nipoti;it ITA;ITA;MF;Atalanta;0.1;1;2;50.0;9;0;1;2;50.0;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+140;Mattia De Sciglio\ae4e2852;Mattia De Sciglio;it ITA;ITA;DF;Juventus;9.8;414;511;81.0;8054;3127;171;198;86.4;180;206;87.4;58;90;64.4;1;1.5;-0.5;17;28;14;11;36
+141;Lorenzo De Silvestri\e74f0e59;Lorenzo De Silvestri;it ITA;ITA;DF;Bologna;20.3;818;1086;75.3;13864;6746;399;480;83.1;338;413;81.8;68;145;46.9;1;1.1;-0.1;18;73;20;11;79
+142;Grégoire Defrel\854ee61a;Grégoire Defrel;mq MTQ;MTQ;FW;Sassuolo;12.0;270;315;85.7;3617;507;178;197;90.4;71;85;83.5;10;16;62.5;2;1.5;+0.5;15;12;10;0;18
+143;Alessandro Deiola\7f267d66;Alessandro Deiola;it ITA;ITA;MF;Cagliari;18.5;488;608;80.3;9842;2085;174;202;86.1;214;265;80.8;86;111;77.5;1;1.1;-0.1;9;32;9;1;47
+144;Filippo Delli Carri\d2e8fd9b;Filippo Delli Carri;it ITA;ITA;DF;Salernitana;4.7;86;120;71.7;1419;772;40;48;83.3;38;50;76.0;6;14;42.9;0;0.1;-0.1;1;5;1;1;4
+145;Merih Demiral\e3cceee6;Merih Demiral;tr TUR;TUR;DF;Atalanta;17.9;571;657;86.9;12508;2792;139;156;89.1;316;346;91.3;109;138;79.0;1;0.0;+1.0;1;21;0;0;20
+146;Diego Demme\dc3fa3b5;Diego Demme;de GER;GER;MF;Napoli;6.2;436;480;90.8;7303;1742;216;226;95.6;176;191;92.1;34;51;66.7;0;0.3;-0.3;3;33;4;2;24
+147;Fabio Depaoli\d97f2e8d;Fabio Depaoli;it ITA;ITA;MFDF;Sampdoria;1.2;22;33;66.7;401;153;10;10;100.0;9;11;81.8;3;6;50.0;0;0.0;0.0;0;3;0;0;4
+148;Fabio Depaoli\d97f2e8d;Fabio Depaoli;it ITA;ITA;DF;Hellas Verona;4.6;114;176;64.8;2042;1056;54;73;74.0;46;60;76.7;12;31;38.7;1;0.2;+0.8;2;8;10;4;18
+149;Mattia Destro\d7d32194;Mattia Destro;it ITA;ITA;FW;Genoa;15.8;177;291;60.8;2523;652;111;165;67.3;51;89;57.3;9;18;50.0;1;1.0;0.0;9;18;5;1;24
+150;Gerard Deulofeu\39583cfd;Gerard Deulofeu;es ESP;ESP;FWMF;Udinese;21.9;542;773;70.1;9303;3368;278;337;82.5;197;236;83.5;60;140;42.9;2;4.6;-2.6;52;27;45;4;79
+151;Jacopo Dezi\e921b9db;Jacopo Dezi;it ITA;ITA;MF;Venezia;0.2;22;26;84.6;495;144;5;6;83.3;14;15;93.3;3;5;60.0;0;0.0;0.0;1;3;3;1;5
+152;Samuel Di Carmine\ef94dc2f;Samuel Di Carmine;it ITA;ITA;FW;Hellas Verona;0.4;5;5;100.0;81;8;3;3;100.0;2;2;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+153;Federico Di Francesco\1fca9171;Federico Di Francesco;it ITA;ITA;FWMF;Empoli;12.6;221;336;65.8;3612;1177;122;150;81.3;67;103;65.0;20;53;37.7;0;1.0;-1.0;15;22;12;1;34
+154;Giovanni Di Lorenzo\230a2fac;Giovanni Di Lorenzo;it ITA;ITA;DF;Napoli;29.0;1903;2162;88.0;32245;11593;916;992;92.3;808;888;91.0;147;198;74.2;3;2.6;+0.4;28;142;37;5;149
+155;Francesco Di Mariano\35a2557c;Francesco Di Mariano;it ITA;ITA;FW;Venezia;0.7;11;14;78.6;230;28;3;4;75.0;5;6;83.3;3;4;75.0;0;0.1;-0.1;1;0;1;1;0
+156;Francesco Di Tacchio\b5c3ff9f;Francesco Di Tacchio;it ITA;ITA;MF;Salernitana;13.9;433;536;80.8;7982;2557;182;206;88.3;175;203;86.2;63;102;61.8;0;0.1;-0.1;3;50;8;0;50
+157;Amadou Diawara\bf309d24;Amadou Diawara;gn GUI;GUI;MF;Roma;1.9;55;70;78.6;944;222;27;30;90.0;24;29;82.8;3;8;37.5;0;0.0;0.0;1;4;0;0;3
+158;Brahim Díaz\407feb71;Brahim Díaz;es ESP;ESP;MF;Milan;17.4;555;650;85.4;9031;2015;291;326;89.3;202;227;89.0;43;66;65.2;3;2.1;+0.9;25;50;24;2;60
+159;Mitchell Dijks\0a3065c8;Mitchell Dijks;nl NED;NED;DF;Bologna;3.6;108;138;78.3;1843;809;50;59;84.7;46;56;82.1;11;18;61.1;0;0.2;-0.2;3;4;2;2;8
+160;Federico Dimarco\970b8574;Federico Dimarco;it ITA;ITA;DF;Inter;11.8;724;886;81.7;13705;5011;342;358;95.5;258;299;86.3;107;185;57.8;2;4.2;-2.2;40;52;25;13;69
+161;Filippo Distefano\2110f96c;Filippo Distefano;it ITA;ITA;FW;Fiorentina;0.0;2;2;100.0;45;0;0;0;;2;2;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+162;Koffi Djidji\933d3b51;Koffi Djidji;ci CIV;CIV;DF;Torino;17.4;656;769;85.3;13217;3713;230;258;89.1;308;329;93.6;108;160;67.5;0;0.1;-0.1;2;41;7;2;47
+163;Berat Djimsiti\6eee05f1;Berat Djimsiti;al ALB;ALB;DF;Atalanta;19.0;919;1099;83.6;17030;6054;405;451;89.8;375;416;90.1;126;199;63.3;1;0.7;+0.3;7;65;10;5;62
+164;Nicolás Domínguez\20b3a502;Nicolás Domínguez;ar ARG;ARG;MF;Bologna;18.9;851;1020;83.4;15912;4154;374;413;90.6;347;391;88.7;119;178;66.9;2;1.4;+0.6;22;79;25;2;81
+165;Bart?omiej Dr?gowski\085e71a7;Bart?omiej Dr?gowski;pl POL;POL;GK;Fiorentina;6.2;271;344;78.8;7848;3865;40;40;100.0;114;117;97.4;115;185;62.2;0;0.0;0.0;0;4;0;0;0
+166;Radu Dr?gu?in\620922ed;Radu Dr?gu?in;ro ROU;ROU;DF;Sampdoria;6.9;179;258;69.4;3990;1538;40;57;70.2;98;130;75.4;38;65;58.5;0;0.1;-0.1;3;10;3;1;12
+167;Radu Dr?gu?in\620922ed;Radu Dr?gu?in;ro ROU;ROU;DF;Salernitana;5.0;125;146;85.6;2697;923;38;41;92.7;61;68;89.7;24;31;77.4;0;0.0;0.0;1;3;0;0;6
+168;Denzel Dumfries\481c9ece;Denzel Dumfries;nl NED;NED;DF;Inter;16.0;454;605;75.0;7520;2705;229;270;84.8;178;236;75.4;36;69;52.2;3;3.5;-0.5;21;23;21;6;58
+169;Alfred Duncan\528492ea;Alfred Duncan;gh GHA;GHA;MF;Fiorentina;14.5;444;578;76.8;9307;2741;168;200;84.0;185;232;79.7;83;117;70.9;2;1.5;+0.5;17;57;22;3;70
+170;Paulo Dybala\e0921a4f;Paulo Dybala;ar ARG;ARG;FWMF;Juventus;16.7;713;867;82.2;13336;2758;338;394;85.8;259;299;86.6;105;147;71.4;5;3.2;+1.8;30;53;22;4;74
+171;Edin D?eko\3bb7f478;Edin D?eko;ba BIH;BIH;FW;Inter;22.0;484;673;71.9;8485;2072;242;308;78.6;163;216;75.5;63;96;65.6;5;4.3;+0.7;34;39;36;8;66
+172;Tyronne Ebuehi\6af30900;Tyronne Ebuehi;ng NGA;NGA;DF;Venezia;10.9;358;461;77.7;6475;2243;156;182;85.7;161;192;83.9;37;62;59.7;0;0.3;-0.3;4;15;9;5;25
+173;Éderson\a9202def;Éderson;br BRA;BRA;MF;Salernitana;4.1;151;173;87.3;2723;510;71;82;86.6;55;59;93.2;20;24;83.3;0;0.1;-0.1;1;10;2;0;9
+174;Albin Ekdal\f503ea63;Albin Ekdal;se SWE;SWE;MF;Sampdoria;16.6;535;666;80.3;9466;2439;249;284;87.7;220;268;82.1;58;90;64.4;0;0.3;-0.3;5;43;7;0;66
+175;Caleb Ekuban\7afbd2c3;Caleb Ekuban;gh GHA;GHA;FWMF;Genoa;15.6;239;346;69.1;3340;663;158;198;79.8;62;94;66.0;12;18;66.7;1;2.2;-1.2;12;13;6;0;19
+176;Elif Elmas\cf007308;Elif Elmas;mk MKD;MKD;FWMF;Napoli;15.9;630;722;87.3;9056;1793;383;419;91.4;194;214;90.7;32;54;59.3;2;1.9;+0.1;19;41;18;2;32
+177;Martin Erlic\0fee6bda;Martin Erlic;hr CRO;CRO;DF;Spezia;22.2;690;833;82.8;15752;4427;171;193;88.6;367;405;90.6;141;217;65.0;0;0.3;-0.3;4;27;1;0;16
+178;Gonzalo Escalante\3f79a1c8;Gonzalo Escalante;ar ARG;ARG;MF;Lazio;0.1;4;5;80.0;72;10;1;1;100.0;3;4;75.0;0;0;;0;0.0;0.0;0;0;0;0;0
+179;Diego Falcinelli\a39b9ef6;Diego Falcinelli;it ITA;ITA;FWMF;Bologna;0.7;13;20;65.0;174;19;10;15;66.7;1;3;33.3;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+180;Wladimiro Falcone\9f5a610b;Wladimiro Falcone;it ITA;ITA;GK;Sampdoria;9.5;250;358;69.8;7775;4587;47;48;97.9;90;92;97.8;112;217;51.6;0;0.0;0.0;0;3;0;0;0
+181;Paolo Faragò\9085dd7c;Paolo Faragò;it ITA;ITA;MF;Cagliari;0.2;7;8;87.5;97;10;2;2;100.0;3;4;75.0;0;0;;0;0.0;0.0;0;1;0;0;0
+182;Davide Faraoni\aae9d04a;Davide Faraoni;it ITA;ITA;DF;Hellas Verona;22.7;781;1093;71.5;14613;7558;362;428;84.6;295;395;74.7;113;234;48.3;5;2.7;+2.3;18;70;50;17;121
+183;Mohamed Fares\b7a5bc86;Mohamed Fares;dz ALG;ALG;DFFW;Genoa;6.5;178;258;69.0;3326;1352;94;113;83.2;52;78;66.7;31;54;57.4;1;0.5;+0.5;5;10;11;6;25
+184;Diego Farias\157d29b6;Diego Farias;br BRA;BRA;MFFW;Cagliari;0.7;29;35;82.9;510;59;14;15;93.3;13;16;81.3;1;2;50.0;0;0.0;0.0;0;0;1;0;1
+185;Andrea Favilli\44510fde;Andrea Favilli;it ITA;ITA;FW;Genoa;0.4;5;6;83.3;66;0;4;4;100.0;1;1;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+186;Federico Fazio\4e358a2d;Federico Fazio;ar ARG;ARG;DF;Salernitana;7.0;254;289;87.9;4899;1643;87;95;91.6;140;149;94.0;25;41;61.0;0;0.0;0.0;1;18;2;0;19
+187;Luiz Felipe\15d0c248;Luiz Felipe;it ITA;ITA;DF;Lazio;26.5;1619;1757;92.1;31846;10697;550;589;93.4;818;862;94.9;216;261;82.8;0;0.1;-0.1;2;87;3;0;70
+188;Alex Ferrari\d0dbca9f;Alex Ferrari;it ITA;ITA;DF;Sampdoria;10.8;401;497;80.7;8495;2445;105;125;84.0;224;253;88.5;64;101;63.4;0;0.0;0.0;0;23;3;0;24
+189;Salvador Ferrer\eb76987d;Salvador Ferrer;es ESP;ESP;DFMF;Spezia;13.3;482;605;79.7;9495;3080;189;220;85.9;212;254;83.5;76;111;68.5;0;0.9;-0.9;13;38;13;8;43
+190;Riccardo Fiamozzi\9f9b9269;Riccardo Fiamozzi;it ITA;ITA;DF;Empoli;6.0;259;350;74.0;5018;2404;111;125;88.8;107;134;79.9;38;69;55.1;0;0.3;-0.3;4;16;5;2;34
+191;Luca Fiordilino\9bb1ad91;Luca Fiordilino;it ITA;ITA;MF;Venezia;5.1;176;204;86.3;3097;606;81;88;92.0;72;79;91.1;18;25;72.0;0;0.2;-0.2;4;9;1;1;10
+192;Vincenzo Fiorillo\a2565f79;Vincenzo Fiorillo;it ITA;ITA;GK;Salernitana;2.0;23;31;74.2;955;675;0;0;;7;7;100.0;16;24;66.7;0;0.0;0.0;0;0;0;0;0
+193;Alessandro Florenzi\e288d4b3;Alessandro Florenzi;it ITA;ITA;DFFW;Milan;12.3;628;778;80.7;12707;4340;217;234;92.7;294;325;90.5;102;183;55.7;0;1.0;-1.0;11;54;25;7;60
+194;Fernando Forestieri\d60c26fc;Fernando Forestieri;it ITA;ITA;FWMF;Udinese;0.6;16;23;69.6;228;84;10;10;100.0;6;7;85.7;0;5;0.0;1;0.1;+0.9;1;2;1;0;4
+195;Francesco Forte\69e11a01;Francesco Forte;it ITA;ITA;FW;Venezia;4.7;55;77;71.4;784;127;31;39;79.5;22;31;71.0;0;1;0.0;0;0.1;-0.1;3;2;1;0;5
+196;Davide Frattesi\2a7d27c1;Davide Frattesi;it ITA;ITA;MF;Sassuolo;25.8;842;1012;83.2;14584;3442;423;479;88.3;318;370;85.9;85;114;74.6;1;2.8;-1.8;23;69;22;4;89
+197;Morten Frendrup\f4d60499;Morten Frendrup;dk DEN;DEN;DFMF;Genoa;2.0;59;92;64.1;1056;553;22;29;75.9;25;37;67.6;8;18;44.4;0;0.0;0.0;1;5;2;1;6
+198;Remo Freuler\98d2c2c4;Remo Freuler;ch SUI;SUI;MF;Atalanta;20.4;1146;1334;85.9;20329;5472;480;534;89.9;521;585;89.1;110;158;69.6;3;2.1;+0.9;22;121;35;5;127
+199;Matteo Gabbia\c235e803;Matteo Gabbia;it ITA;ITA;DF;Milan;5.1;307;349;88.0;6967;1969;68;77;88.3;173;182;95.1;65;87;74.7;0;0.1;-0.1;1;18;1;0;16
+200;Manolo Gabbiadini\8f866fe8;Manolo Gabbiadini;it ITA;ITA;FWMF;Sampdoria;12.7;225;340;66.2;3552;1106;127;161;78.9;66;98;67.3;23;53;43.4;1;1.7;-0.7;16;22;14;4;33
+201;Gianluca Gaetano\3b387cc7;Gianluca Gaetano;it ITA;ITA;MF;Napoli;0.2;9;11;81.8;141;40;4;5;80.0;5;6;83.3;0;0;;0;0.0;0.0;0;0;0;0;1
+202;Luca Gagliano\1d00a56c;Luca Gagliano;it ITA;ITA;MFDF;Cagliari;0.1;6;8;75.0;98;5;3;3;100.0;3;3;100.0;0;1;0.0;0;0.0;0.0;0;0;0;0;0
+203;Roberto Gagliardini\ce30bfc8;Roberto Gagliardini;it ITA;ITA;MF;Inter;5.4;229;269;85.1;3628;853;124;134;92.5;89;105;84.8;12;21;57.1;1;1.0;0.0;5;18;2;0;18
+204;Riccardo Gagliolo\173061c0;Riccardo Gagliolo;se SWE;SWE;DF;Salernitana;12.3;378;479;78.9;8184;3361;114;130;87.7;177;211;83.9;80;122;65.6;1;0.0;+1.0;1;36;2;0;36
+205;Nicolas Galazzi\a796492f;Nicolas Galazzi;it ITA;ITA;DF;Venezia;0.2;5;8;62.5;78;25;4;5;80.0;1;2;50.0;0;0;;0;0.0;0.0;0;0;0;0;1
+206;Pablo Galdames Millán\dd403465;Pablo Galdames Millán;cl CHI;CHI;MF;Genoa;5.3;147;191;77.0;3025;733;58;66;87.9;68;78;87.2;21;39;53.8;0;0.3;-0.3;4;6;5;1;15
+207;Luca Gemello\53e494ec;Luca Gemello;it ITA;ITA;GK;Torino;1.0;15;34;44.1;617;468;1;1;100.0;5;5;100.0;9;28;32.1;0;0.0;0.0;0;1;0;0;0
+208;Paolo Ghiglione\71dc23da;Paolo Ghiglione;it ITA;ITA;DF;Genoa;6.7;215;339;63.4;4028;1914;97;110;88.2;84;129;65.1;32;81;39.5;1;0.4;+0.6;7;9;9;5;22
+209;Faouzi Ghoulam\c5adc293;Faouzi Ghoulam;dz ALG;ALG;DF;Napoli;2.3;149;179;83.2;2562;920;69;74;93.2;65;74;87.8;12;25;48.0;0;0.3;-0.3;6;21;5;3;13
+210;Sebastian Giovinco\2b7c18ae;Sebastian Giovinco;it ITA;ITA;MF;Sampdoria;0.4;6;10;60.0;126;16;4;5;80.0;0;0;;2;4;50.0;0;0.0;0.0;0;1;1;0;1
+211;Olivier Giroud\16ceb862;Olivier Giroud;fr FRA;FRA;FW;Milan;15.1;255;347;73.5;3218;487;167;216;77.3;56;83;67.5;11;16;68.8;3;1.5;+1.5;16;8;9;1;18
+212;Diego Godín\fc4f85b1;Diego Godín;uy URU;URU;DF;Cagliari;9.1;393;434;90.6;9063;2728;97;106;91.5;191;204;93.6;99;117;84.6;1;0.4;+0.6;3;26;0;0;12
+213;Edoardo Goldaniga\4b029b31;Edoardo Goldaniga;it ITA;ITA;DF;Cagliari;8.8;290;401;72.3;6553;3064;90;111;81.1;131;163;80.4;64;114;56.1;0;0.1;-0.1;3;18;5;2;24
+214;Edoardo Goldaniga\4b029b31;Edoardo Goldaniga;it ITA;ITA;MFDF;Sassuolo;0.0;1;1;100.0;17;17;0;0;;1;1;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+215;Cedric Gondo\ff37d2ef;Cedric Gondo;ci CIV;CIV;FW;Salernitana;7.8;130;174;74.7;1901;349;79;98;80.6;30;37;81.1;13;18;72.2;0;0.6;-0.6;13;3;5;2;9
+216;Nicolás González\2374aaca;Nicolás González;ar ARG;ARG;FW;Fiorentina;17.6;452;600;75.3;9130;1949;177;237;74.7;182;226;80.5;83;102;81.4;5;3.0;+2.0;26;32;28;9;57
+217;Robin Gosens\2d970560;Robin Gosens;de GER;GER;DF;Inter;0.9;46;56;82.1;720;227;29;32;90.6;14;14;100.0;2;6;33.3;1;0.4;+0.6;2;2;2;1;5
+218;Robin Gosens\2d970560;Robin Gosens;de GER;GER;DF;Atalanta;5.1;214;260;82.3;3691;1491;102;116;87.9;95;114;83.3;14;25;56.0;0;0.4;-0.4;5;13;7;1;35
+219;Alberto Grassi\6cc97b6a;Alberto Grassi;it ITA;ITA;MF;Cagliari;17.7;587;719;81.6;10702;2166;252;286;88.1;254;307;82.7;70;101;69.3;1;0.8;+0.2;7;41;4;1;36
+220;Koray Günter\f1f1f238;Koray Günter;de GER;GER;DF;Hellas Verona;22.2;846;1016;83.3;19595;6938;211;245;86.1;427;479;89.1;197;271;72.7;0;0.7;-0.7;5;51;2;0;78
+221;Albert Gu?mundsson\b79858d5;Albert Gu?mundsson;is ISL;ISL;FWMF;Genoa;3.1;62;99;62.6;1009;423;35;46;76.1;14;22;63.6;9;21;42.9;0;0.2;-0.2;6;5;2;1;5
+222;Emmanuel Gyasi\f9758dae;Emmanuel Gyasi;gh GHA;GHA;FWMF;Spezia;26.9;655;782;83.8;9436;2094;383;433;88.5;204;240;85.0;38;52;73.1;0;1.2;-1.2;17;21;16;3;47
+223;Norbert Gyömbér\0be276c6;Norbert Gyömbér;sk SVK;SVK;DF;Salernitana;19.8;559;702;79.6;12265;4539;183;210;87.1;257;304;84.5;114;181;63.0;0;0.0;0.0;1;40;4;3;43
+224;Nicolas Haas\fa449bba;Nicolas Haas;ch SUI;SUI;MF;Empoli;11.1;374;477;78.4;6402;2076;189;215;87.9;143;174;82.2;35;63;55.6;2;0.9;+1.1;13;29;16;4;51
+225;Samir Handanovi?\74419746;Samir Handanovi?;si SVN;SVN;GK;Inter;29.0;833;967;86.1;21606;12549;203;204;99.5;378;380;99.5;245;376;65.2;0;0.0;0.0;0;11;0;0;0
+226;Ridgeciano Haps\c8d7131c;Ridgeciano Haps;sr SUR;SUR;DF;Venezia;15.7;467;612;76.3;8839;3713;197;225;87.6;194;244;79.5;66;112;58.9;1;0.4;+0.6;10;24;10;5;38
+227;Abdou Harroui\65fd099c;Abdou Harroui;nl NED;NED;MF;Sassuolo;4.8;244;283;86.2;4351;859;117;129;90.7;95;106;89.6;29;37;78.4;0;0.2;-0.2;5;32;0;0;14
+228;Hans Hateboer\3b333ac3;Hans Hateboer;nl NED;NED;DF;Atalanta;9.4;451;543;83.1;6944;2196;274;300;91.3;151;179;84.4;25;46;54.3;0;0.8;-0.8;9;29;10;5;30
+229;Silvan Hefti\f8342731;Silvan Hefti;ch SUI;SUI;DF;Genoa;8.7;237;334;71.0;3986;2015;126;148;85.1;82;112;73.2;23;56;41.1;0;0.6;-0.6;6;20;13;7;26
+230;Liam Henderson\d7918b13;Liam Henderson;sct SCO; SCO;MF;Empoli;18.9;508;726;70.0;8913;3194;225;276;81.5;208;279;74.6;59;119;49.6;2;3.0;-1.0;38;50;23;6;67
+231;Dalbert Henrique\f45f9427;Dalbert Henrique;br BRA;BRA;DFMF;Cagliari;17.5;455;631;72.1;9209;3328;163;202;80.7;205;261;78.5;78;136;57.4;1;1.4;-0.4;22;27;14;9;41
+232;Matheus Henrique\a2d9f138;Matheus Henrique;br BRA;BRA;MF;Sassuolo;6.6;295;328;89.9;4988;1134;146;156;93.6;107;115;93.0;34;41;82.9;1;0.5;+0.5;4;24;5;1;19
+233;Thomas Henry\9ef42479;Thomas Henry;fr FRA;FRA;FW;Venezia;17.7;206;351;58.7;3416;561;109;162;67.3;53;97;54.6;31;44;70.5;2;3.2;-1.2;16;17;6;1;16
+234;Theo Hernández\d4c9725f;Theo Hernández;fr FRA;FRA;DF;Milan;22.1;1074;1307;82.2;19019;6474;536;590;90.8;413;480;86.0;105;179;58.7;5;4.5;+0.5;33;56;27;11;89
+235;Hernani\6f5ead86;Hernani;br BRA;BRA;MFFW;Genoa;6.4;142;199;71.4;2383;538;80;100;80.0;43;60;71.7;14;26;53.8;0;0.3;-0.3;2;8;3;1;11
+236;Daan Heymans\6d70c771;Daan Heymans;be BEL;BEL;MFFW;Venezia;2.8;79;97;81.4;1357;270;34;42;81.0;37;42;88.1;7;10;70.0;1;0.3;+0.7;2;5;2;1;5
+237;Aaron Hickey\1780bb4a;Aaron Hickey;sct SCO; SCO;DF;Bologna;23.7;797;971;82.1;12380;3616;429;471;91.1;309;377;82.0;43;82;52.4;1;0.8;+0.2;14;22;10;4;33
+238;Martin Hongla\b85bf253;Martin Hongla;cm CMR;CMR;MF;Hellas Verona;4.7;157;200;78.5;3132;611;60;71;84.5;63;78;80.8;30;41;73.2;0;0.0;0.0;1;13;1;0;9
+239;Sydney van Hooijdonk\5b418e15;Sydney van Hooijdonk;nl NED;NED;FWMF;Bologna;0.4;16;17;94.1;204;34;10;11;90.9;5;5;100.0;0;0;;0;0.0;0.0;1;2;0;0;0
+240;Petko Hristov\d8800a46;Petko Hristov;bg BUL;BUL;DF;Spezia;11.4;441;526;83.8;9803;3252;105;117;89.7;251;271;92.6;80;129;62.0;0;0.1;-0.1;2;20;1;0;22
+241;Elseid Hysaj\2f3452eb;Elseid Hysaj;al ALB;ALB;DF;Lazio;22.2;1212;1388;87.3;19744;6714;627;670;93.6;477;530;90.0;86;140;61.4;0;0.6;-0.6;10;79;16;4;67
+242;Roger Ibanez\82efe6fa;Roger Ibanez;br BRA;BRA;DF;Roma;24.1;1257;1445;87.0;26645;8638;400;436;91.7;629;688;91.4;218;301;72.4;0;0.4;-0.4;9;62;7;1;73
+243;Zlatan Ibrahimovi?\4cde5509;Zlatan Ibrahimovi?;se SWE;SWE;FW;Milan;10.2;291;403;72.2;4338;1143;165;222;74.3;93;122;76.2;19;29;65.5;1;1.6;-0.6;22;32;19;2;40
+244;Igor\a4e85758;Igor;br BRA;BRA;DF;Fiorentina;16.5;1029;1122;91.7;23579;6443;224;246;91.1;582;612;95.1;217;248;87.5;0;0.1;-0.1;4;69;2;0;53
+245;Jonathan Ikone\42eaa028;Jonathan Ikone;fr FRA;FRA;FW;Fiorentina;3.2;85;112;75.9;1670;388;27;38;71.1;46;56;82.1;12;15;80.0;0;0.4;-0.4;5;9;6;2;15
+246;Ivan Ili?\bb376bed;Ivan Ili?;rs SRB;SRB;MF;Hellas Verona;21.4;868;1063;81.7;16904;3867;328;393;83.5;383;443;86.5;138;185;74.6;3;1.1;+1.9;15;73;15;5;71
+247;Josip Ili?i?\68252d6d;Josip Ili?i?;si SVN;SVN;FWMF;Atalanta;9.2;361;485;74.4;7239;2255;165;208;79.3;131;170;77.1;61;93;65.6;3;3.4;-0.4;31;38;24;3;54
+248;Ciro Immobile\4431aed2;Ciro Immobile;it ITA;ITA;FW;Lazio;24.1;547;697;78.5;7919;938;339;400;84.8;139;178;78.1;42;59;71.2;2;2.2;-0.2;18;23;9;1;25
+249;Lorenzo Insigne\2f557579;Lorenzo Insigne;it ITA;ITA;FW;Napoli;18.9;908;1135;80.0;16528;4106;442;493;89.7;335;391;85.7;116;209;55.5;5;4.4;+0.6;49;55;42;6;99
+250;Ardian Ismajli\6b635f5c;Ardian Ismajli;al ALB;ALB;DF;Empoli;12.0;494;577;85.6;10578;3550;131;143;91.6;269;299;90.0;89;118;75.4;0;0.1;-0.1;2;44;1;0;30
+251;Armando Izzo\89976232;Armando Izzo;it ITA;ITA;DF;Torino;2.6;129;162;79.6;2508;594;48;56;85.7;62;74;83.8;17;29;58.6;0;0.0;0.0;0;11;1;0;8
+252;Mato Jajalo\8c65eb5f;Mato Jajalo;ba BIH;BIH;MF;Udinese;5.5;197;248;79.4;3570;848;86;100;86.0;83;101;82.2;24;37;64.9;1;0.6;+0.4;7;13;7;0;22
+253;Pawe? Jaroszy?ski\958a601f;Pawe? Jaroszy?ski;pl POL;POL;DF;Salernitana;5.5;152;234;65.0;3141;1353;46;56;82.1;71;95;74.7;31;70;44.3;0;0.4;-0.4;6;8;3;3;12
+254;Juan Jesus\79083382;Juan Jesus;br BRA;BRA;DF;Napoli;11.1;593;661;89.7;10892;3595;222;239;92.9;282;298;94.6;69;95;72.6;0;0.2;-0.2;4;32;1;0;22
+255;Dennis Johnsen\66784dee;Dennis Johnsen;no NOR;NOR;FWMF;Venezia;12.6;152;243;62.6;2747;811;81;113;71.7;43;68;63.2;24;38;63.2;2;2.3;-0.3;21;8;15;5;22
+256;Kaio Jorge\0cf465f2;Kaio Jorge;br BRA;BRA;MFFW;Juventus;1.3;29;38;76.3;502;61;16;20;80.0;8;12;66.7;5;5;100.0;0;0.3;-0.3;2;2;0;0;1
+257;Flavio Junior Bianchi\3ef965c1;Flavio Junior Bianchi;it ITA;ITA;FWMF;Genoa;3.5;65;78;83.3;849;115;43;51;84.3;17;22;77.3;2;2;100.0;0;0.1;-0.1;3;1;1;0;4
+258;Hamed Junior Traorè\570bb4b9;Hamed Junior Traorè;ci CIV;CIV;FWMF;Sassuolo;15.0;501;625;80.2;8979;2549;236;265;89.1;201;234;85.9;56;97;57.7;2;2.9;-0.9;30;49;24;2;71
+259;Nikola Kalini?\d4931a5a;Nikola Kalini?;hr CRO;CRO;FW;Hellas Verona;4.5;85;102;83.3;1158;147;50;57;87.7;26;31;83.9;4;6;66.7;0;0.9;-0.9;7;2;2;0;4
+260;Yayah Kallon\f95f49d2;Yayah Kallon;sl SLE;SLE;FWMF;Genoa;7.1;119;181;65.7;1776;365;70;97;72.2;39;58;67.2;7;16;43.8;1;1.0;0.0;9;4;4;1;9
+261;Pierre Kalulu\85f7d1be;Pierre Kalulu;fr FRA;FRA;DF;Milan;13.6;647;732;88.4;13168;4293;202;218;92.7;340;369;92.1;100;134;74.6;1;0.2;+0.8;4;33;9;5;34
+262;Rick Karsdorp\9f84febe;Rick Karsdorp;nl NED;NED;DF;Roma;25.8;1178;1448;81.4;23708;8466;417;476;87.6;578;667;86.7;173;265;65.3;2;4.2;-2.2;35;83;49;17;139
+263;Denso Kasius\7ae36711;Denso Kasius;nl NED;NED;DF;Bologna;0.8;55;63;87.3;897;248;26;27;96.3;27;29;93.1;2;2;100.0;0;0.4;-0.4;5;1;3;1;5
+264;Grigoris Kastanos\2a82aa85;Grigoris Kastanos;cy CYP;CYP;MFFW;Salernitana;13.4;352;501;70.3;6070;2252;174;216;80.6;124;152;81.6;43;94;45.7;1;1.3;-0.3;23;31;12;1;46
+265;Moise Kean\3d50bcdb;Moise Kean;it ITA;ITA;FW;Juventus;9.2;139;186;74.7;2105;230;77;99;77.8;43;53;81.1;12;18;66.7;0;0.1;-0.1;3;5;3;1;5
+266;Wajdi Kechrida\11962fe7;Wajdi Kechrida;tn TUN;TUN;DFMF;Salernitana;10.6;249;344;72.4;4109;2096;123;139;88.5;101;133;75.9;18;52;34.6;0;1.0;-1.0;13;21;14;8;38
+267;Dimitrios Keramitsis\6f30a1d5;Dimitrios Keramitsis;;#DEÐER!;DF;Roma;0.0;0;0;;0;0;0;0;;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+268;Franck Kessié\05e19d6a;Franck Kessié;ci CIV;CIV;MF;Milan;18.5;891;1004;88.7;16770;3709;354;388;91.2;418;452;92.5;107;139;77.0;0;1.0;-1.0;20;68;16;3;75
+269;Jakub Kiwior\dc3e663e;Jakub Kiwior;pl POL;POL;MF;Spezia;13.8;370;460;80.4;7434;1588;130;151;86.1;174;205;84.9;57;84;67.9;0;0.1;-0.1;4;21;1;0;21
+270;Sofian Kiyine\ce1806be;Sofian Kiyine;ma MAR;MAR;MFFW;Venezia;11.2;320;434;73.7;7264;2307;107;132;81.1;127;162;78.4;81;123;65.9;0;2.2;-2.2;17;34;19;0;48
+271;Simon Kjær\8b8a56ce;Simon Kjær;dk DEN;DEN;DF;Milan;8.9;401;454;88.3;8921;2843;117;124;94.4;200;215;93.0;83;111;74.8;0;0.3;-0.3;2;27;3;2;27
+272;Aleksandr Kokorin\fec5accc;Aleksandr Kokorin;ru RUS;RUS;FWMF;Fiorentina;0.6;14;21;66.7;236;33;9;13;69.2;3;5;60.0;2;3;66.7;0;0.0;0.0;0;0;0;0;1
+273;Aleksandar Kolarov\eda40760;Aleksandar Kolarov;rs SRB;SRB;DF;Inter;0.5;30;37;81.1;563;235;12;14;85.7;11;14;78.6;5;7;71.4;0;0.0;0.0;0;4;1;0;3
+274;Teun Koopmeiners\a26fb8aa;Teun Koopmeiners;nl NED;NED;MF;Atalanta;18.0;919;1165;78.9;18063;5613;358;414;86.5;394;454;86.8;138;247;55.9;1;3.4;-2.4;32;90;27;8;100
+275;Kalidou Koulibaly\da974c7b;Kalidou Koulibaly;sn SEN;SEN;DF;Napoli;19.7;1106;1253;88.3;21864;8123;416;446;93.3;513;555;92.4;163;226;72.1;1;0.2;+0.8;5;83;2;0;72
+276;Christos Kourfalidis\5c522c88;Christos Kourfalidis;gr GRE;GRE;MFDF;Cagliari;0.2;6;11;54.5;162;24;0;2;0.0;4;5;80.0;2;3;66.7;0;0.0;0.0;0;1;0;0;0
+277;Viktor Kovalenko\9d60028d;Viktor Kovalenko;ua UKR;UKR;MFFW;Spezia;11.7;385;497;77.5;6806;1649;182;223;81.6;153;181;84.5;42;74;56.8;3;1.1;+1.9;12;28;6;0;39
+278;Julian Kristoffersen\b804c280;Julian Kristoffersen;no NOR;NOR;FW;Salernitana;0.1;1;2;50.0;7;5;1;1;100.0;0;0;;0;0;;0;0.0;0.0;0;1;0;0;0
+279;Rade Kruni?\817c6964;Rade Kruni?;ba BIH;BIH;MFFW;Milan;12.4;393;464;84.7;5852;1320;224;257;87.2;130;149;87.2;21;29;72.4;1;0.5;+0.5;12;34;10;0;34
+280;Dejan Kulusevski\df3cda47;Dejan Kulusevski;se SWE;SWE;FWMF;Juventus;8.6;196;244;80.3;2991;663;109;138;79.0;68;74;91.9;14;18;77.8;3;1.2;+1.8;10;10;13;3;22
+281;Marash Kumbulla\a40819d9;Marash Kumbulla;al ALB;ALB;DF;Roma;8.4;452;510;88.6;9855;2723;118;131;90.1;252;266;94.7;78;97;80.4;0;0.0;0.0;2;17;0;0;17
+282;Giorgos Kyriakopoulos\0a483542;Giorgos Kyriakopoulos;gr GRE;GRE;DFFW;Sassuolo;16.9;824;1007;81.8;14236;5296;394;421;93.6;341;384;88.8;76;165;46.1;2;2.4;-0.4;22;45;14;10;48
+283;Andrea La Mantia\c375dfa5;Andrea La Mantia;it ITA;ITA;FW;Empoli;3.4;52;69;75.4;676;154;34;40;85.0;14;21;66.7;1;2;50.0;0;0.3;-0.3;5;2;0;0;7
+284;Sam Lammers\c283ddef;Sam Lammers;nl NED;NED;FW;Atalanta;0.4;11;19;57.9;164;62;6;8;75.0;4;9;44.4;1;1;100.0;0;0.0;0.0;0;2;1;0;2
+285;Kevin Lasagna\09538fdb;Kevin Lasagna;it ITA;ITA;FWMF;Hellas Verona;9.8;157;223;70.4;2509;600;87;112;77.7;44;63;69.8;15;21;71.4;2;1.9;+0.1;12;11;13;1;19
+286;Darko Lazovi?\5128bde4;Darko Lazovi?;rs SRB;SRB;DF;Hellas Verona;24.4;871;1231;70.8;15134;7550;391;486;80.5;396;518;76.4;71;155;45.8;3;2.7;+0.3;30;69;45;11;156
+287;Manuel Lazzari\02caf6e0;Manuel Lazzari;it ITA;ITA;DF;Lazio;10.9;551;645;85.4;8141;2506;330;351;94.0;171;202;84.7;31;56;55.4;1;1.0;0.0;5;30;10;4;23
+288;Rafael Leão\20730eae;Rafael Leão;pt POR;POR;FW;Milan;21.2;448;611;73.3;7975;2375;222;267;83.1;155;209;74.2;62;88;70.5;4;2.7;+1.3;26;39;33;7;83
+289;Lucas Leiva\4c78b5ed;Lucas Leiva;br BRA;BRA;MF;Lazio;15.3;925;1000;92.5;15756;4272;444;464;95.7;387;418;92.6;83;94;88.3;0;0.2;-0.2;3;81;3;1;49
+290;Luca Lezzerini\c9c32262;Luca Lezzerini;it ITA;ITA;GK;Venezia;5.5;155;197;78.7;4340;2405;27;27;100.0;67;67;100.0;58;100;58.0;0;0.0;0.0;1;0;0;0;0
+291;Ben Lhassine Kone\7452c7a8;Ben Lhassine Kone;ci CIV;CIV;MF;Torino;0.9;30;36;83.3;637;123;11;11;100.0;14;19;73.7;5;5;100.0;0;0.1;-0.1;2;1;0;0;3
+292;Matthijs de Ligt\d6e53a3a;Matthijs de Ligt;nl NED;NED;DF;Juventus;24.3;1252;1386;90.3;27507;7783;329;352;93.5;689;727;94.8;226;294;76.9;0;0.3;-0.3;6;64;4;1;46
+293;Anderson Lima\59be3a74;Anderson Lima;br BRA;BRA;MF;Lazio;0.7;25;32;78.1;386;59;13;15;86.7;12;14;85.7;0;2;0.0;0;0.0;0.0;0;0;1;0;2
+294;Karol Linetty\d023d70f;Karol Linetty;pl POL;POL;MFFW;Torino;9.4;206;262;78.6;3010;736;113;138;81.9;80;95;84.2;7;17;41.2;0;1.2;-1.2;14;15;5;0;18
+295;Stanislav Lobotka\e1cbb531;Stanislav Lobotka;sk SVK;SVK;MF;Napoli;14.9;1124;1204;93.4;18880;4209;549;577;95.1;476;501;95.0;81;96;84.4;0;0.7;-0.7;14;102;5;0;67
+296;Manuel Locatelli\a8a874f1;Manuel Locatelli;it ITA;ITA;MF;Juventus;22.0;1151;1345;85.6;23444;7241;436;489;89.2;511;569;89.8;193;264;73.1;3;1.8;+1.2;21;119;27;1;116
+297;Maxime Lopez\20094685;Maxime Lopez;fr FRA;FRA;MF;Sassuolo;26.8;1912;2090;91.5;34018;10081;841;899;93.5;835;893;93.5;197;237;83.1;1;2.4;-1.4;39;181;12;2;169
+298;Matteo Lovato\5fa57166;Matteo Lovato;it ITA;ITA;DF;Cagliari;8.6;302;371;81.4;6549;2047;78;93;83.9;167;185;90.3;52;82;63.4;0;0.0;0.0;0;9;0;0;11
+299;Matteo Lovato\5fa57166;Matteo Lovato;it ITA;ITA;DFMF;Atalanta;3.4;167;196;85.2;3263;1050;70;79;88.6;75;87;86.2;20;27;74.1;0;0.1;-0.1;2;9;2;0;6
+300;Hirving Lozano\a69e4806;Hirving Lozano;mx MEX;MEX;FW;Napoli;13.1;359;452;79.4;5311;1235;199;230;86.5;131;157;83.4;15;26;57.7;3;1.5;+1.5;18;12;21;10;37
+301;José Luis Palomino\921f6058;José Luis Palomino;ar ARG;ARG;DF;Atalanta;21.9;1015;1229;82.6;21344;6642;313;353;88.7;515;576;89.4;178;272;65.4;0;0.2;-0.2;2;73;2;1;83
+302;Saša Luki?\c6e8cf1f;Saša Luki?;rs SRB;SRB;MF;Torino;25.4;1207;1385;87.1;23004;4532;471;528;89.2;532;586;90.8;178;212;84.0;2;4.0;-2.0;28;111;16;2;79
+303;Sebastiano Luperto\997fff07;Sebastiano Luperto;it ITA;ITA;DF;Empoli;15.1;606;702;86.3;13427;4445;136;152;89.5;348;372;93.5;115;165;69.7;1;0.4;+0.6;4;45;5;0;46
+304;Charalambos Lykogiannis\5efc5389;Charalambos Lykogiannis;gr GRE;GRE;DF;Cagliari;17.0;388;621;62.5;7695;3692;131;162;80.9;197;273;72.2;54;150;36.0;0;0.8;-0.8;9;27;9;6;31
+305;Niki Mäenpää\14a96e1c;Niki Mäenpää;fi FIN;FIN;GK;Venezia;7.5;161;225;71.6;4153;2161;43;44;97.7;69;70;98.6;46;107;43.0;0;0.0;0.0;0;1;0;0;0
+306;Giulio Maggiore\957e4c87;Giulio Maggiore;it ITA;ITA;MF;Spezia;24.9;712;936;76.1;12723;3611;327;398;82.2;297;355;83.7;73;141;51.8;2;1.9;+0.1;28;62;20;1;87
+307;Francesco Magnanelli\07767f42;Francesco Magnanelli;it ITA;ITA;MF;Sassuolo;1.7;134;150;89.3;2564;549;51;55;92.7;62;67;92.5;20;25;80.0;0;0.0;0.0;0;16;0;0;8
+308;Giangiacomo Magnani\cce9f582;Giangiacomo Magnani;it ITA;ITA;DF;Sampdoria;2.5;123;143;86.0;2650;844;23;27;85.2;75;80;93.8;20;30;66.7;0;0.0;0.0;0;3;0;0;6
+309;Giangiacomo Magnani\cce9f582;Giangiacomo Magnani;it ITA;ITA;DF;Hellas Verona;5.9;177;223;79.4;3772;1114;51;58;87.9;87;101;86.1;35;56;62.5;0;0.0;0.0;0;16;1;0;8
+310;Mike Maignan\fcb38f57;Mike Maignan;fr FRA;FRA;GK;Milan;24.0;654;830;78.8;19133;11089;119;119;100.0;275;275;100.0;258;434;59.4;1;0.4;+0.6;2;13;0;0;0
+311;Ainsley Maitland-Niles\e3a5814e;Ainsley Maitland-Niles;eng ENG;ENG;DF;Roma;4.3;199;262;76.0;3682;1370;81;94;86.2;89;108;82.4;24;46;52.2;0;0.4;-0.4;4;9;5;3;17
+312;Jean-Victor Makengo\22bfb57e;Jean-Victor Makengo;fr FRA;FRA;MF;Udinese;19.5;485;584;83.0;8010;1807;248;284;87.3;181;203;89.2;46;64;71.9;2;1.0;+1.0;19;39;12;3;35
+313;Nikola Maksimovi?\16b9d5cf;Nikola Maksimovi?;rs SRB;SRB;DF;Genoa;10.4;355;423;83.9;7808;2613;89;104;85.6;185;202;91.6;73;104;70.2;0;0.0;0.0;0;24;0;0;19
+314;Kévin Malcuit\d6a889ea;Kévin Malcuit;ma MAR;MAR;DF;Napoli;2.7;93;131;71.0;1577;564;45;56;80.4;38;46;82.6;7;20;35.0;1;0.4;+0.6;2;4;2;1;6
+315;Daniel Maldini\801831fe;Daniel Maldini;it ITA;ITA;MF;Milan;1.6;33;50;66.0;513;109;18;22;81.8;13;20;65.0;1;3;33.3;0;0.1;-0.1;1;1;1;0;4
+316;Youssef Maleh\4c8845f7;Youssef Maleh;it ITA;ITA;MF;Fiorentina;7.7;219;277;79.1;3834;929;104;119;87.4;83;99;83.8;25;41;61.0;1;0.5;+0.5;7;18;4;1;18
+317;Ruslan Malinovskyi\48d5bd33;Ruslan Malinovskyi;ua UKR;UKR;FWMF;Atalanta;15.3;586;794;73.8;11258;3183;255;298;85.6;228;283;80.6;91;166;54.8;1;5.2;-4.2;36;49;38;6;89
+318;Rey Manaj\7703afb6;Rey Manaj;al ALB;ALB;FW;Spezia;13.5;245;314;78.0;3571;669;146;169;86.4;76;103;73.8;14;16;87.5;0;0.8;-0.8;10;19;5;1;13
+319;Gianluca Mancini\5aa53281;Gianluca Mancini;it ITA;ITA;DF;Roma;26.1;1282;1489;86.1;28294;9043;326;354;92.1;711;757;93.9;237;353;67.1;0;0.2;-0.2;4;97;12;3;94
+320;Leonardo Mancuso\311027cb;Leonardo Mancuso;it ITA;ITA;FW;Empoli;4.7;53;79;67.1;865;186;30;37;81.1;17;28;60.7;6;12;50.0;0;0.4;-0.4;4;2;6;2;5
+321;Rolando Mandragora\c7259b83;Rolando Mandragora;it ITA;ITA;MF;Torino;12.9;580;690;84.1;10835;2940;242;272;89.0;260;295;88.1;70;105;66.7;1;2.9;-1.9;27;68;7;2;53
+322;Kostas Manolas\c707411f;Kostas Manolas;gr GRE;GRE;DF;Napoli;3.5;218;231;94.4;4462;1205;76;78;97.4;108;115;93.9;33;36;91.7;0;0.0;0.0;0;14;0;0;2
+323;Riccardo Marchizza\91d0fabf;Riccardo Marchizza;it ITA;ITA;DF;Empoli;15.0;463;649;71.3;8902;3372;190;213;89.2;201;253;79.4;65;146;44.5;0;1.6;-1.6;12;32;16;9;47
+324;Gian Marco Ferrari\8650af85;Gian Marco Ferrari;it ITA;ITA;DF;Sassuolo;28.7;1689;1872;90.2;35532;12877;515;552;93.3;843;909;92.7;296;368;80.4;0;0.2;-0.2;4;109;8;1;114
+325;Pablo Marí\aa54ec6f;Pablo Marí;es ESP;ESP;DF;Udinese;6.9;185;294;62.9;4115;1423;56;67;83.6;91;123;74.0;37;97;38.1;0;0.0;0.0;0;9;0;0;8
+326;R?zvan Marin\7fac99d4;R?zvan Marin;ro ROU;ROU;MF;Cagliari;26.2;872;1100;79.3;17241;5138;345;387;89.1;351;401;87.5;159;269;59.1;3;5.1;-2.1;59;91;29;5;97
+327;Lucas Martínez Quarta\3ec3c1c9;Lucas Martínez Quarta;ar ARG;ARG;DF;Fiorentina;14.3;922;1003;91.9;21608;6929;205;221;92.8;506;524;96.6;199;237;84.0;0;0.4;-0.4;3;64;2;0;52
+328;Lautaro Martínez\f7036e1c;Lautaro Martínez;ar ARG;ARG;FW;Inter;19.0;289;394;73.4;4393;1070;165;202;81.7;77;112;68.8;26;38;68.4;2;3.0;-1.0;24;17;17;4;31
+329;Adam Maruši?\d4535821;Adam Maruši?;me MNE;MNE;DF;Lazio;22.9;1284;1472;87.2;20374;7350;686;739;92.8;498;573;86.9;77;117;65.8;0;0.4;-0.4;5;81;7;3;53
+330;Andrea Masiello\e0314d87;Andrea Masiello;it ITA;ITA;DF;Genoa;5.7;269;309;87.1;5618;1911;89;95;93.7;131;148;88.5;48;61;78.7;0;0.0;0.0;1;6;0;0;14
+331;Aleš Mat?j?\deb748c9;Aleš Mat?j?;cz CZE;CZE;DF;Venezia;1.5;47;58;81.0;756;351;22;24;91.7;19;24;79.2;4;7;57.1;1;0.5;+0.5;2;4;4;3;7
+332;Borja Mayoral\64e8ed6d;Borja Mayoral;es ESP;ESP;FWDF;Roma;1.1;29;39;74.4;443;51;17;20;85.0;8;9;88.9;2;5;40.0;0;0.0;0.0;0;0;0;0;1
+333;Pasquale Mazzocchi\eb0ec070;Pasquale Mazzocchi;it ITA;ITA;DF;Venezia;13.8;444;580;76.6;8098;2954;194;220;88.2;186;231;80.5;54;104;51.9;0;0.8;-0.8;6;23;8;2;29
+334;Pasquale Mazzocchi\eb0ec070;Pasquale Mazzocchi;it ITA;ITA;DF;Salernitana;5.7;179;239;74.9;3300;1534;79;88;89.8;72;99;72.7;23;41;56.1;1;0.7;+0.3;5;9;8;4;13
+335;Ibrahima Mbaye\cfbf9881;Ibrahima Mbaye;sn SEN;SEN;DF;Bologna;0.9;28;35;80.0;358;202;18;20;90.0;10;13;76.9;0;2;0.0;0;0.0;0.0;0;3;0;0;2
+336;Weston McKennie\01c3aff5;Weston McKennie;us USA;USA;MF;Juventus;15.0;439;571;76.9;7488;1986;230;281;81.9;155;201;77.1;43;57;75.4;0;1.2;-1.2;18;36;13;2;37
+337;Gary Medel\563a68ad;Gary Medel;cl CHI;CHI;DF;Bologna;24.7;1194;1335;89.4;27209;8841;307;324;94.8;601;631;95.2;276;360;76.7;1;0.0;+1.0;1;56;4;1;49
+338;Filippo Melegoni\6604165d;Filippo Melegoni;it ITA;ITA;MFFW;Genoa;6.9;156;228;68.4;2530;761;79;97;81.4;58;75;77.3;13;34;38.2;0;0.5;-0.5;7;6;4;1;23
+339;Arthur Melo\48b3dd60;Arthur Melo;br BRA;BRA;MF;Juventus;8.8;529;583;90.7;11012;2370;188;208;90.4;246;259;95.0;91;100;91.0;0;0.3;-0.3;5;48;2;0;36
+340;Alex Meret\9413b19f;Alex Meret;it ITA;ITA;GK;Napoli;4.0;79;89;88.8;1869;954;20;20;100.0;32;33;97.0;25;34;73.5;0;0.0;0.0;0;0;0;0;0
+341;Yýldýrým Mert Çetin\c730da00;Yýldýrým Mert Çetin;tr TUR;TUR;DF;Hellas Verona;0.5;25;33;75.8;498;275;9;11;81.8;14;17;82.4;2;3;66.7;0;0.0;0.0;0;3;0;0;3
+342;Dries Mertens\89b2c8a9;Dries Mertens;be BEL;BEL;FWMF;Napoli;10.3;269;367;73.3;4108;876;154;187;82.4;93;119;78.2;14;38;36.8;0;1.0;-1.0;19;17;9;1;27
+343;Junior Messias\f49c4ae9;Junior Messias;br BRA;BRA;FWMF;Milan;12.5;297;438;67.8;4671;1402;162;212;76.4;95;140;67.9;30;62;48.4;0;1.1;-1.1;11;22;14;5;40
+344;Kingsley Michael\e63e122d;Kingsley Michael;ng NGA;NGA;MF;Bologna;0.8;24;28;85.7;426;69;13;14;92.9;5;7;71.4;5;6;83.3;0;0.0;0.0;0;3;0;0;2
+345;Valentin Mihaila\81a4c239;Valentin Mihaila;ro ROU;ROU;FWMF;Atalanta;0.8;13;30;43.3;154;26;11;15;73.3;2;6;33.3;0;3;0.0;0;0.0;0.0;0;0;0;0;0
+346;Mikael\33502726;Mikael;br BRA;BRA;FWMF;Salernitana;0.5;7;12;58.3;61;15;5;6;83.3;1;3;33.3;0;1;0.0;0;0.0;0.0;0;0;0;0;0
+347;Nikola Milenkovi?\bee704fc;Nikola Milenkovi?;rs SRB;SRB;DF;Fiorentina;24.0;1380;1525;90.5;31050;8250;337;377;89.4;749;788;95.1;285;338;84.3;0;0.0;0.0;1;83;0;0;66
+348;Sergej Milinkovi?-Savi?\4e6dbac4;Sergej Milinkovi?-Savi?;rs SRB;SRB;MF;Lazio;26.5;1480;1817;81.5;24661;5845;760;874;87.0;527;631;83.5;145;225;64.4;6;4.8;+1.2;38;117;37;9;116
+349;Vanja Milinkovi?-Savi?\9fa26bc2;Vanja Milinkovi?-Savi?;rs SRB;SRB;GK;Torino;25.0;500;950;52.6;20327;14152;42;44;95.5;192;197;97.5;266;708;37.6;0;0.0;0.0;0;57;1;0;0
+350;Aleksei Miranchuk\a9aa0d1d;Aleksei Miranchuk;ru RUS;RUS;MFFW;Atalanta;6.5;244;297;82.2;3927;1052;128;148;86.5;84;100;84.0;19;29;65.5;2;2.4;-0.4;17;20;15;1;35
+351;Fabio Miretti\34693494;Fabio Miretti;it ITA;ITA;MF;Juventus;0.0;2;2;100.0;33;1;1;1;100.0;1;1;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+352;Henrikh Mkhitaryan\dd0daf32;Henrikh Mkhitaryan;am ARM;ARM;MFFW;Roma;24.2;843;1023;82.4;15177;3678;385;440;87.5;336;396;84.8;106;133;79.7;4;4.3;-0.3;34;76;36;4;101
+353;Marco Modolo\fdcdb521;Marco Modolo;it ITA;ITA;DF;Venezia;3.4;93;115;80.9;2073;594;20;24;83.3;57;63;90.5;16;26;61.5;0;0.0;0.0;0;4;0;0;3
+354;Nahuel Molina\23610943;Nahuel Molina;ar ARG;ARG;DF;Udinese;22.2;622;894;69.6;10738;4620;311;368;84.5;237;339;69.9;61;155;39.4;1;2.3;-1.3;25;39;34;13;79
+355;Cristian Molinaro\1c8c5aed;Cristian Molinaro;it ITA;ITA;DF;Venezia;6.1;246;323;76.2;4739;2388;96;110;87.3;113;140;80.7;35;66;53.0;1;0.4;+0.6;5;19;5;3;25
+356;Lorenzo Montipò\c1d95617;Lorenzo Montipò;it ITA;ITA;GK;Hellas Verona;27.0;431;763;56.5;15947;10646;54;54;100.0;134;139;96.4;238;565;42.1;0;0.0;0.0;0;10;0;0;0
+357;Álvaro Morata\129af0db;Álvaro Morata;es ESP;ESP;FW;Juventus;21.4;441;579;76.2;7268;1150;231;290;79.7;159;190;83.7;37;56;66.1;2;4.5;-2.5;37;27;12;3;34
+358;Raúl Moro\919dd4b1;Raúl Moro;es ESP;ESP;FW;Lazio;2.2;75;87;86.2;1111;135;40;44;90.9;31;36;86.1;1;2;50.0;1;0.2;+0.8;5;1;2;1;3
+359;Andrei Motoc\b64073a0;Andrei Motoc;ro ROU;ROU;DF;Salernitana;1.0;18;22;81.8;482;182;2;2;100.0;9;9;100.0;7;11;63.6;0;0.0;0.0;0;4;0;0;0
+360;Lys Mousset\d9cfca3d;Lys Mousset;fr FRA;FRA;FWMF;Salernitana;1.7;34;42;81.0;476;156;21;24;87.5;12;15;80.0;1;1;100.0;1;0.2;+0.8;3;4;3;1;4
+361;Samuel Mráz\be6c1ccc;Samuel Mráz;sk SVK;SVK;FW;Spezia;0.6;8;11;72.7;134;13;4;6;66.7;3;4;75.0;1;1;100.0;0;0.0;0.0;0;1;0;0;1
+362;Mert Müldür\1295552e;Mert Müldür;tr TUR;TUR;DF;Sassuolo;16.1;662;835;79.3;11489;5242;312;347;89.9;272;327;83.2;66;125;52.8;0;0.3;-0.3;5;65;12;4;64
+363;Luis Muriel\eb2fe5b6;Luis Muriel;co COL;COL;FW;Atalanta;11.0;362;478;75.7;5640;1452;197;233;84.5;98;137;71.5;39;67;58.2;4;2.9;+1.1;32;19;23;5;42
+364;Vedat Muriqi\0cadc46d;Vedat Muriqi;xk KVX;KVX;FW;Lazio;2.4;46;69;66.7;804;65;17;24;70.8;25;41;61.0;3;3;100.0;0;0.0;0.0;0;1;2;0;2
+365;Nicola Murru\d183e9d6;Nicola Murru;it ITA;ITA;DF;Sampdoria;8.7;259;380;68.2;5358;2387;101;122;82.8;104;137;75.9;51;109;46.8;0;0.3;-0.3;5;27;5;1;38
+366;Juan Musso\a111cf41;Juan Musso;ar ARG;ARG;GK;Atalanta;24.6;520;709;73.3;16000;9414;80;82;97.6;221;224;98.7;217;400;54.3;0;0.0;0.0;0;3;0;0;0
+367;Joakim Mæhle\c459a650;Joakim Mæhle;dk DEN;DEN;DF;Atalanta;14.5;650;795;81.8;9837;3640;378;421;89.8;233;286;81.5;31;58;53.4;0;1.0;-1.0;14;38;18;2;55
+368;Nahitan Nández\95facda1;Nahitan Nández;uy URU;URU;MFDF;Cagliari;14.9;393;558;70.4;7247;2044;176;224;78.6;155;212;73.1;53;88;60.2;2;1.3;+0.7;16;33;20;7;49
+369;Nani\15e9c7e6;Nani;pt POR;POR;FWMF;Venezia;2.9;85;117;72.6;1451;345;41;48;85.4;30;43;69.8;10;19;52.6;0;0.3;-0.3;5;6;2;0;10
+370;Matija Nastasi?\f35430a4;Matija Nastasi?;rs SRB;SRB;DF;Fiorentina;2.4;139;150;92.7;3348;773;29;29;100.0;75;78;96.2;35;42;83.3;0;0.0;0.0;1;6;0;0;3
+371;Ilija Nestorovski\b1236c63;Ilija Nestorovski;mk MKD;MKD;FW;Udinese;0.1;9;13;69.2;162;61;4;6;66.7;4;4;100.0;1;1;100.0;0;0.0;0.0;0;1;0;0;0
+372;Aurélien Nguiamba\de135234;Aurélien Nguiamba;fr FRA;FRA;MF;Spezia;0.4;15;22;68.2;237;120;6;8;75.0;9;11;81.8;0;2;0.0;0;0.0;0.0;0;1;0;0;2
+373;Dimitris Nikolaou\cf961d8d;Dimitris Nikolaou;gr GRE;GRE;DF;Spezia;28.0;1108;1340;82.7;23760;8313;326;359;90.8;538;597;90.1;215;340;63.2;0;0.3;-0.3;3;74;2;1;62
+374;Jean-Pierre Nsame\12e6d21a;Jean-Pierre Nsame;cm CMR;CMR;FW;Venezia;1.9;24;43;55.8;378;84;13;25;52.0;8;10;80.0;2;5;40.0;0;0.0;0.0;0;1;0;0;1
+375;Bram Nuytinck\e33f36d5;Bram Nuytinck;nl NED;NED;DF;Udinese;19.3;639;741;86.2;14430;4191;138;152;90.8;367;397;92.4;128;183;69.9;0;0.2;-0.2;2;23;1;1;18
+376;Simeon Nwankwo\80dbbd10;Simeon Nwankwo;ng NGA;NGA;FW;Salernitana;9.4;137;186;73.7;2027;257;85;103;82.5;32;45;71.1;14;18;77.8;1;0.4;+0.6;6;7;4;0;7
+377;M'Bala Nzola\a4948e67;M'Bala Nzola;ao ANG;ANG;FW;Spezia;11.7;196;246;79.7;2781;288;109;128;85.2;50;67;74.6;15;18;83.3;1;1.4;-0.4;10;8;3;0;10
+378;Adam Obert\aa25ce92;Adam Obert;sk SVK;SVK;DF;Cagliari;2.9;64;96;66.7;1370;476;18;20;90.0;31;37;83.8;14;31;45.2;0;0.0;0.0;0;4;1;1;3
+379;Joel Obi\614c38fb;Joel Obi;ng NGA;NGA;MF;Salernitana;12.3;257;325;79.1;3734;880;150;167;89.8;76;100;76.0;18;30;60.0;1;1.6;-0.6;13;11;2;1;11
+380;Brain Oddei\97e8ea97;Brain Oddei;it ITA;ITA;FW;Sassuolo;0.0;1;1;100.0;5;0;1;1;100.0;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+381;Álvaro Odriozola\1d1691ad;Álvaro Odriozola;es ESP;ESP;DF;Fiorentina;17.6;824;934;88.2;14850;4537;374;407;91.9;355;395;89.9;84;97;86.6;1;3.5;-2.5;27;29;14;6;42
+382;Stefano Okaka\601ef102;Stefano Okaka;it ITA;ITA;FW;Udinese;0.2;5;5;100.0;74;22;3;3;100.0;2;2;100.0;0;0;;1;0.0;+1.0;0;0;0;0;1
+383;David Okereke\d125f22f;David Okereke;ng NGA;NGA;FWMF;Venezia;18.2;267;372;71.8;4330;937;150;186;80.6;91;128;71.1;20;34;58.8;0;0.8;-0.8;11;10;16;4;19
+384;Christian Oliva\d3b888e3;Christian Oliva;uy URU;URU;MF;Cagliari;0.5;27;32;84.4;468;88;10;12;83.3;16;16;100.0;1;4;25.0;0;0.0;0.0;0;0;0;0;3
+385;Sérgio Oliveira\947e036f;Sérgio Oliveira;pt POR;POR;MF;Roma;5.3;207;263;78.7;3658;1027;99;114;86.8;76;90;84.4;27;50;54.0;0;1.2;-1.2;9;12;4;0;11
+386;Riccardo Orsolini\e14ec482;Riccardo Orsolini;it ITA;ITA;FWDF;Bologna;15.2;367;557;65.9;6560;2215;185;240;77.1;114;162;70.4;52;116;44.8;2;1.6;+0.4;18;28;19;12;45
+387;Victor Osimhen\8c90fd7a;Victor Osimhen;ng NGA;NGA;FW;Napoli;16.0;168;245;68.6;2717;251;89;118;75.4;53;76;69.7;17;28;60.7;0;1.0;-1.0;12;6;2;1;5
+388;David Ospina\82b1198a;David Ospina;co COL;COL;GK;Napoli;26.0;637;788;80.8;16583;10034;130;131;99.2;288;295;97.6;211;352;59.9;0;0.0;0.0;0;5;0;0;0
+389;Adam Ounas\ed90babd;Adam Ounas;dz ALG;ALG;MFFW;Napoli;3.6;163;203;80.3;3339;985;66;79;83.5;70;82;85.4;26;35;74.3;0;1.0;-1.0;12;16;13;3;25
+390;Daniele Padelli\cf1c23d8;Daniele Padelli;it ITA;ITA;GK;Udinese;2.0;53;77;68.8;1309;858;14;14;100.0;26;26;100.0;12;36;33.3;0;0.0;0.0;0;0;0;0;0
+391;Goran Pandev\d711d04f;Goran Pandev;mk MKD;MKD;FWMF;Genoa;9.4;183;249;73.5;2726;722;96;128;75.0;61;77;79.2;13;20;65.0;1;1.3;-0.3;9;11;6;0;20
+392;Ivor Pandur\457cb02f;Ivor Pandur;hr CRO;CRO;GK;Hellas Verona;3.0;52;68;76.5;1624;1095;9;9;100.0;21;22;95.5;21;36;58.3;0;0.0;0.0;0;0;0;0;0
+393;Fabiano Parisi\0967845b;Fabiano Parisi;it ITA;ITA;DF;Empoli;11.5;446;572;78.0;8336;3473;185;202;91.6;197;242;81.4;57;104;54.8;1;0.5;+0.5;9;40;19;0;62
+394;Mario Pašali?\e599253a;Mario Pašali?;hr CRO;CRO;MFFW;Atalanta;17.2;638;797;80.1;11232;2725;284;344;82.6;276;321;86.0;62;81;76.5;6;5.9;+0.1;28;55;20;0;71
+395;Patric\f7223718;Patric;es ESP;ESP;DF;Lazio;12.0;899;966;93.1;19543;4807;295;310;95.2;392;407;96.3;203;238;85.3;1;0.7;+0.3;4;29;1;0;28
+396;Rui Patrício\79b0d6a0;Rui Patrício;pt POR;POR;GK;Roma;30.0;660;854;77.3;20148;12177;111;111;100.0;268;270;99.3;279;471;59.2;0;0.4;-0.4;2;2;0;0;1
+397;Leonardo Pavoletti\d37b0350;Leonardo Pavoletti;it ITA;ITA;FW;Cagliari;12.9;264;388;68.0;3596;526;179;237;75.5;56;101;55.4;17;24;70.8;1;0.7;+0.3;10;14;5;0;19
+398;Pedro\3ca7254a;Pedro;es ESP;ESP;FW;Lazio;21.5;757;903;83.8;11902;2853;423;477;88.7;248;289;85.8;61;90;67.8;3;3.0;0.0;28;35;36;8;82
+399;João Pedro\81255c03;João Pedro;br BRA;BRA;FW;Cagliari;29.0;418;586;71.3;7583;1404;185;233;79.4;167;222;75.2;54;85;63.5;3;2.8;+0.2;21;19;20;3;42
+400;Gianluca Pegolo\f058ed1f;Gianluca Pegolo;it ITA;ITA;GK;Sassuolo;1.0;29;34;85.3;804;485;5;5;100.0;11;12;91.7;12;16;75.0;0;0.0;0.0;0;0;0;0;0
+401;Pietro Pellegri\a44d3a3c;Pietro Pellegri;it ITA;ITA;FW;Torino;0.4;4;5;80.0;57;17;2;2;100.0;2;2;100.0;0;0;;0;0.0;0.0;0;0;0;0;1
+402;Pietro Pellegri\a44d3a3c;Pietro Pellegri;it ITA;ITA;FW;Milan;1.5;12;19;63.2;128;11;9;13;69.2;2;4;50.0;0;0;;0;0.4;-0.4;3;0;0;0;0
+403;Lorenzo Pellegrini\4a5a45c7;Lorenzo Pellegrini;it ITA;ITA;MFFW;Roma;19.7;611;846;72.2;11755;3960;273;327;83.5;227;287;79.1;98;193;50.8;2;4.6;-2.6;52;69;26;4;71
+404;Luca Pellegrini\3b61c9ec;Luca Pellegrini;it ITA;ITA;DF;Juventus;9.7;435;576;75.5;8134;3041;189;218;86.7;188;226;83.2;56;114;49.1;1;1.2;-0.2;11;31;13;7;27
+405;Federico Peluso\4f2908e5;Federico Peluso;it ITA;ITA;DF;Sassuolo;0.0;0;0;;0;0;0;0;;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+406;Gastón Pereiro\7ec7738e;Gastón Pereiro;uy URU;URU;FWMF;Cagliari;9.1;186;292;63.7;3309;950;83;111;74.8;64;95;67.4;30;64;46.9;0;1.3;-1.3;13;15;12;4;22
+407;Dor Peretz\e2a302a8;Dor Peretz;il ISR;ISR;MF;Venezia;3.9;114;147;77.6;1922;441;58;71;81.7;45;52;86.5;9;14;64.3;0;0.2;-0.2;2;10;0;0;5
+408;Roberto Pereyra\75f2c59f;Roberto Pereyra;ar ARG;ARG;MFFW;Udinese;15.0;506;605;83.6;8091;2094;254;286;88.8;201;235;85.5;35;52;67.3;4;2.3;+1.7;21;43;21;1;50
+409;Carles Pérez\a8f21b9f;Carles Pérez;es ESP;ESP;MFFW;Roma;3.8;139;162;85.8;2426;604;73;77;94.8;50;57;87.7;15;22;68.2;1;0.5;+0.5;9;7;9;0;15
+410;Nehuén Pérez\f7c491f1;Nehuén Pérez;ar ARG;ARG;DF;Udinese;11.2;346;459;75.4;7053;2707;128;148;86.5;157;193;81.3;56;102;54.9;1;0.4;+0.6;4;27;1;0;15
+411;Mattia Perin\4c62d0c8;Mattia Perin;it ITA;ITA;GK;Juventus;3.0;69;85;81.2;1821;782;17;17;100.0;30;31;96.8;22;37;59.5;0;0.0;0.0;0;1;0;0;0
+412;Ivan Periši?\6fe90922;Ivan Periši?;hr CRO;CRO;DF;Inter;22.9;810;1114;72.7;15333;5546;360;432;83.3;331;428;77.3;107;194;55.2;2;3.7;-1.7;32;46;36;16;91
+413;Diego Perotti\a40d5a0c;Diego Perotti;ar ARG;ARG;FWMF;Salernitana;2.6;90;119;75.6;1282;325;53;59;89.8;30;38;78.9;3;16;18.8;0;0.2;-0.2;3;5;1;1;9
+414;Mario Perrone\6cd33e2a;Mario Perrone;it ITA;ITA;DF;Salernitana;0.2;7;9;77.8;116;42;3;3;100.0;4;4;100.0;0;2;0.0;0;0.0;0.0;0;0;0;0;0
+415;Matteo Pessina\780e3631;Matteo Pessina;it ITA;ITA;MFFW;Atalanta;12.9;578;703;82.2;9408;2456;273;312;87.5;247;285;86.7;40;56;71.4;1;1.0;0.0;17;44;12;1;59
+416;Andrea Petagna\03f946ed;Andrea Petagna;it ITA;ITA;FW;Napoli;5.8;105;144;72.9;1624;193;57;69;82.6;37;47;78.7;7;15;46.7;0;0.7;-0.7;8;4;2;0;5
+417;Giuseppe Pezzella\149c5f5d;Giuseppe Pezzella;it ITA;ITA;DF;Atalanta;10.5;430;555;77.5;6783;1948;239;276;86.6;149;183;81.4;35;68;51.5;1;0.8;+0.2;7;17;6;2;36
+418;Krzysztof Pi?tek\17f3620a;Krzysztof Pi?tek;pl POL;POL;FW;Fiorentina;5.9;84;112;75.0;1248;202;46;60;76.7;30;35;85.7;4;5;80.0;0;0.6;-0.6;3;3;4;0;9
+419;Roberto Piccoli\1cadaf34;Roberto Piccoli;it ITA;ITA;FW;Genoa;0.5;4;10;40.0;34;7;3;6;50.0;0;1;0.0;0;2;0.0;0;0.0;0.0;0;0;0;0;0
+420;Roberto Piccoli\1cadaf34;Roberto Piccoli;it ITA;ITA;FW;Atalanta;2.2;26;44;59.1;352;48;16;25;64.0;9;14;64.3;0;0;;0;0.2;-0.2;3;0;0;0;0
+421;Andrea Pinamonti\08aa9cd1;Andrea Pinamonti;it ITA;ITA;FW;Empoli;24.9;313;510;61.4;4422;1051;196;269;72.9;90;154;58.4;16;32;50.0;2;1.9;+0.1;18;18;14;2;30
+422;Marko Pjaca\2c38b327;Marko Pjaca;hr CRO;CRO;FWMF;Torino;10.5;260;337;77.2;3975;923;154;186;82.8;78;96;81.3;22;33;66.7;0;0.7;-0.7;12;19;17;6;30
+423;Tommaso Pobega\55a1cac2;Tommaso Pobega;it ITA;ITA;MF;Torino;20.0;746;933;80.0;13609;3911;335;392;85.5;311;377;82.5;88;123;71.5;2;0.6;+1.4;15;89;16;2;88
+424;Suf Podgoreanu\d697a2d0;Suf Podgoreanu;il ISR;ISR;FW;Spezia;1.3;39;50;78.0;614;105;23;26;88.5;13;15;86.7;3;7;42.9;1;0.0;+1.0;1;1;1;1;2
+425;Matteo Politano\5e861944;Matteo Politano;it ITA;ITA;FW;Napoli;15.9;491;686;71.6;8372;2614;257;296;86.8;171;236;72.5;48;112;42.9;3;3.8;-0.8;35;21;26;7;60
+426;Manolo Portanova\c8c0dccd;Manolo Portanova;it ITA;ITA;MFFW;Genoa;10.5;146;248;58.9;2374;919;72;97;74.2;48;81;59.3;17;48;35.4;0;0.6;-0.6;9;10;4;0;18
+427;Dennis Praet\86695068;Dennis Praet;be BEL;BEL;MFFW;Torino;11.8;306;413;74.1;4920;1232;172;204;84.3;101;139;72.7;26;50;52.0;1;3.0;-2.0;18;21;20;11;26
+428;Mateusz Praszelik\ec6773f5;Mateusz Praszelik;pl POL;POL;FWMF;Hellas Verona;0.3;9;10;90.0;97;10;7;8;87.5;2;2;100.0;0;0;;0;0.0;0.0;0;1;0;0;0
+429;Ivan Provedel\277da414;Ivan Provedel;it ITA;ITA;GK;Spezia;23.0;593;905;65.5;21106;13196;79;80;98.8;194;199;97.5;318;624;51.0;0;0.0;0.0;0;12;1;0;1
+430;Erick Pulgar\4611e028;Erick Pulgar;cl CHI;CHI;MF;Fiorentina;3.8;209;236;88.6;4311;975;63;73;86.3;115;120;95.8;29;38;76.3;1;0.7;+0.3;7;16;2;0;12
+431;Ignacio Pussetto\62437b4f;Ignacio Pussetto;ar ARG;ARG;FWMF;Udinese;9.9;165;233;70.8;2815;704;85;107;79.4;57;83;68.7;21;27;77.8;1;1.0;0.0;8;13;6;3;17
+432;Niklas Pyyhtiä\88f53b75;Niklas Pyyhtiä;fi FIN;FIN;MF;Bologna;0.2;18;22;81.8;321;88;7;7;100.0;10;12;83.3;1;3;33.3;0;0.0;0.0;0;2;1;0;3
+433;Fabio Quagliarella\ee4f2f3b;Fabio Quagliarella;it ITA;ITA;FW;Sampdoria;16.0;275;407;67.6;5002;1058;128;166;77.1;93;129;72.1;40;69;58.0;2;2.0;0.0;18;21;13;3;26
+434;Adrien Rabiot\8794e251;Adrien Rabiot;fr FRA;FRA;MF;Juventus;18.7;664;806;82.4;11086;2604;304;360;84.4;284;325;87.4;58;85;68.2;2;0.7;+1.3;13;43;11;3;49
+435;Ivan Radovanovi?\023937a9;Ivan Radovanovi?;rs SRB;SRB;MF;Salernitana;3.7;158;193;81.9;3041;669;69;82;84.1;58;69;84.1;28;37;75.7;0;0.2;-0.2;3;9;2;0;9
+436;?tefan Radu\53de807a;?tefan Radu;ro ROU;ROU;DF;Lazio;5.4;238;292;81.5;4172;1584;106;116;91.4;111;135;82.2;17;32;53.1;0;0.1;-0.1;1;19;0;0;15
+437;Boris Radunovi?\0dfce079;Boris Radunovi?;rs SRB;SRB;GK;Cagliari;3.0;58;103;56.3;2274;1581;7;7;100.0;17;17;100.0;34;79;43.0;0;0.0;0.0;0;1;0;0;0
+438;Aaron Ramsey\ef619b0b;Aaron Ramsey;wls WAL;WAL;MF;Juventus;1.1;60;67;89.6;1178;274;25;28;89.3;25;27;92.6;10;12;83.3;0;0.1;-0.1;2;5;0;0;4
+439;Luca Ranieri\8c63fae5;Luca Ranieri;it ITA;ITA;DF;Salernitana;20.8;617;869;71.0;11383;5572;257;294;87.4;288;396;72.7;63;142;44.4;0;0.7;-0.7;10;41;20;12;73
+440;Andrea Ranocchia\539230cf;Andrea Ranocchia;it ITA;ITA;DF;Inter;3.6;168;177;94.9;3794;1312;46;50;92.0;84;85;98.8;38;41;92.7;0;0.0;0.0;0;4;1;0;6
+441;Giacomo Raspadori\6e058f06;Giacomo Raspadori;it ITA;ITA;MFFW;Sassuolo;22.6;610;782;78.0;10488;1703;321;364;88.2;202;248;81.5;71;122;58.2;3;2.8;+0.2;37;26;27;2;47
+442;Ante Rebi?\536cebe5;Ante Rebi?;hr CRO;CRO;FW;Milan;7.7;147;231;63.6;2470;733;88;118;74.6;36;60;60.0;21;39;53.8;2;3.8;-1.8;26;16;23;8;28
+443;Arkadiusz Reca\6213fd82;Arkadiusz Reca;pl POL;POL;DF;Spezia;15.7;492;700;70.3;9123;4452;221;269;82.2;202;269;75.1;65;129;50.4;2;1.8;+0.2;10;33;14;9;45
+444;Pepe Reina\e358587b;Pepe Reina;es ESP;ESP;GK;Lazio;15.0;428;525;81.5;11885;7629;100;100;100.0;161;163;98.8;161;256;62.9;1;0.3;+0.7;1;3;0;0;0
+445;Panagiotis Retsos\4bd00a50;Panagiotis Retsos;gr GRE;GRE;DFMF;Hellas Verona;0.5;14;21;66.7;280;124;7;8;87.5;5;10;50.0;2;3;66.7;0;0.1;-0.1;1;0;2;0;3
+446;Bryan Reynolds\2306bf5c;Bryan Reynolds;us USA;USA;DF;Roma;0.0;2;2;100.0;34;8;1;1;100.0;1;1;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+447;Franck Ribéry\f61c7c4e;Franck Ribéry;fr FRA;FRA;MFFW;Salernitana;13.7;421;550;76.5;7021;1751;209;239;87.4;152;181;84.0;40;74;54.1;2;2.7;-0.7;29;39;22;2;53
+448;Samuele Ricci\9823be92;Samuele Ricci;it ITA;ITA;MF;Empoli;17.0;818;921;88.8;16485;3845;269;286;94.1;425;446;95.3;118;166;71.1;1;0.3;+0.7;7;77;7;0;79
+449;Samuele Ricci\9823be92;Samuele Ricci;it ITA;ITA;MF;Torino;1.2;28;36;77.8;554;141;11;14;78.6;12;15;80.0;5;6;83.3;0;0.2;-0.2;1;2;0;0;2
+450;Tomás Rincón\f1cfc209;Tomás Rincón;ve VEN;VEN;MFFW;Torino;1.8;78;93;83.9;1512;273;34;41;82.9;32;36;88.9;10;13;76.9;0;0.0;0.0;2;9;0;0;7
+451;Tomás Rincón\f1cfc209;Tomás Rincón;ve VEN;VEN;MF;Sampdoria;7.0;288;344;83.7;5829;1776;119;130;91.5;118;138;85.5;51;70;72.9;0;0.1;-0.1;4;28;4;0;29
+452;Ricardo Rodríguez\7f78ad23;Ricardo Rodríguez;ch SUI;SUI;DF;Torino;20.5;935;1091;85.7;17595;6109;395;427;92.5;413;449;92.0;113;187;60.4;0;1.0;-1.0;16;82;7;2;82
+453;Rogério\10e7f486;Rogério;br BRA;BRA;DF;Sassuolo;16.2;818;991;82.5;14563;4307;371;410;90.5;331;377;87.8;97;170;57.1;1;1.8;-0.8;21;40;21;14;48
+454;Alessio Romagnoli\3ead85f9;Alessio Romagnoli;it ITA;ITA;DF;Milan;15.5;868;971;89.4;17658;5607;239;269;88.8;484;508;95.3;120;158;75.9;0;0.1;-0.1;3;56;2;0;60
+455;Simone Romagnoli\09899de8;Simone Romagnoli;it ITA;ITA;DF;Empoli;13.8;510;656;77.7;11037;4728;145;167;86.8;265;310;85.5;92;163;56.4;0;0.4;-0.4;4;45;8;0;41
+456;Luka Romero\ca6edaa0;Luka Romero;ar ARG;ARG;FW;Lazio;0.6;27;28;96.4;460;39;12;12;100.0;12;13;92.3;3;3;100.0;0;0.0;0.0;1;0;1;1;0
+457;Sergio Romero\1e26e376;Sergio Romero;ar ARG;ARG;GK;Venezia;16.0;421;590;71.4;12962;8067;87;88;98.9;154;163;94.5;176;335;52.5;0;0.2;-0.2;1;7;0;0;1
+458;Cristiano Ronaldo\dea698d9;Cristiano Ronaldo;pt POR;POR;FW;Juventus;0.3;9;12;75.0;114;14;8;10;80.0;1;2;50.0;0;0;;0;0.0;0.0;1;0;0;0;0
+459;Marten de Roon\2a1beb34;Marten de Roon;nl NED;NED;MFDF;Atalanta;20.3;1017;1184;85.9;19890;6168;387;433;89.4;472;514;91.8;143;206;69.4;0;0.4;-0.4;8;106;15;0;101
+460;Francesco Rossi\7b5f516f;Francesco Rossi;it ITA;ITA;GK;Atalanta;0.4;11;16;68.8;313;209;2;2;100.0;7;7;100.0;2;7;28.6;0;0.0;0.0;0;0;0;0;0
+461;Nicolò Rovella\e58cbfd5;Nicolò Rovella;it ITA;ITA;MF;Genoa;16.0;744;933;79.7;15331;3857;299;318;94.0;289;331;87.3;146;261;55.9;3;2.4;+0.6;31;58;10;1;54
+462;Amir Rrahmani\4b3e1a38;Amir Rrahmani;xk KVX;KVX;DF;Napoli;26.5;1562;1701;91.8;31577;9829;535;565;94.7;780;819;95.2;224;286;78.3;0;0.2;-0.2;5;85;2;0;63
+463;Ruan\a378a02a;Ruan;br BRA;BRA;DF;Sassuolo;1.3;30;35;85.7;522;238;14;16;87.5;15;15;100.0;1;4;25.0;0;0.1;-0.1;1;1;0;0;1
+464;Daniele Rugani\14b8fcdf;Daniele Rugani;it ITA;ITA;DF;Juventus;7.7;403;436;92.4;8818;2447;101;105;96.2;227;240;94.6;75;91;82.4;0;0.0;0.0;1;24;0;0;16
+465;Matteo Ruggeri\ae9898c5;Matteo Ruggeri;it ITA;ITA;DF;Salernitana;4.4;109;171;63.7;1828;924;61;73;83.6;35;57;61.4;11;31;35.5;0;0.1;-0.1;2;5;4;3;9
+466;Mário Rui\0b5a292a;Mário Rui;pt POR;POR;DF;Napoli;26.6;1722;2026;85.0;31694;9812;809;888;91.1;668;748;89.3;223;332;67.2;4;2.9;+1.1;35;98;36;8;113
+467;Fabián Ruiz Peña\c0c7ff58;Fabián Ruiz Peña;es ESP;ESP;MF;Napoli;21.4;1607;1785;90.0;29749;6771;719;773;93.0;629;680;92.5;226;270;83.7;2;2.5;-0.5;31;161;34;4;124
+468;Alessandro Russo\7152082d;Alessandro Russo;it ITA;ITA;MF;Salernitana;0.3;4;6;66.7;28;12;4;4;100.0;0;1;0.0;0;1;0.0;0;0.0;0.0;0;1;0;0;0
+469;Stefano Sabelli\0ccac09c;Stefano Sabelli;it ITA;ITA;DF;Genoa;3.9;96;151;63.6;1687;728;42;58;72.4;47;62;75.8;6;19;31.6;0;0.1;-0.1;2;7;3;0;17
+470;Abdelhamid Sabiri\4830e0af;Abdelhamid Sabiri;de GER;GER;FWMF;Sampdoria;2.9;96;123;78.0;1713;356;52;58;89.7;32;40;80.0;10;16;62.5;1;0.5;+0.5;5;14;3;0;8
+471;Alexis Saelemaekers\ee251371;Alexis Saelemaekers;be BEL;BEL;FW;Milan;16.8;585;729;80.2;8586;1999;338;386;87.6;183;228;80.3;38;63;60.3;3;3.1;-0.1;28;28;21;5;57
+472;Jacopo Sala\da5a981b;Jacopo Sala;it ITA;ITA;MF;Spezia;9.8;406;478;84.9;7357;1802;182;202;90.1;176;200;88.0;41;60;68.3;0;0.3;-0.3;6;28;6;2;40
+473;Eddie Salcedo\0489bb30;Eddie Salcedo;it ITA;ITA;MFFW;Spezia;4.5;95;136;69.9;1731;425;45;66;68.2;32;43;74.4;17;23;73.9;0;0.2;-0.2;5;9;3;1;14
+474;Lazar Samardzic\217c93a1;Lazar Samardzic;de GER;GER;MFFW;Udinese;2.0;80;109;73.4;1555;490;31;39;79.5;31;37;83.8;17;32;53.1;1;0.7;+0.3;8;11;3;0;10
+475;Luigi Samele\548fea2f;Luigi Samele;it ITA;ITA;FW;Sassuolo;0.0;0;1;0.0;0;0;0;1;0.0;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+476;Antonio Sanabria\0a447501;Antonio Sanabria;py PAR;PAR;FW;Torino;18.1;329;436;75.5;4785;420;210;263;79.8;76;108;70.4;25;31;80.6;1;1.5;-0.5;14;11;5;0;11
+477;Alexis Sánchez\2c0f8e9e;Alexis Sánchez;cl CHI;CHI;FW;Inter;8.7;290;369;78.6;5273;1407;144;159;90.6;89;114;78.1;46;71;64.8;2;1.3;+0.7;15;30;28;4;57
+478;Alex Sandro\0d82903c;Alex Sandro;br BRA;BRA;DF;Juventus;15.1;758;901;84.1;14910;5289;270;308;87.7;383;424;90.3;96;142;67.6;0;1.0;-1.0;18;46;23;11;65
+479;Nicola Sansone\7eb97a8e;Nicola Sansone;it ITA;ITA;FWMF;Bologna;8.5;197;282;69.9;3212;964;96;118;81.4;62;83;74.7;22;57;38.6;3;1.6;+1.4;14;14;10;7;13
+480;Federico Santander\df85d472;Federico Santander;py PAR;PAR;FWDF;Bologna;0.7;20;30;66.7;321;67;10;16;62.5;6;6;100.0;2;2;100.0;0;0.1;-0.1;1;2;1;1;3
+481;Samir Santos\92b4758e;Samir Santos;br BRA;BRA;DF;Udinese;16.8;551;687;80.2;10778;3953;212;231;91.8;264;309;85.4;69;129;53.5;0;0.1;-0.1;3;30;3;2;26
+482;Riccardo Saponara\3bb7af3b;Riccardo Saponara;it ITA;ITA;FW;Fiorentina;10.4;315;401;78.6;6214;1893;120;142;84.5;147;175;84.0;44;56;78.6;3;3.1;-0.1;17;28;24;5;67
+483;Martin Satriano\86383d0e;Martin Satriano;it ITA;ITA;FWMF;Inter;0.4;6;10;60.0;70;10;3;6;50.0;2;3;66.7;0;0;;0;0.0;0.0;1;1;0;0;0
+484;Giorgio Scalvini\1e9aa637;Giorgio Scalvini;it ITA;ITA;DFMF;Atalanta;3.3;152;190;80.0;2718;927;64;71;90.1;72;85;84.7;12;24;50.0;0;0.1;-0.1;2;10;2;0;18
+485;Gianluca Scamacca\8790f988;Gianluca Scamacca;it ITA;ITA;FW;Sassuolo;16.9;291;393;74.0;4412;705;177;222;79.7;82;116;70.7;21;32;65.6;0;1.6;-1.6;18;13;11;1;21
+486;Andrea Schiavone\4b55eb4d;Andrea Schiavone;it ITA;ITA;MF;Salernitana;6.3;203;243;83.5;4265;1404;75;85;88.2;84;89;94.4;40;62;64.5;0;0.6;-0.6;10;19;4;0;17
+487;David Schnegg\1c341b14;David Schnegg;at AUT;AUT;DF;Venezia;1.6;61;85;71.8;1281;604;27;30;90.0;22;31;71.0;12;24;50.0;0;0.0;0.0;1;3;1;0;5
+488;Jerdy Schouten\2cfae697;Jerdy Schouten;nl NED;NED;MF;Bologna;8.0;344;413;83.3;6260;1902;149;169;88.2;157;186;84.4;32;42;76.2;1;0.4;+0.6;7;37;6;0;38
+489;Demba Seck\16463a79;Demba Seck;sn SEN;SEN;MF;Torino;0.1;1;1;100.0;33;0;0;0;;0;0;;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+490;Stefano Sensi\b70bde8f;Stefano Sensi;it ITA;ITA;MF;Inter;1.9;106;124;85.5;1791;310;65;72;90.3;30;37;81.1;11;13;84.6;0;0.3;-0.3;4;8;1;1;5
+491;Stefano Sensi\b70bde8f;Stefano Sensi;it ITA;ITA;MFFW;Sampdoria;4.8;171;207;82.6;3284;549;66;78;84.6;75;83;90.4;26;36;72.2;0;0.6;-0.6;7;10;3;0;10
+492;Luigi Sepe\343f753a;Luigi Sepe;it ITA;ITA;GK;Salernitana;7.0;185;255;72.5;6813;5086;31;31;100.0;59;60;98.3;94;163;57.7;0;0.0;0.0;0;5;0;0;0
+493;Laurens Serpe\79d60e74;Laurens Serpe;it ITA;ITA;DF;Genoa;0.5;27;32;84.4;538;100;8;8;100.0;16;16;100.0;3;6;50.0;0;0.0;0.0;0;3;0;0;2
+494;Stephan El Shaarawy\d3aaad90;Stephan El Shaarawy;it ITA;ITA;DFFW;Roma;8.6;342;412;83.0;6207;1719;160;185;86.5;144;170;84.7;37;49;75.5;0;1.6;-1.6;18;16;23;4;40
+495;Aimar Sher\ef301f96;Aimar Sher;se SWE;SWE;MF;Spezia;0.5;18;19;94.7;318;100;9;9;100.0;6;6;100.0;2;2;100.0;0;0.0;0.0;0;1;1;0;3
+496;Eldor Shomurodov\57469b2d;Eldor Shomurodov;uz UZB;UZB;FW;Roma;6.9;121;181;66.9;1780;474;71;100;71.0;35;50;70.0;9;15;60.0;3;1.5;+1.5;13;9;6;3;7
+497;Alassane Sidibe\f944979d;Alassane Sidibe;ci CIV;CIV;FW;Atalanta;0.1;2;3;66.7;24;0;1;1;100.0;1;1;100.0;0;1;0.0;0;0.0;0.0;0;0;0;0;0
+498;Arnór Sigur?sson\f209b81e;Arnór Sigur?sson;is ISL;ISL;MFFW;Venezia;2.0;39;50;78.0;517;129;24;30;80.0;13;14;92.9;1;4;25.0;0;0.0;0.0;2;2;1;0;7
+499;Adrien Silva\d6f88a1d;Adrien Silva;pt POR;POR;MF;Sampdoria;12.0;514;605;85.0;10595;2494;175;205;85.4;240;261;92.0;89;116;76.7;1;0.5;+0.5;8;40;6;2;48
+500;Marco Silvestri\0d422df7;Marco Silvestri;it ITA;ITA;GK;Udinese;27.0;493;737;66.9;16102;10997;96;98;98.0;198;198;100.0;198;440;45.0;0;0.1;-0.1;2;10;0;0;0
+501;Giovanni Simeone\343c0d52;Giovanni Simeone;ar ARG;ARG;FW;Hellas Verona;22.1;381;544;70.0;5036;740;247;320;77.2;88;125;70.4;21;35;60.0;2;1.2;+0.8;13;17;11;2;19
+502;Giovanni Simeone\343c0d52;Giovanni Simeone;ar ARG;ARG;FW;Cagliari;0.1;2;4;50.0;24;10;2;3;66.7;0;0;;0;0;;0;0.0;0.0;0;0;0;0;0
+503;Wilfried Singo\8b609c34;Wilfried Singo;ci CIV;CIV;DF;Torino;23.4;880;1155;76.2;15768;5486;380;441;86.2;403;511;78.9;82;146;56.2;3;2.2;+0.8;22;38;34;14;79
+504;Salvatore Sirigu\10dc46f0;Salvatore Sirigu;it ITA;ITA;GK;Genoa;30.0;686;1026;66.9;22755;14606;111;112;99.1;239;243;98.4;331;664;49.8;0;0.0;0.0;0;7;0;0;0
+505;Leo Skiri Østigård\b35a7399;Leo Skiri Østigård;no NOR;NOR;DF;Genoa;6.0;185;258;71.7;3808;1745;72;86;83.7;80;107;74.8;33;63;52.4;0;0.0;0.0;0;9;0;0;18
+506;?ukasz Skorupski\ab4449d6;?ukasz Skorupski;pl POL;POL;GK;Bologna;29.0;744;1001;74.3;21726;13056;140;141;99.3;251;255;98.4;305;556;54.9;0;0.0;0.0;0;3;0;0;0
+507;Andreas Skov Olsen\c50cee19;Andreas Skov Olsen;dk DEN;DEN;DFFW;Bologna;8.3;301;393;76.6;4789;1590;162;183;88.5;109;136;80.1;28;61;45.9;1;0.4;+0.6;9;12;7;7;22
+508;Milan Škriniar\30f5ffa9;Milan Škriniar;sk SVK;SVK;DF;Inter;26.0;1474;1585;93.0;29721;8058;523;558;93.7;734;767;95.7;208;240;86.7;0;0.5;-0.5;8;64;11;2;64
+509;Chris Smalling\b6964eb6;Chris Smalling;eng ENG;ENG;DF;Roma;17.2;641;729;87.9;14774;3395;115;133;86.5;403;431;93.5;120;155;77.4;0;0.1;-0.1;1;17;0;0;20
+510;Brandon Soppy\28f66c2e;Brandon Soppy;fr FRA;FRA;DFMF;Udinese;6.6;124;176;70.5;1948;754;62;77;80.5;50;64;78.1;8;17;47.1;0;0.1;-0.1;4;7;6;1;15
+511;Roberto Soriano\9d4c45d6;Roberto Soriano;it ITA;ITA;MFFW;Bologna;23.6;809;994;81.4;12572;4166;438;494;88.7;285;344;82.8;59;96;61.5;2;2.7;-0.7;34;80;34;6;102
+512;Riccardo Sottil\94816803;Riccardo Sottil;it ITA;ITA;FW;Fiorentina;12.5;270;347;77.8;5233;777;113;128;88.3;120;153;78.4;35;50;70.0;2;1.8;+0.2;12;8;17;6;23
+513;Matìas Soulé\c13ddd3e;Matìas Soulé;ar ARG;ARG;FW;Juventus;0.1;7;7;100.0;139;22;2;2;100.0;4;4;100.0;1;1;100.0;0;0.0;0.0;0;3;0;0;1
+514;Adama Soumaoro\7b075c75;Adama Soumaoro;fr FRA;FRA;DF;Bologna;18.3;712;796;89.4;13031;4177;280;309;90.6;343;373;92.0;75;90;83.3;0;0.1;-0.1;1;39;1;0;43
+515;Marco Sportiello\ac4003af;Marco Sportiello;it ITA;ITA;GK;Atalanta;4.0;78;107;72.9;2225;1193;6;6;100.0;43;44;97.7;27;54;50.0;0;0.0;0.0;0;0;0;0;0
+516;Luca Stanga\2967bcd0;Luca Stanga;it ITA;ITA;DF;Milan;0.0;2;2;100.0;37;1;1;1;100.0;1;1;100.0;0;0;;0;0.0;0.0;0;0;0;0;0
+517;Petar Stojanovi?\13b44b02;Petar Stojanovi?;si SVN;SVN;DF;Empoli;23.7;1096;1405;78.0;20051;8502;493;550;89.6;482;587;82.1;117;214;54.7;1;2.5;-1.5;25;71;50;14;128
+518;Thomas Strakosha\339fe0e8;Thomas Strakosha;al ALB;ALB;GK;Lazio;15.0;375;450;83.3;9795;5416;99;99;100.0;119;123;96.7;146;216;67.6;0;0.0;0.0;0;2;1;0;1
+519;Stefan Strandberg\6d5e62b0;Stefan Strandberg;no NOR;NOR;DF;Salernitana;10.4;432;511;84.5;10289;4737;110;124;88.7;205;232;88.4;114;145;78.6;0;0.3;-0.3;3;34;3;1;40
+520;Dávid Strelec\2cb9486d;Dávid Strelec;sk SVK;SVK;FWMF;Spezia;5.3;96;128;75.0;1528;389;52;67;77.6;28;37;75.7;10;14;71.4;0;0.8;-0.8;6;5;5;1;10
+521;Kevin Strootman\ef2e5e1a;Kevin Strootman;nl NED;NED;MF;Cagliari;7.1;293;358;81.8;5777;1529;112;132;84.8;127;138;92.0;48;73;65.8;0;0.2;-0.2;3;28;1;1;28
+522;Jens Stryger Larsen\f91e81c9;Jens Stryger Larsen;dk DEN;DEN;DF;Udinese;7.6;219;291;75.3;3620;1479;113;126;89.7;80;106;75.5;19;48;39.6;1;0.9;+0.1;11;10;5;2;11
+523;Leo Štulac\92948398;Leo Štulac;si SVN;SVN;MF;Empoli;7.2;296;376;78.7;6008;1965;99;109;90.8;143;161;88.8;46;89;51.7;2;0.4;+1.6;7;31;6;1;33
+524;Stefano Sturaro\2334478a;Stefano Sturaro;it ITA;ITA;MF;Genoa;17.8;341;531;64.2;5810;2084;162;217;74.7;121;175;69.1;41;84;48.8;0;0.5;-0.5;6;22;10;3;42
+525;Isaac Success\f573a8bf;Isaac Success;ng NGA;NGA;FWMF;Udinese;6.1;113;177;63.8;1922;413;58;86;67.4;37;54;68.5;13;23;56.5;2;1.5;+0.5;9;7;4;1;10
+526;Vladyslav Supriaha\73affbb6;Vladyslav Supriaha;ua UKR;UKR;FW;Sampdoria;0.2;3;4;75.0;37;3;3;3;100.0;0;1;0.0;0;0;;0;0.0;0.0;0;0;0;0;0
+527;Bosko Sutalo\1d0bb7e4;Bosko Sutalo;hr CRO;CRO;DF;Hellas Verona;7.7;299;371;80.6;5458;1765;140;162;86.4;105;128;82.0;48;68;70.6;0;0.1;-0.1;2;16;4;3;25
+528;Mattias Svanberg\92d83c27;Mattias Svanberg;se SWE;SWE;MF;Bologna;23.8;651;893;72.9;11518;3470;337;385;87.5;198;268;73.9;92;186;49.5;2;2.7;-0.7;28;64;24;6;64
+529;Michael Svoboda\8abd174d;Michael Svoboda;at AUT;AUT;DF;Venezia;9.6;387;445;87.0;8555;3191;114;122;93.4;197;210;93.8;75;101;74.3;0;0.0;0.0;0;20;1;0;30
+530;Wojciech Szcz?sny\01b8a2b2;Wojciech Szcz?sny;pl POL;POL;GK;Juventus;27.0;674;829;81.3;19829;10489;92;93;98.9;307;310;99.0;271;420;64.5;0;0.1;-0.1;2;1;0;0;0
+531;Adrien Tameze\8da74c05;Adrien Tameze;cm CMR;CMR;MFDF;Hellas Verona;21.2;796;1004;79.3;13922;4363;377;437;86.3;315;383;82.2;85;140;60.7;2;1.2;+0.8;19;67;16;4;93
+532;Ciprian T?t?ru?anu\b056e3da;Ciprian T?t?ru?anu;ro ROU;ROU;GK;Milan;6.0;162;206;78.6;4995;3138;24;24;100.0;75;75;100.0;63;107;58.9;0;0.0;0.0;0;0;0;0;0
+533;Filippo Terracciano\5cbb5ad6;Filippo Terracciano;it ITA;ITA;DF;Hellas Verona;0.1;3;5;60.0;37;18;2;2;100.0;1;2;50.0;0;1;0.0;0;0.0;0.0;0;0;0;0;0
+534;Pietro Terracciano\e1b0a70d;Pietro Terracciano;it ITA;ITA;GK;Fiorentina;22.8;894;1099;81.3;27292;14197;120;121;99.2;379;383;99.0;393;591;66.5;0;0.0;0.0;1;12;0;0;1
+535;Aleksa Terzi?\3ef0a2d7;Aleksa Terzi?;rs SRB;SRB;DF;Fiorentina;2.5;171;205;83.4;3287;1165;74;78;94.9;71;81;87.7;25;41;61.0;1;0.4;+0.6;4;6;7;5;10
+536;Tanner Tessmann\ac277993;Tanner Tessmann;us USA;USA;MF;Venezia;6.7;152;200;76.0;3177;897;64;77;83.1;57;68;83.8;29;47;61.7;0;0.1;-0.1;3;18;1;0;16
+537;Arthur Theate\df8d6029;Arthur Theate;be BEL;BEL;DF;Bologna;21.0;1002;1204;83.2;20396;7243;362;396;91.4;482;541;89.1;154;242;63.6;1;0.2;+0.8;4;96;8;2;73
+538;Morten Thorsby\d1b49282;Morten Thorsby;no NOR;NOR;MF;Sampdoria;25.7;559;774;72.2;8149;2710;325;407;79.9;177;247;71.7;29;60;48.3;1;0.9;+0.1;11;50;11;0;71
+539;Jeremy Toljan\a96e5dc0;Jeremy Toljan;de GER;GER;DF;Sassuolo;15.1;723;821;88.1;12494;4043;347;372;93.3;293;328;89.3;73;101;72.3;1;1.1;-0.1;13;32;11;4;38
+540;Rafael Tolói\c56dc39e;Rafael Tolói;it ITA;ITA;DF;Atalanta;14.9;733;876;83.7;15063;5479;253;276;91.7;366;408;89.7;112;168;66.7;1;0.5;+0.5;8;80;7;2;66
+541;Takehiro Tomiyasu\b3af9be1;Takehiro Tomiyasu;jp JPN;JPN;DF;Bologna;0.1;3;3;100.0;93;83;0;0;;1;1;100.0;2;2;100.0;0;0.0;0.0;1;0;1;1;0
+542;Fikayo Tomori\7edfbb8a;Fikayo Tomori;eng ENG;ENG;DF;Milan;22.4;1125;1264;89.0;24490;7525;254;275;92.4;658;698;94.3;197;268;73.5;0;0.0;0.0;1;46;0;0;51
+543;Sandro Tonali\0db169ae;Sandro Tonali;it ITA;ITA;MF;Milan;21.8;964;1170;82.4;19822;5281;357;391;91.3;393;433;90.8;191;308;62.0;2;2.6;-0.6;34;95;18;5;78
+544;Lorenzo Tonelli\8cc29864;Lorenzo Tonelli;it ITA;ITA;DF;Empoli;9.4;453;536;84.5;9890;3856;123;135;91.1;238;258;92.2;85;129;65.9;0;0.2;-0.2;4;37;6;0;45
+545;Ernesto Torregrossa\bf39bdec;Ernesto Torregrossa;it ITA;ITA;FW;Sampdoria;1.3;31;46;67.4;595;131;17;21;81.0;9;14;64.3;5;7;71.4;0;0.1;-0.1;2;4;1;0;3
+546;Lucas Torreira\52611641;Lucas Torreira;uy URU;URU;MF;Fiorentina;20.5;1005;1154;87.1;21602;4726;299;333;89.8;498;547;91.0;197;247;79.8;1;1.3;-0.3;18;69;15;1;94
+547;Abdoulaye Touré\ef7cd87a;Abdoulaye Touré;fr FRA;FRA;MF;Genoa;4.8;137;173;79.2;2207;378;70;78;89.7;51;66;77.3;12;21;57.1;0;0.0;0.0;0;12;0;0;8
+548;Simone Trimboli\f5f21026;Simone Trimboli;it ITA;ITA;MF;Sampdoria;0.1;11;11;100.0;207;73;5;5;100.0;5;5;100.0;1;1;100.0;0;0.0;0.0;0;2;1;0;4
+549;Axel Tuanzebe\2baec6ce;Axel Tuanzebe;eng ENG;ENG;DF;Napoli;0.1;4;4;100.0;82;49;1;1;100.0;2;2;100.0;1;1;100.0;0;0.0;0.0;0;0;0;0;1
+550;Iyenoma Udogie\7cd520e8;Iyenoma Udogie;it ITA;ITA;DF;Udinese;19.2;498;620;80.3;7177;2771;277;319;86.8;183;232;78.9;15;24;62.5;1;1.0;0.0;15;26;11;2;41
+551;Maximilian Ullmann\caaf2ed1;Maximilian Ullmann;at AUT;AUT;DF;Venezia;1.2;8;17;47.1;182;105;5;7;71.4;0;2;0.0;3;7;42.9;0;0.0;0.0;0;2;0;0;2
+552;Antonio Vacca\444c89d9;Antonio Vacca;it ITA;ITA;MF;Venezia;9.4;488;563;86.7;10512;2940;140;155;90.3;239;260;91.9;101;130;77.7;0;0.0;0.0;2;40;6;0;33
+553;Zinho Vanheusden\afbf187b;Zinho Vanheusden;be BEL;BEL;DF;Genoa;11.0;332;414;80.2;6881;2067;115;134;85.8;163;183;89.1;52;87;59.8;0;0.1;-0.1;1;21;0;0;20
+554;Johan Vásquez\5eaed77a;Johan Vásquez;mx MEX;MEX;DF;Genoa;20.1;672;918;73.2;13746;5100;211;257;82.1;361;432;83.6;97;193;50.3;0;0.1;-0.1;3;50;2;0;44
+555;Denis Vavro\08990838;Denis Vavro;sk SVK;SVK;DF;Lazio;0.1;6;6;100.0;97;40;3;3;100.0;2;2;100.0;1;1;100.0;0;0.0;0.0;0;0;0;0;0
+556;Matías Vecino\44ac04e9;Matías Vecino;uy URU;URU;MF;Inter;4.2;162;209;77.5;2792;961;82;94;87.2;59;75;78.7;16;27;59.3;0;0.8;-0.8;4;24;9;1;31
+557;Miguel Veloso\ab1ca213;Miguel Veloso;pt POR;POR;MF;Hellas Verona;13.4;677;852;79.5;13963;4301;230;276;83.3;324;371;87.3;117;185;63.2;2;1.9;+0.1;25;73;19;5;69
+558;Lorenzo Venuti\983ff2c7;Lorenzo Venuti;it ITA;ITA;DF;Fiorentina;10.8;512;611;83.8;10559;3291;173;193;89.6;242;278;87.1;91;128;71.1;0;0.3;-0.3;4;38;8;3;38
+559;Daniele Verde\d3298c99;Daniele Verde;it ITA;ITA;FWMF;Spezia;17.2;474;693;68.4;9541;2815;212;264;80.3;160;218;73.4;92;185;49.7;2;3.0;-1.0;27;34;20;7;61
+560;Simone Verdi\0375723e;Simone Verdi;it ITA;ITA;FWMF;Torino;0.5;9;17;52.9;123;40;5;8;62.5;3;6;50.0;0;2;0.0;0;0.0;0.0;1;0;0;0;0
+561;Simone Verdi\0375723e;Simone Verdi;it ITA;ITA;FWMF;Salernitana;4.1;117;164;71.3;2337;968;45;51;88.2;43;52;82.7;22;41;53.7;0;0.6;-0.6;7;9;8;3;17
+562;Jordan Veretout\4a56052c;Jordan Veretout;fr FRA;FRA;MF;Roma;21.6;998;1180;84.6;20918;5357;325;359;90.5;479;533;89.9;186;265;70.2;6;4.0;+2.0;47;107;15;3;83
+563;Edoardo Vergani\2873973b;Edoardo Vergani;it ITA;ITA;FWMF;Salernitana;1.0;9;18;50.0;150;42;5;8;62.5;2;3;66.7;2;3;66.7;0;0.0;0.0;0;3;0;0;1
+564;Valerio Verre\33ecf462;Valerio Verre;it ITA;ITA;MFFW;Sampdoria;4.7;147;225;65.3;3001;932;55;74;74.3;61;95;64.2;28;44;63.6;0;0.3;-0.3;7;20;11;4;23
+565;Valerio Verre\33ecf462;Valerio Verre;it ITA;ITA;FWMF;Empoli;1.0;26;41;63.4;467;92;14;17;82.4;9;15;60.0;3;7;42.9;0;0.0;0.0;0;0;2;0;3
+566;Freddie Veseli\d541e703;Freddie Veseli;al ALB;ALB;DF;Salernitana;6.6;171;203;84.2;3360;1449;67;71;94.4;78;90;86.7;24;39;61.5;0;0.0;0.0;0;10;2;2;8
+567;Guglielmo Vicario\77d6fd4d;Guglielmo Vicario;it ITA;ITA;GK;Empoli;30.0;793;1024;77.4;21307;13420;163;164;99.4;395;398;99.2;228;455;50.1;0;0.0;0.0;1;5;0;0;0
+568;Arturo Vidal\67cdbc0e;Arturo Vidal;cl CHI;CHI;MF;Inter;6.8;403;461;87.4;7067;1805;212;228;93.0;132;149;88.6;51;73;69.9;1;1.1;-0.1;9;31;12;1;39
+569;Ronaldo Vieira\75e60d75;Ronaldo Vieira;gw GNB;GNB;MFFW;Sampdoria;1.3;87;100;87.0;1672;229;36;40;90.0;43;47;91.5;8;13;61.5;0;0.0;0.0;0;6;1;0;2
+570;Luca Vignali\c1e8e74e;Luca Vignali;it ITA;ITA;DF;Spezia;0.9;42;51;82.4;772;150;16;16;100.0;24;26;92.3;2;5;40.0;0;0.0;0.0;0;1;0;0;1
+571;Emanuel Vignato\ec5dae45;Emanuel Vignato;it ITA;ITA;MFDF;Bologna;6.2;315;378;83.3;5434;1570;175;194;90.2;104;120;86.7;36;46;78.3;0;1.7;-1.7;11;29;12;3;35
+572;Matías Viña\08eb3b58;Matías Viña;uy URU;URU;DF;Roma;17.0;656;828;79.2;11366;4974;298;344;86.6;293;346;84.7;56;103;54.4;1;1.4;-0.4;11;45;14;6;63
+573;Nicolas Viola\45392b06;Nicolas Viola;it ITA;ITA;MF;Bologna;1.0;39;55;70.9;645;204;18;21;85.7;19;26;73.1;2;7;28.6;0;0.0;0.0;0;1;0;0;3
+574;Mattia Viti\75438a9a;Mattia Viti;it ITA;ITA;DF;Empoli;12.2;464;546;85.0;9778;2714;149;164;90.9;215;243;88.5;93;125;74.4;0;0.0;0.0;2;25;0;0;33
+575;Dušan Vlahovi?\79443529;Dušan Vlahovi?;rs SRB;SRB;FW;Juventus;6.0;94;141;66.7;1721;236;48;69;69.6;26;38;68.4;16;23;69.6;1;0.8;+0.2;2;3;5;0;6
+576;Dušan Vlahovi?\79443529;Dušan Vlahovi?;rs SRB;SRB;FW;Fiorentina;20.6;279;400;69.8;5109;713;129;169;76.3;97;142;68.3;41;58;70.7;2;1.9;+0.1;21;20;11;2;22
+577;Mërgim Vojvoda\be2706c0;Mërgim Vojvoda;xk KVX;KVX;DF;Torino;16.2;650;846;76.8;11276;4762;335;375;89.3;236;303;77.9;67;133;50.4;0;1.6;-1.6;14;58;20;10;73
+578;Cristian Volpato\72f87f25;Cristian Volpato;au AUS;AUS;MF;Roma;0.3;10;15;66.7;203;43;3;4;75.0;6;9;66.7;1;2;50.0;0;0.0;0.0;0;0;0;0;1
+579;Stefan de Vrij\d0d8dd44;Stefan de Vrij;nl NED;NED;DF;Inter;20.4;1098;1174;93.5;22549;5743;329;345;95.4;586;603;97.2;161;199;80.9;0;0.0;0.0;0;38;3;0;32
+580;Walace\26db8853;Walace;br BRA;BRA;MF;Udinese;24.9;993;1211;82.0;19702;5098;362;414;87.4;455;509;89.4;153;243;63.0;0;1.9;-1.9;21;109;13;2;88
+581;Sebastian Walukiewicz\217875a4;Sebastian Walukiewicz;pl POL;POL;DF;Cagliari;3.1;153;167;91.6;3138;921;53;55;96.4;74;78;94.9;25;32;78.1;0;0.0;0.0;1;9;2;0;8
+582;Magnus Warming\55e098cd;Magnus Warming;dk DEN;DEN;FWDF;Torino;0.6;11;21;52.4;117;14;7;9;77.8;2;7;28.6;0;0;;0;0.0;0.0;0;1;0;0;1
+583;Kelvin Yeboah\ea0893d6;Kelvin Yeboah;it ITA;ITA;FW;Genoa;5.8;72;116;62.1;1001;301;43;57;75.4;17;33;51.5;6;9;66.7;0;0.8;-0.8;8;6;1;1;5
+584;Gerard Yepes\ee9040b4;Gerard Yepes;es ESP;ESP;MFDF;Sampdoria;0.2;15;18;83.3;377;144;3;4;75.0;7;8;87.5;5;6;83.3;0;0.0;0.0;0;1;0;0;1
+585;Maya Yoshida\caffaf5a;Maya Yoshida;jp JPN;JPN;DF;Sampdoria;18.9;752;884;85.1;17630;5562;178;201;88.6;384;426;90.1;183;246;74.4;2;1.2;+0.8;5;42;5;1;40
+586;Mattia Zaccagni\d85c238b;Mattia Zaccagni;it ITA;ITA;FW;Lazio;13.6;424;520;81.5;6245;1555;246;279;88.2;140;169;82.8;23;45;51.1;4;1.9;+2.1;18;16;25;2;53
+587;Mattia Zaccagni\d85c238b;Mattia Zaccagni;it ITA;ITA;MFFW;Hellas Verona;2.0;60;75;80.0;925;383;35;37;94.6;15;23;65.2;7;10;70.0;0;0.8;-0.8;5;3;6;1;8
+588;Denis Zakaria\384d58d9;Denis Zakaria;ch SUI;SUI;MF;Juventus;2.3;41;52;78.8;750;299;15;17;88.2;20;26;76.9;5;6;83.3;0;0.1;-0.1;1;4;2;1;7
+589;Nicola Zalewski\45191c29;Nicola Zalewski;pl POL;POL;DF;Roma;3.8;177;232;76.3;3263;1039;76;93;81.7;78;90;86.7;21;43;48.8;0;0.2;-0.2;4;7;1;1;9
+590;Andre-Frank Zambo Anguissa\6bb2c084;Andre-Frank Zambo Anguissa;cm CMR;CMR;MF;Napoli;15.4;808;904;89.4;12787;3038;426;462;92.2;300;332;90.4;56;70;80.0;0;1.2;-1.2;17;92;13;1;71
+591;Nicolò Zaniolo\9907b1c8;Nicolò Zaniolo;it ITA;ITA;FW;Roma;18.8;351;484;72.5;6444;1554;169;201;84.1;123;160;76.9;49;83;59.0;1;2.1;-1.1;21;28;22;2;49
+592;Alessandro Zanoli\3b12b11f;Alessandro Zanoli;it ITA;ITA;DF;Napoli;0.5;24;34;70.6;387;79;12;14;85.7;9;12;75.0;3;6;50.0;0;0.0;0.0;0;0;0;0;3
+593;Mattia Zanotti\875d65d1;Mattia Zanotti;it ITA;ITA;DF;Inter;0.1;13;13;100.0;139;37;10;10;100.0;2;2;100.0;0;0;;0;0.1;-0.1;1;0;0;0;1
+594;Duván Zapata\d3de9af0;Duván Zapata;co COL;COL;FW;Atalanta;13.4;266;339;78.5;4105;579;153;185;82.7;86;112;76.8;20;27;74.1;4;2.4;+1.6;21;13;14;3;18
+595;Gabriele Zappa\ca3db240;Gabriele Zappa;it ITA;ITA;DF;Cagliari;12.0;450;597;75.4;8065;3674;196;224;87.5;201;245;82.0;47;96;49.0;0;1.2;-1.2;8;22;7;6;32
+596;Davide Zappacosta\7fe90ccd;Davide Zappacosta;it ITA;ITA;DF;Atalanta;17.7;819;994;82.4;12737;4479;451;488;92.4;310;376;82.4;42;81;51.9;3;2.7;+0.3;20;31;25;12;59
+597;Simone Zaza\9592289a;Simone Zaza;it ITA;ITA;FWMF;Torino;1.4;34;44;77.3;503;88;20;25;80.0;11;14;78.6;2;2;100.0;0;0.0;0.0;0;1;1;0;2
+598;Marvin Zeegelaar\8abd0c03;Marvin Zeegelaar;nl NED;NED;DF;Udinese;5.7;192;248;77.4;3546;1482;74;90;82.2;90;114;78.9;23;36;63.9;0;0.0;0.0;2;12;1;0;16
+599;Piotr Zieli?ski\a5296e55;Piotr Zieli?ski;pl POL;POL;MF;Napoli;19.6;829;985;84.2;13412;3539;407;452;90.0;319;382;83.5;67;93;72.0;5;2.9;+2.1;45;72;37;7;81
+600;David Zima\acf7e795;David Zima;cz CZE;CZE;DF;Torino;9.5;349;405;86.2;6828;1415;118;136;86.8;176;193;91.2;48;63;76.2;0;0.4;-0.4;4;15;3;0;13
+601;Jeroen Zoet\cc1a0c57;Jeroen Zoet;nl NED;NED;GK;Spezia;7.0;178;235;75.7;4850;2509;34;35;97.1;83;83;100.0;60;116;51.7;0;0.0;0.0;0;1;0;0;0
+602;Nadir Zortea\82598b71;Nadir Zortea;it ITA;ITA;DFMF;Salernitana;10.9;215;332;64.8;4182;2042;95;116;81.9;83;128;64.8;31;64;48.4;2;0.7;+1.3;7;14;14;12;22
+603;Szymon ?urkowski\4e1d5e59;Szymon ?urkowski;pl POL;POL;MF;Empoli;19.6;604;744;81.2;9952;2273;316;365;86.6;231;275;84.0;48;72;66.7;1;1.2;-0.2;18;46;17;2;57
+604;Milan ?uri?\405f6586;Milan ?uri?;ba BIH;BIH;FW;Salernitana;16.8;275;444;61.9;3363;641;190;304;62.5;65;105;61.9;6;7;85.7;2;1.8;+0.2;18;17;1;0;18
+605;Filip ?uri?i?\eccbe56a;Filip ?uri?i?;rs SRB;SRB;MFFW;Sassuolo;7.0;168;206;81.6;2715;726;86;99;86.9;67;77;87.0;12;14;85.7;1;1.2;-0.2;10;13;17;0;32
