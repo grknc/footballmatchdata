@@ -1,0 +1,751 @@
+PlayerN;Player;NationN;Nation;Pos;SquadN;Squad;AgeN;Age;90s;Touch;DefPenTch;Def3rdTch;Mid3rdTch;Att3rdTch;AttPenTch;LiveTch;SuccDrib;AttDrib;SuccRt;Carries;TotDistCarr;PrgDistCarr;ProgCarr;1/3Carr;CPA;Mis;Dis;TargRec;Rec;RecRt;ProgRec;Matches
+Brenden Aaronson\5bc43860;Brenden Aaronson;us USA;USA;MF;at RB Salzburg;RB Salzburg;21-174;21;7.9;354;5;50;167;164;15;323;6;13;46.2;230;1062;519;29;9;5;26;22;354;224;63.3;49;Matches
+Malik Abubakari\47aaf574;Malik Abubakari;gh GHA;GHA;FW;se Malmö;Malmö;21-339;21;1.3;52;3;10;23;20;2;50;0;1;0.0;34;103;19;0;0;0;4;3;55;35;63.6;3;Matches
+Marcos Acuña\81442ecb;Marcos Acuña;ar ARG;ARG;DF;es Sevilla;Sevilla;30-168;30;4.2;377;11;120;205;86;1;318;4;9;44.4;257;1253;783;31;12;0;5;8;265;248;93.6;5;Matches
+Tyler Adams\2b09d998;Tyler Adams;us USA;USA;MF;de RB Leipzig;RB Leipzig;23-059;23;3.3;204;6;54;130;34;2;203;3;6;50.0;145;645;337;11;2;1;2;2;144;138;95.8;2;Matches
+Chikwubuike Adamu\82e12fe7;Chikwubuike Adamu;at AUT;AUT;FW;at RB Salzburg;RB Salzburg;20-312;20;2.6;97;0;8;40;54;10;97;3;8;37.5;72;266;162;5;1;0;13;11;127;73;57.5;25;Matches
+Antonio Adán\65d62814;Antonio Adán;es ESP;ESP;GK;pt Sporting CP;Sporting CP;34-336;34;7.0;252;229;252;2;0;0;186;0;0;;120;504;260;0;0;0;0;0;109;109;100.0;0;Matches
+Edmund Addo\6af56975;Edmund Addo;gh GHA;GHA;MF;md Sheriff Tiraspol;Sheriff Tiraspol;21-332;21;5.4;202;17;100;103;15;0;199;4;6;66.7;131;823;396;8;3;0;4;5;102;95;93.1;0;Matches
+Karim Adeyemi\501055d8;Karim Adeyemi;de GER;GER;FW;at RB Salzburg;RB Salzburg;20-086;20;6.7;190;3;15;64;136;44;186;10;30;33.3;160;973;654;40;14;15;22;16;287;147;51.2;70;Matches
+Michel Aebischer\f9c927de;Michel Aebischer;ch SUI;SUI;MF;ch Young Boys;Young Boys;25-098;25;5.6;337;8;78;187;100;5;322;4;7;57.1;218;1003;625;26;5;2;7;11;250;227;90.8;18;Matches
+Sergio Agüero\4d034881;Sergio Agüero;ar ARG;ARG;FW;es Barcelona;Barcelona;33-316;33;0.2;8;0;0;3;5;1;8;2;3;66.7;7;17;12;2;0;0;0;0;12;6;50.0;0;Matches
+Anel Ahmedhodzic\eab957a3;Anel Ahmedhodzic;ba BIH;BIH;DF;se Malmö;Malmö;23-019;23;4.6;279;40;145;138;11;0;270;1;1;100.0;163;820;524;10;1;0;2;2;181;176;97.2;0;Matches
+Manuel Akanji\89ac64a6;Manuel Akanji;ch SUI;SUI;DF;de Dortmund;Dortmund;26-269;26;5.0;340;54;188;166;14;4;331;0;0;;216;1337;771;18;3;0;0;0;241;236;97.9;0;Matches
+Nathan Aké\eaeca114;Nathan Aké;nl NED;NED;DF;eng Manchester City; Manchester City;27-055;27;3.6;322;28;136;190;31;7;301;0;1;0.0;215;1208;849;11;4;0;0;1;238;232;97.5;2;Matches
+David Alaba\05439de2;David Alaba;at AUT;AUT;DF;es Real Madrid;Real Madrid;29-294;29;10.0;675;104;366;298;70;11;651;1;1;100.0;490;3094;1592;28;8;0;3;0;539;528;98.0;8;Matches
+Jordi Alba\4601e194;Jordi Alba;es ESP;ESP;DF;es Barcelona;Barcelona;33-024;33;4.1;391;9;62;201;147;10;352;1;1;100.0;257;893;515;21;9;3;2;2;327;297;90.8;18;Matches
+Raúl Albiol\4bd414c1;Raúl Albiol;es ESP;ESP;DF;es Villarreal;Villarreal;36-222;36;9.7;492;114;322;200;5;1;478;1;1;100.0;283;1813;1045;7;0;0;1;1;311;306;98.4;0;Matches
+Paco Alcácer\a7a9d95a;Paco Alcácer;es ESP;ESP;FW;es Villarreal;Villarreal;28-227;28;0.6;11;0;0;5;7;4;10;0;0;;6;46;30;1;1;0;0;0;20;8;40.0;1;Matches
+Thiago Alcántara\77e84962;Thiago Alcántara;es ESP;ESP;MF;eng Liverpool; Liverpool;31-003;31;4.0;382;15;76;247;88;4;377;4;9;44.4;263;1025;533;22;11;0;3;7;294;279;94.9;9;Matches
+Trent Alexander-Arnold\cd1acf9d;Trent Alexander-Arnold;eng ENG; ENG;DF;eng Liverpool; Liverpool;23-189;23;5.9;625;12;111;339;206;9;527;2;4;50.0;402;1488;801;32;9;2;8;4;459;434;94.6;11;Matches
+Alisson\7a2e46a8;Alisson;br BRA;BRA;GK;eng Liverpool; Liverpool;29-194;29;10.0;432;330;430;3;0;0;367;1;1;100.0;269;913;455;0;0;0;0;0;263;262;99.6;0;Matches
+André Almeida\67b3d74b;André Almeida;pt POR;POR;DF;pt Benfica;Benfica;31-216;31;2.6;136;18;64;65;15;1;127;0;2;0.0;78;268;117;2;3;0;1;0;81;80;98.8;0;Matches
+Marcos Alonso\f4290206;Marcos Alonso;es ESP;ESP;DF;eng Chelsea; Chelsea;31-107;31;6.1;464;5;88;177;230;19;375;5;10;50.0;272;1139;550;29;12;1;6;11;317;278;87.7;36;Matches
+Éder Álvarez Balanta\8ce30c57;Éder Álvarez Balanta;co COL;COL;MF;be Club Brugge;Club Brugge;29-045;29;4.5;211;19;84;101;39;4;209;5;7;71.4;107;585;252;9;5;0;6;6;100;89;89.0;4;Matches
+Edson Álvarez\8b3ab7ad;Edson Álvarez;mx MEX;MEX;MF;nl Ajax;Ajax;24-172;24;6.2;446;20;120;268;87;11;439;1;4;25.0;280;1294;544;14;6;0;5;7;328;316;96.3;12;Matches
+Mohamed Aly Camara\24fc70d3;Mohamed Aly Camara;gn GUI;GUI;DF;ch Young Boys;Young Boys;24-229;24;3.8;255;41;134;130;7;2;251;1;2;50.0;155;862;444;16;4;0;2;1;174;174;100.0;0;Matches
+Benjamin André\ef9c1c95;Benjamin André;fr FRA;FRA;MF;fr Lille;Lille;31-254;31;7.0;463;12;86;302;93;4;457;5;12;41.7;256;964;379;18;5;0;6;7;345;296;85.8;17;Matches
+Oleksandr Andriyevskyi\4e3f5992;Oleksandr Andriyevskyi;ua UKR;UKR;MF;ua Dynamo Kyiv;Dynamo Kyiv;27-293;27;1.1;62;8;30;20;14;0;60;0;0;;34;135;80;2;1;0;3;0;43;38;88.4;1;Matches
+Angeliño\30941e96;Angeliño;es ESP;ESP;DF;de RB Leipzig;RB Leipzig;25-100;25;4.8;278;8;69;116;106;10;226;3;6;50.0;165;716;430;16;5;2;3;3;185;168;90.8;11;Matches
+Marcos Antônio\108fe016;Marcos Antônio;br BRA;BRA;MF;ua Shakhtar;Shakhtar;21-305;21;2.8;258;11;65;151;58;2;256;3;5;60.0;218;845;325;11;3;0;2;3;232;224;96.6;10;Matches
+Antony\99127249;Antony;br BRA;BRA;FW;nl Ajax;Ajax;22-049;22;6.4;443;1;25;149;302;42;431;10;26;38.5;359;1754;1038;74;14;10;8;13;403;347;86.1;78;Matches
+Ronald Araújo\2bef2bca;Ronald Araújo;uy URU;URU;DF;es Barcelona;Barcelona;23-038;23;4.1;256;30;121;124;24;4;231;5;7;71.4;156;844;310;7;2;0;2;2;165;155;93.9;1;Matches
+Danilo Arboleda\df418fc0;Danilo Arboleda;co COL;COL;DF;md Sheriff Tiraspol;Sheriff Tiraspol;26-333;26;6.0;202;69;148;58;3;1;198;1;1;100.0;101;582;332;7;2;0;2;0;114;112;98.2;0;Matches
+Maximilian Arnold\86e119e0;Maximilian Arnold;de GER;GER;MF;de Wolfsburg;Wolfsburg;27-322;27;6.0;318;13;82;208;50;1;283;1;4;25.0;180;870;384;14;3;0;5;0;193;184;95.3;4;Matches
+Kepa Arrizabalaga\28d596a0;Kepa Arrizabalaga;es ESP;ESP;GK;eng Chelsea; Chelsea;27-193;27;1.0;33;26;33;0;0;0;23;0;0;;14;59;26;0;0;0;0;0;16;16;100.0;0;Matches
+Marco Asensio\45af8a54;Marco Asensio;es ESP;ESP;FW;es Real Madrid;Real Madrid;26-083;26;1.8;107;1;15;46;57;10;100;0;1;0.0;76;373;197;12;3;1;8;4;98;84;85.7;11;Matches
+Giorgos Athanasiadis\55b93ae0;Giorgos Athanasiadis;gr GRE;GRE;GK;md Sheriff Tiraspol;Sheriff Tiraspol;29-007;29;5.0;188;177;188;0;0;0;112;0;0;;58;377;229;0;0;0;0;0;61;61;100.0;0;Matches
+Ludwig Augustinsson\9fec8860;Ludwig Augustinsson;se SWE;SWE;DF;es Sevilla;Sevilla;27-358;27;0.9;85;2;31;38;24;1;71;0;0;;44;298;200;5;2;0;1;3;58;56;96.6;3;Matches
+Serge Aurier\5c2b4f07;Serge Aurier;ci CIV;CIV;DF;es Villarreal;Villarreal;29-111;29;1.1;73;11;25;40;16;2;65;0;0;;44;243;104;4;3;0;0;0;42;41;97.6;0;Matches
+Sardar Azmoun\10549b49;Sardar Azmoun;ir IRN;IRN;FW;ru Zenit;Zenit;27-103;27;3.4;89;4;11;47;34;17;80;1;2;50.0;44;226;124;5;2;2;7;0;116;59;50.9;17;Matches
+César Azpilicueta\53cad200;César Azpilicueta;es ESP;ESP;DF;eng Chelsea; Chelsea;32-229;32;7.5;638;15;126;317;227;19;578;5;6;83.3;386;1314;759;40;13;1;5;5;509;460;90.4;23;Matches
+Eric Bailly\a1232f4e;Eric Bailly;ci CIV;CIV;DF;eng Manchester Utd; Manchester Utd;28-002;28;2.0;134;23;72;69;0;0;130;1;1;100.0;82;432;189;7;0;0;0;1;88;88;100.0;0;Matches
+Tiemoué Bakayoko\59bf127b;Tiemoué Bakayoko;fr FRA;FRA;MF;it Milan;Milan;27-240;27;0.7;48;0;13;29;7;4;47;1;1;100.0;23;92;28;0;1;0;0;1;32;30;93.8;1;Matches
+Ridle Baku\442b56fa;Ridle Baku;de GER;GER;DFFW;de Wolfsburg;Wolfsburg;24-006;24;4.6;223;12;75;107;52;2;202;2;7;28.6;132;600;284;20;5;0;9;3;165;130;78.8;17;Matches
+Alejandro Balde\5ccc9672;Alejandro Balde;es ESP;ESP;DFFW;es Barcelona;Barcelona;18-178;18;0.2;20;0;2;12;9;1;17;1;1;100.0;16;103;83;4;2;0;0;1;20;17;85.0;3;Matches
+Gareth Bale\a58bb1e1;Gareth Bale;wls WAL; WAL;FW;es Real Madrid;Real Madrid;32-272;32;0.1;3;0;1;1;1;0;2;0;0;;1;3;0;0;0;0;0;0;8;2;25.0;0;Matches
+David von Ballmoos\f7b10c66;David von Ballmoos;ch SUI;SUI;GK;ch Young Boys;Young Boys;27-105;27;3.0;92;79;91;1;0;0;73;0;0;;45;191;121;0;0;0;0;0;49;49;100.0;0;Matches
+Fodé Ballo-Touré\f449640d;Fodé Ballo-Touré;sn SEN;SEN;DFMF;it Milan;Milan;25-101;25;1.0;55;3;17;23;16;0;41;1;2;50.0;29;107;37;2;0;0;1;2;32;23;71.9;1;Matches
+Jonathan Bamba\b2bd0f6c;Jonathan Bamba;fr FRA;FRA;MFFW;fr Lille;Lille;26-019;26;5.2;304;9;51;162;117;19;284;14;20;70.0;227;1425;750;33;15;7;14;12;289;215;74.4;29;Matches
+Nicolò Barella\6928979a;Nicolò Barella;it ITA;ITA;MF;it Inter;Inter;25-066;25;5.5;365;5;39;216;135;11;363;3;8;37.5;291;1638;900;40;16;3;9;8;321;299;93.1;28;Matches
+Ross Barkley\3a24769f;Ross Barkley;eng ENG; ENG;MF;eng Chelsea; Chelsea;28-130;28;1.1;90;2;9;43;46;1;81;2;4;50.0;70;450;238;11;5;0;0;5;70;69;98.6;9;Matches
+Wílmar Barrios\8e7f49d3;Wílmar Barrios;co COL;COL;MFDF;ru Zenit;Zenit;28-180;28;6.0;363;31;124;227;24;1;361;6;8;75.0;260;1092;522;24;2;0;2;6;254;248;97.6;3;Matches
+Gil Bastião Dias\e61bdd69;Gil Bastião Dias;pt POR;POR;FW;pt Benfica;Benfica;25-198;25;0.0;1;1;1;0;0;0;1;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Alessandro Bastoni\75b86fb3;Alessandro Bastoni;it ITA;ITA;DF;it Inter;Inter;23-001;23;7.4;500;88;220;243;75;6;470;1;3;33.3;329;1669;1026;43;12;1;3;5;354;341;96.3;9;Matches
+Michy Batshuayi\2973d8ff;Michy Batshuayi;be BEL;BEL;FW;tr Beþiktaþ;Beþiktaþ;28-194;28;4.3;136;4;11;76;52;19;119;6;9;66.7;87;257;76;6;1;2;15;5;189;97;51.3;29;Matches
+Donny van de Beek\50dc94ce;Donny van de Beek;nl NED;NED;MF;eng Manchester Utd; Manchester Utd;24-361;24;2.3;141;8;41;90;16;2;140;2;3;66.7;93;373;160;9;2;0;0;4;109;102;93.6;5;Matches
+Jude Bellingham\57d88cf9;Jude Bellingham;eng ENG; ENG;MFFW;de Dortmund;Dortmund;18-289;18;5.6;384;10;61;232;115;18;381;19;27;70.4;296;1380;833;39;8;6;12;11;333;297;89.2;26;Matches
+Hatem Ben Arfa\74dc806c;Hatem Ben Arfa;fr FRA;FRA;FWMF;fr Lille;Lille;35-038;35;0.3;17;0;0;5;13;2;14;2;2;100.0;12;62;18;1;1;0;2;0;15;12;80.0;2;Matches
+Ismaël Bennacer\db092d3b;Ismaël Bennacer;dz ALG;ALG;MF;it Milan;Milan;24-134;24;4.2;256;10;95;134;52;2;239;5;9;55.6;174;1131;459;13;3;0;7;8;162;147;90.7;2;Matches
+Rodrigo Bentancur\3b8674e6;Rodrigo Bentancur;uy URU;URU;MFFW;it Juventus;Juventus;24-313;24;4.2;252;10;56;150;64;7;251;1;4;25.0;180;869;446;14;8;1;5;7;191;172;90.1;9;Matches
+Karim Benzema\70d74ece;Karim Benzema;fr FRA;FRA;FW;es Real Madrid;Real Madrid;34-116;34;9.1;526;7;29;219;313;66;507;12;18;66.7;400;1910;1137;68;26;10;12;15;574;441;76.8;77;Matches
+Steven Berghuis\713c144a;Steven Berghuis;nl NED;NED;MF;nl Ajax;Ajax;30-116;30;6.9;348;3;24;132;201;30;327;0;5;0.0;237;793;372;22;4;7;8;2;311;260;83.6;35;Matches
+Federico Bernardeschi\ee93c1a9;Federico Bernardeschi;it ITA;ITA;FWMF;it Juventus;Juventus;28-057;28;3.2;184;4;28;95;85;7;170;8;12;66.7;153;1010;503;25;8;3;6;8;162;134;82.7;18;Matches
+Bernardo\17370b95;Bernardo;br BRA;BRA;DFMF;at RB Salzburg;RB Salzburg;26-335;26;0.3;20;3;9;6;5;2;20;0;0;;14;107;60;3;0;0;0;0;17;16;94.1;0;Matches
+Paulo Bernardo\4142f132;Paulo Bernardo;pt POR;POR;MF;pt Benfica;Benfica;20-080;20;0.5;25;3;10;12;6;0;23;2;2;100.0;20;69;14;0;0;0;1;3;17;16;94.1;2;Matches
+Veljko Birman?evi?\636247ca;Veljko Birman?evi?;rs SRB;SRB;FWMF;se Malmö;Malmö;24-040;24;3.9;157;6;22;73;70;8;153;9;23;39.1;130;528;319;19;6;1;9;15;177;120;67.8;31;Matches
+Blanco\506daeac;Blanco;es ESP;ESP;MF;es Real Madrid;Real Madrid;21-265;21;0.1;16;0;1;10;5;0;16;0;0;;15;36;10;0;0;0;0;0;15;15;100.0;0;Matches
+Daley Blind\691bef82;Daley Blind;nl NED;NED;DF;nl Ajax;Ajax;32-036;32;6.3;565;16;107;317;171;13;497;5;13;38.5;360;1521;849;39;11;2;4;4;413;385;93.2;24;Matches
+Valerii Bondar\7713c72a;Valerii Bondar;ua UKR;UKR;DF;ua Shakhtar;Shakhtar;23-046;23;1.0;115;18;48;75;6;1;110;1;1;100.0;89;700;565;23;5;0;0;0;94;93;98.9;0;Matches
+Artem Bondarenko\415568b5;Artem Bondarenko;ua UKR;UKR;MF;ua Shakhtar;Shakhtar;21-236;21;0.9;107;1;12;73;29;1;107;0;2;0.0;86;366;235;14;2;0;0;0;96;92;95.8;5;Matches
+Solomon Bonnah\dd7b6eb8;Solomon Bonnah;nl NED;NED;DF;de RB Leipzig;RB Leipzig;18-238;18;0.1;4;1;4;0;0;0;4;0;0;;1;3;3;0;0;0;0;0;1;1;100.0;0;Matches
+Leonardo Bonucci\52ec54d0;Leonardo Bonucci;it ITA;ITA;DF;it Juventus;Juventus;34-348;34;6.4;491;90;222;278;16;1;474;2;4;50.0;319;1484;813;21;5;0;1;0;368;360;97.8;2;Matches
+Sebastiaan Bornauw\01834aa0;Sebastiaan Bornauw;be BEL;BEL;DF;de Wolfsburg;Wolfsburg;23-023;23;2.3;112;24;67;45;4;1;109;0;0;;68;325;113;2;0;0;1;0;67;65;97.0;1;Matches
+Sven Botman\ccce7025;Sven Botman;nl NED;NED;DF;fr Lille;Lille;22-092;22;4.6;304;41;185;127;7;5;290;2;2;100.0;179;969;388;3;0;0;0;2;192;190;99.0;0;Matches
+Yassine Bounou\f6798fc3;Yassine Bounou;ma MAR;MAR;GK;es Sevilla;Sevilla;31-009;31;6.0;197;170;193;4;0;0;154;1;1;100.0;93;318;92;0;0;0;0;0;105;105;100.0;0;Matches
+Denys Boyko\1e064bfb;Denys Boyko;ua UKR;UKR;GK;ua Dynamo Kyiv;Dynamo Kyiv;34-075;34;1.0;39;37;39;0;0;0;29;0;0;;18;56;24;0;0;0;0;0;20;20;100.0;0;Matches
+Can Bozdogan\b797f558;Can Bozdogan;de GER;GER;MF;tr Beþiktaþ;Beþiktaþ;21-009;21;2.4;86;1;22;41;36;2;84;3;7;42.9;63;405;265;12;9;0;1;4;72;53;73.6;5;Matches
+Domagoj Bradari?\8bbe2df5;Domagoj Bradari?;hr CRO;CRO;DF;fr Lille;Lille;22-125;22;0.2;15;1;7;7;4;0;13;0;0;;9;52;32;0;1;0;1;1;9;9;100.0;0;Matches
+Conor Bradley\bbd67769;Conor Bradley;nir NIR; NIR;FW;eng Liverpool; Liverpool;18-279;18;0.0;2;0;0;2;0;0;2;0;1;0.0;1;0;0;0;0;0;0;0;2;2;100.0;0;Matches
+Daniel Bragança\0c152537;Daniel Bragança;pt POR;POR;MFFW;pt Sporting CP;Sporting CP;22-322;22;1.5;91;5;25;55;13;2;90;5;6;83.3;62;278;114;5;0;0;3;3;59;54;91.5;3;Matches
+Julian Brandt\a167537f;Julian Brandt;de GER;GER;MFFW;de Dortmund;Dortmund;25-347;25;4.4;289;1;48;152;112;15;269;5;9;55.6;200;1104;642;32;9;4;9;5;230;201;87.4;25;Matches
+Brian Brobbey\4c184730;Brian Brobbey;nl NED;NED;FWMF;de RB Leipzig;RB Leipzig;20-072;20;1.2;38;1;3;16;21;8;38;0;0;;20;92;51;2;1;0;2;2;52;26;50.0;13;Matches
+Brian Brobbey\4c184730;Brian Brobbey;nl NED;NED;FW;nl Ajax;Ajax;20-072;20;0.1;1;0;0;0;1;1;1;0;0;;0;0;0;0;0;0;0;0;9;1;11.1;1;Matches
+John Brooks\e27da244;John Brooks;us USA;USA;DF;de Wolfsburg;Wolfsburg;29-076;29;3.7;212;36;143;84;1;0;202;0;1;0.0;112;671;330;6;0;0;1;0;136;134;98.5;0;Matches
+Franz Brorsson\08d37c53;Franz Brorsson;se SWE;SWE;DF;se Malmö;Malmö;26-074;26;5.0;213;42;124;90;5;0;206;0;0;;119;537;192;4;0;0;0;2;134;132;98.5;0;Matches
+Marcelo Brozovi?\33b8d077;Marcelo Brozovi?;hr CRO;CRO;MF;it Inter;Inter;29-149;29;7.0;635;39;193;385;107;6;607;5;7;71.4;459;2574;1178;44;15;1;3;5;485;470;96.9;9;Matches
+Nicolas Bürgy\a4851d9e;Nicolas Bürgy;ch SUI;SUI;DF;ch Young Boys;Young Boys;26-250;26;2.0;148;15;86;66;3;1;145;0;0;;97;487;191;2;0;0;0;0;112;110;98.2;0;Matches
+Heorhiy Bushchan\eb2b33aa;Heorhiy Bushchan;ua UKR;UKR;GK;ua Dynamo Kyiv;Dynamo Kyiv;27-318;27;5.0;211;192;210;1;0;0;155;0;0;;109;409;225;0;0;0;0;0;104;104;100.0;0;Matches
+Sergio Busquets\5ab0ea87;Sergio Busquets;es ESP;ESP;MF;es Barcelona;Barcelona;33-272;33;5.4;426;8;75;303;66;1;415;2;3;66.7;265;929;523;22;4;0;0;3;328;308;93.9;6;Matches
+Vitaliy Buyalskyi\b8814868;Vitaliy Buyalskyi;ua UKR;UKR;MFFW;ua Dynamo Kyiv;Dynamo Kyiv;29-098;29;4.8;158;1;26;81;62;24;151;7;8;87.5;107;480;187;12;3;1;9;6;161;113;70.2;22;Matches
+Jovane Cabral\e34e086c;Jovane Cabral;cv CPV;CPV;FWMF;pt Sporting CP;Sporting CP;23-304;23;0.9;33;0;5;19;12;1;32;0;1;0.0;20;83;34;1;1;0;4;2;26;22;84.6;6;Matches
+Davide Calabria\2146785a;Davide Calabria;it ITA;ITA;DF;it Milan;Milan;25-129;25;3.5;191;18;93;82;24;0;164;0;1;0.0;91;388;153;4;2;0;3;3;97;86;88.7;4;Matches
+Hakan Çalhanoðlu\cd0fa27b;Hakan Çalhanoðlu;tr TUR;TUR;MF;it Inter;Inter;28-065;28;4.6;311;7;73;148;104;7;281;7;7;100.0;221;1110;629;25;7;1;5;6;245;219;89.4;15;Matches
+Mohamed Camara\489e80e3;Mohamed Camara;ml MLI;MLI;MF;at RB Salzburg;RB Salzburg;22-098;22;7.4;459;12;152;283;52;2;444;7;13;53.8;316;1502;764;20;4;2;2;11;310;296;95.5;6;Matches
+Eduardo Camavinga\7b9c2d84;Eduardo Camavinga;fr FRA;FRA;MFDF;es Real Madrid;Real Madrid;19-155;19;2.6;176;7;38;93;55;6;172;0;2;0.0;106;558;296;12;3;0;1;4;135;119;88.1;7;Matches
+Emre Can\a65ce836;Emre Can;de GER;GER;DF;de Dortmund;Dortmund;28-092;28;0.8;54;3;15;27;19;3;50;3;4;75.0;42;146;88;5;1;2;1;1;43;41;95.3;3;Matches
+João Cancelo\bd6351cd;João Cancelo;pt POR;POR;DF;eng Manchester City; Manchester City;27-322;27;8.0;757;20;146;406;259;17;685;15;26;57.7;546;2442;1377;68;25;3;10;7;569;544;95.6;32;Matches
+Nicolás Capaldo\6885cc44;Nicolás Capaldo;ar ARG;ARG;MF;at RB Salzburg;RB Salzburg;24-212;24;3.2;176;11;66;82;38;6;167;0;3;0.0;89;446;239;10;4;2;2;3;89;72;80.9;5;Matches
+Étienne Capoue\5acc4a10;Étienne Capoue;fr FRA;FRA;MF;es Villarreal;Villarreal;33-277;33;9.7;564;38;177;317;103;10;555;7;18;38.9;372;1797;785;29;7;1;6;12;403;381;94.5;9;Matches
+Fábio Cardoso\4a5839fa;Fábio Cardoso;pt POR;POR;DF;pt Porto;Porto;27-360;27;1.7;69;19;39;26;5;2;68;0;0;;26;70;29;0;0;0;0;0;41;40;97.6;1;Matches
+Diego Carlos\b4a014b1;Diego Carlos;br BRA;BRA;DF;es Sevilla;Sevilla;29-030;29;6.0;451;79;271;181;11;6;441;1;1;100.0;305;1144;420;3;0;0;1;0;325;318;97.8;1;Matches
+Yannick Carrasco\de39485a;Yannick Carrasco;be BEL;BEL;DFMF;es Atlético Madrid;Atlético Madrid;28-222;28;5.2;239;6;50;99;119;19;209;12;18;66.7;177;1128;770;34;17;6;12;11;212;157;74.1;27;Matches
+Scott Carson\3e1550ee;Scott Carson;eng ENG; ENG;GK;eng Manchester City; Manchester City;36-223;36;0.2;6;6;6;0;0;0;3;0;0;;2;1;1;0;0;0;0;0;2;2;100.0;0;Matches
+Dani Carvajal\4958bfb2;Dani Carvajal;es ESP;ESP;DF;es Real Madrid;Real Madrid;30-093;30;7.3;567;61;205;212;178;11;518;2;4;50.0;362;1508;762;32;12;1;5;5;421;395;93.8;15;Matches
+Casemiro\4d224fe8;Casemiro;br BRA;BRA;MF;es Real Madrid;Real Madrid;30-050;30;8.3;568;42;201;306;93;8;557;9;11;81.8;360;1310;738;20;5;0;4;7;433;405;93.5;11;Matches
+Frank Castañeda\0a396655;Frank Castañeda;co COL;COL;FW;md Sheriff Tiraspol;Sheriff Tiraspol;27-271;27;3.9;140;4;36;61;55;4;132;1;3;33.3;90;627;366;12;6;1;10;4;124;80;64.5;11;Matches
+Koen Casteels\db401046;Koen Casteels;be BEL;BEL;GK;de Wolfsburg;Wolfsburg;29-293;29;5.0;202;170;202;0;0;0;146;0;0;;100;446;192;0;0;0;0;0;94;94;100.0;0;Matches
+Edinson Cavani\527f063d;Edinson Cavani;uy URU;URU;FW;eng Manchester Utd; Manchester Utd;35-059;35;0.9;44;1;9;16;20;4;44;0;0;;24;60;15;2;0;1;4;2;47;32;68.1;8;Matches
+Dani Ceballos\c0617e2b;Dani Ceballos;es ESP;ESP;FWMF;es Real Madrid;Real Madrid;25-250;25;0.1;5;1;1;3;1;0;5;0;0;;3;4;3;0;0;0;0;0;5;2;40.0;0;Matches
+Dumitru Celeadnic\2edbd8d5;Dumitru Celeadnic;md MDA;MDA;GK;md Sheriff Tiraspol;Sheriff Tiraspol;29-356;29;1.0;38;34;38;0;0;0;20;0;0;;11;53;13;0;0;0;0;0;7;7;100.0;0;Matches
+Zeki Çelik\31a62dc7;Zeki Çelik;tr TUR;TUR;DF;fr Lille;Lille;25-056;25;6.5;446;14;129;230;107;7;376;5;10;50.0;239;1183;607;22;4;2;4;7;287;262;91.3;8;Matches
+Leonardo César Jardim\f5dfc256;Leonardo César Jardim;br BRA;BRA;GK;fr Lille;Lille;27-025;27;2.0;41;37;41;0;0;0;32;0;0;;24;85;52;0;0;0;0;0;20;20;100.0;0;Matches
+Trevoh Chalobah\5515376c;Trevoh Chalobah;eng ENG; ENG;DF;eng Chelsea; Chelsea;22-283;22;2.0;130;3;39;72;31;3;125;1;1;100.0;82;411;182;7;7;0;1;2;90;89;98.9;0;Matches
+Giorgio Chiellini\e85fb9b8;Giorgio Chiellini;it ITA;ITA;DF;it Juventus;Juventus;37-243;37;0.1;5;3;4;1;0;0;3;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Federico Chiesa\b0f7e36c;Federico Chiesa;it ITA;ITA;FWMF;it Juventus;Juventus;24-171;24;3.7;150;4;13;49;101;22;139;10;14;71.4;122;879;567;29;10;6;7;6;155;115;74.2;28;Matches
+Ben Chilwell\d2424d1b;Ben Chilwell;eng ENG; ENG;DF;eng Chelsea; Chelsea;25-114;25;2.1;138;2;14;43;84;8;109;0;0;;76;341;166;9;1;1;4;4;95;84;88.4;7;Matches
+Dmitri Chistyakov\bec8a4ba;Dmitri Chistyakov;ru RUS;RUS;DF;ru Zenit;Zenit;28-091;28;4.9;252;49;150;98;10;7;248;0;0;;163;611;184;2;0;0;0;0;184;183;99.5;2;Matches
+Andreas Christensen\1cb49278;Andreas Christensen;dk DEN;DEN;DF;eng Chelsea; Chelsea;26-004;26;6.7;617;37;194;415;50;4;607;1;1;100.0;469;2223;1323;52;11;0;3;2;500;492;98.4;4;Matches
+Anders Christiansen\770ebf00;Anders Christiansen;dk DEN;DEN;MF;se Malmö;Malmö;31-310;31;3.6;240;18;83;121;48;8;224;4;7;57.1;159;829;449;17;1;3;4;4;201;178;88.6;5;Matches
+Samuel Chukwueze\b8a642fc;Samuel Chukwueze;ng NGA;NGA;MF;es Villarreal;Villarreal;22-327;22;2.0;71;1;15;29;32;4;70;5;9;55.6;49;304;145;8;2;0;8;3;66;50;75.8;7;Matches
+Claudinho\8d46713e;Claudinho;br BRA;BRA;MFFW;ru Zenit;Zenit;25-076;25;5.1;356;6;68;174;134;17;332;10;17;58.8;253;1018;413;26;8;5;11;11;292;255;87.3;27;Matches
+Sebastián Coates\1fbbfbde;Sebastián Coates;uy URU;URU;DF;pt Sporting CP;Sporting CP;31-189;31;6.0;295;47;168;125;15;12;285;1;2;50.0;179;756;339;4;0;0;3;0;182;181;99.5;0;Matches
+Serafim Cojocari\48df060a;Serafim Cojocari;md MDA;MDA;FW;md Sheriff Tiraspol;Sheriff Tiraspol;21-097;21;0.0;0;0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Maxim Cojocaru\be305255;Maxim Cojocaru;md MDA;MDA;FWMF;md Sheriff Tiraspol;Sheriff Tiraspol;24-091;24;0.2;5;1;2;1;2;0;5;0;0;;4;1;1;0;0;0;1;0;4;3;75.0;1;Matches
+Antonio ?olak\bfde3de5;Antonio ?olak;hr CRO;CRO;FW;se Malmö;Malmö;28-209;28;5.5;125;5;17;63;50;8;108;1;3;33.3;64;275;97;7;2;1;9;7;201;78;38.8;21;Matches
+Kingsley Coman\042e8a49;Kingsley Coman;fr FRA;FRA;FWDF;de Bayern Munich;Bayern Munich;25-305;25;7.0;462;4;39;163;289;55;454;31;45;68.9;384;2112;1311;92;13;20;14;13;422;362;85.8;69;Matches
+Francisco Conceição\5ef3d210;Francisco Conceição;pt POR;POR;MFFW;pt Porto;Porto;19-121;19;0.4;20;1;4;10;8;0;20;0;1;0.0;11;53;16;1;2;0;3;0;16;12;75.0;1;Matches
+Francis Coquelin\a6951bf8;Francis Coquelin;fr FRA;FRA;MF;es Villarreal;Villarreal;30-336;30;3.7;161;7;34;81;56;11;160;10;18;55.6;115;410;220;11;2;2;6;4;130;116;89.2;19;Matches
+Jesús Corona\fb938d24;Jesús Corona;mx MEX;MEX;DFFW;pt Porto;Porto;29-098;29;2.4;126;9;47;57;30;1;107;2;5;40.0;65;268;141;5;2;0;4;4;81;74;91.4;0;Matches
+Ángel Correa\01eb744d;Ángel Correa;ar ARG;ARG;FWMF;es Atlético Madrid;Atlético Madrid;27-036;27;4.5;200;1;32;84;95;30;195;3;10;30.0;140;505;337;22;4;4;12;22;215;143;66.5;28;Matches
+Joaquín Correa\45b9b619;Joaquín Correa;ar ARG;ARG;FW;it Inter;Inter;27-244;27;1.2;36;0;3;19;17;8;36;0;1;0.0;27;263;151;6;2;3;1;4;42;29;69.0;6;Matches
+Bruno Xavier Almeida Costa\7b4c1f6e;Bruno Xavier Almeida Costa;pt POR;POR;MF;pt Porto;Porto;24-360;24;0.1;11;0;2;8;1;0;10;0;0;;7;40;8;1;0;0;0;0;8;7;87.5;0;Matches
+Diogo Costa\93fffbcf;Diogo Costa;pt POR;POR;GK;pt Porto;Porto;22-207;22;6.0;295;242;293;3;0;0;229;0;0;;167;763;490;0;0;0;0;0;163;161;98.8;0;Matches
+Thibaut Courtois\1840e36d;Thibaut Courtois;be BEL;BEL;GK;es Real Madrid;Real Madrid;29-338;29;10.3;375;338;374;2;1;0;316;1;1;100.0;217;962;439;0;0;0;0;0;224;223;99.6;0;Matches
+Philippe Coutinho\0ef89a37;Philippe Coutinho;br BRA;BRA;FWMF;es Barcelona;Barcelona;29-306;29;1.2;89;0;3;46;48;5;86;7;8;87.5;78;399;242;17;5;1;1;6;89;79;88.8;13;Matches
+Juan Cuadrado\0ab1f153;Juan Cuadrado;co COL;COL;DFMF;it Juventus;Juventus;33-323;33;5.2;359;12;86;162;140;13;329;9;11;81.8;258;1325;863;47;19;6;5;7;281;249;88.6;18;Matches
+Matheus Cunha\dc62b55d;Matheus Cunha;br BRA;BRA;FWMF;es Atlético Madrid;Atlético Madrid;22-322;22;1.6;43;2;8;20;19;7;42;1;2;50.0;27;137;99;6;1;1;3;4;51;28;54.9;3;Matches
+Danilo D'Ambrosio\44eb9093;Danilo D'Ambrosio;it ITA;ITA;DF;it Inter;Inter;33-217;33;1.6;75;3;33;35;9;2;74;1;1;100.0;49;189;66;3;0;0;1;0;66;56;84.8;2;Matches
+Cosimo Marco Da Graca\32f76907;Cosimo Marco Da Graca;it ITA;ITA;FW;it Juventus;Juventus;19-348;19;0.0;2;0;0;1;2;1;2;0;0;;1;0;0;0;0;0;0;1;0;0;;0;Matches
+Johan Dahlin\a04e2dd2;Johan Dahlin;se SWE;SWE;GK;se Malmö;Malmö;35-218;35;3.5;119;109;119;0;0;0;69;0;0;;38;260;115;0;0;0;0;0;26;26;100.0;0;Matches
+Mahmoud Dahoud\db4ed67b;Mahmoud Dahoud;de GER;GER;MF;de Dortmund;Dortmund;26-103;26;2.4;185;1;27;96;70;8;177;6;6;100.0;134;699;346;16;3;3;3;6;157;139;88.5;16;Matches
+Diogo Dalot\d9565625;Diogo Dalot;pt POR;POR;DF;eng Manchester Utd; Manchester Utd;23-027;23;2.6;193;7;50;110;49;2;174;3;4;75.0;125;604;364;18;7;0;1;2;127;118;92.9;1;Matches
+Danilo\94b2001f;Danilo;br BRA;BRA;DF;it Juventus;Juventus;30-273;30;5.0;447;36;135;264;72;6;425;2;5;40.0;314;1396;793;27;8;0;2;4;337;330;97.9;4;Matches
+Mohammed Daramy\06a1d642;Mohammed Daramy;dk DEN;DEN;FW;nl Ajax;Ajax;20-097;20;0.6;38;1;2;15;27;5;37;2;4;50.0;31;176;130;5;4;0;0;2;39;32;82.1;8;Matches
+Matteo Darmian\96e0490d;Matteo Darmian;it ITA;ITA;DF;it Inter;Inter;32-133;32;2.2;95;4;20;26;52;9;85;1;3;33.3;53;101;33;0;2;0;3;0;74;59;79.7;11;Matches
+Jonathan David\ce50fd99;Jonathan David;ca CAN;CAN;FW;fr Lille;Lille;22-090;22;7.5;235;4;19;142;93;26;229;10;18;55.6;165;673;452;24;6;3;27;15;328;170;51.8;51;Matches
+Alphonso Davies\d781d855;Alphonso Davies;ca CAN;CAN;DF;de Bayern Munich;Bayern Munich;21-163;21;5.3;404;11;106;165;175;25;367;19;25;76.0;282;1830;1178;49;19;6;14;9;289;267;92.4;31;Matches
+Kevin De Bruyne\e46012d4;Kevin De Bruyne;be BEL;BEL;MF;eng Manchester City; Manchester City;30-290;30;6.3;415;2;37;195;221;22;382;10;17;58.8;290;1253;772;43;17;2;11;9;377;320;84.9;47;Matches
+Charles De Ketelaere\2ef7c612;Charles De Ketelaere;be BEL;BEL;FW;be Club Brugge;Club Brugge;21-035;21;5.5;240;2;15;122;117;25;212;5;11;45.5;141;594;280;12;5;2;19;12;280;154;55.0;49;Matches
+Rodrigo De Paul\162efffd;Rodrigo De Paul;ar ARG;ARG;MF;es Atlético Madrid;Atlético Madrid;27-325;27;6.4;392;12;95;211;107;10;371;4;8;50.0;244;1160;677;28;7;3;8;12;276;254;92.0;20;Matches
+Mattia De Sciglio\ae4e2852;Mattia De Sciglio;it ITA;ITA;DF;it Juventus;Juventus;29-176;29;3.2;224;6;72;73;88;5;197;3;9;33.3;159;649;261;11;3;2;2;1;158;147;93.0;18;Matches
+Koni De Winter\f4797849;Koni De Winter;be BEL;BEL;DF;it Juventus;Juventus;19-306;19;0.9;87;0;24;49;21;1;77;1;2;50.0;68;390;199;6;2;1;0;1;65;62;95.4;0;Matches
+Thomas Delaney\fe641c1a;Thomas Delaney;dk DEN;DEN;MF;es Sevilla;Sevilla;30-223;30;2.2;109;6;31;61;19;3;108;0;1;0.0;48;248;148;10;0;0;0;1;74;65;87.8;3;Matches
+Liam Delap\dd897ee7;Liam Delap;eng ENG; ENG;FW;eng Manchester City; Manchester City;19-065;19;0.1;1;0;1;0;0;0;1;1;1;100.0;2;0;0;0;0;0;0;0;0;0;;0;Matches
+Ousmane Dembélé\b19db005;Ousmane Dembélé;fr FRA;FRA;FWDF;es Barcelona;Barcelona;24-334;24;1.4;84;0;2;40;55;15;83;4;11;36.4;69;603;431;19;7;6;4;3;85;71;83.5;14;Matches
+Yusuf Demir\fa265f6d;Yusuf Demir;at AUT;AUT;DFFW;es Barcelona;Barcelona;18-316;18;1.1;71;0;8;33;40;4;66;4;7;57.1;55;258;126;9;4;1;5;3;66;55;83.3;6;Matches
+Merih Demiral\e3cceee6;Merih Demiral;tr TUR;TUR;DF;it Atalanta;Atalanta;24-040;24;4.1;214;34;116;104;6;4;207;0;0;;118;764;339;3;0;0;1;2;120;118;98.3;1;Matches
+Dentinho\85686f86;Dentinho;br BRA;BRA;FW;ua Shakhtar;Shakhtar;33-085;33;0.1;2;0;0;2;1;0;2;0;0;;2;17;7;1;1;0;0;0;2;1;50.0;0;Matches
+Memphis Depay\8f696594;Memphis Depay;nl NED;NED;FW;es Barcelona;Barcelona;28-060;28;5.8;339;0;8;152;207;30;291;14;22;63.6;235;985;632;45;17;9;17;18;353;257;72.8;66;Matches
+Sergiño Dest\5976f83e;Sergiño Dest;us USA;USA;DFFW;es Barcelona;Barcelona;21-162;21;2.6;169;4;34;62;84;10;154;10;15;66.7;120;633;403;20;6;2;7;5;127;110;86.6;9;Matches
+Ersin Destanoðlu\52b3c895;Ersin Destanoðlu;tr TUR;TUR;GK;tr Beþiktaþ;Beþiktaþ;21-103;21;5.0;169;144;166;3;0;0;119;0;0;;69;293;149;0;0;0;0;0;59;59;100.0;0;Matches
+Ángel Di María\19cda00b;Ángel Di María;ar ARG;ARG;FW;fr Paris S-G;Paris S-G;34-059;34;2.9;201;5;34;94;93;12;190;2;6;33.3;141;789;420;15;8;3;8;4;186;160;86.0;18;Matches
+Boulaye Dia\244bc2c8;Boulaye Dia;sn SEN;SEN;FW;es Villarreal;Villarreal;25-149;25;1.8;67;2;10;33;29;5;63;0;2;0.0;44;256;159;7;2;1;9;3;88;46;52.3;17;Matches
+Abdou Diallo\fc62f087;Abdou Diallo;sn SEN;SEN;DF;fr Paris S-G;Paris S-G;25-345;25;1.8;152;29;82;72;7;0;142;1;3;33.3;93;536;263;2;0;0;0;0;98;96;98.0;0;Matches
+Amad Diallo\9dc96f10;Amad Diallo;ci CIV;CIV;MF;eng Manchester Utd; Manchester Utd;19-277;19;0.7;39;1;5;22;15;2;39;0;2;0.0;28;194;152;7;2;1;2;3;33;25;75.8;3;Matches
+Rúben Dias\31c69ef1;Rúben Dias;pt POR;POR;DF;eng Manchester City; Manchester City;24-335;24;5.0;388;43;177;232;9;3;381;1;1;100.0;267;1635;1000;22;2;0;0;0;303;300;99.0;1;Matches
+Ismael Diawara\a9107589;Ismael Diawara;ml MLI;MLI;GK;se Malmö;Malmö;27-154;27;2.5;82;77;82;0;0;0;52;0;0;;30;87;44;0;0;0;1;0;26;26;100.0;0;Matches
+Brahim Díaz\407feb71;Brahim Díaz;es ESP;ESP;MF;it Milan;Milan;22-254;22;3.9;170;3;13;115;65;5;165;11;19;57.9;143;980;459;24;11;2;5;8;168;125;74.4;11;Matches
+Luis Díaz\4a1a9578;Luis Díaz;co COL;COL;MFFW;pt Porto;Porto;25-091;25;5.8;259;3;27;108;157;36;256;17;31;54.8;220;1337;701;32;10;8;18;18;280;179;63.9;40;Matches
+Luis Díaz\4a1a9578;Luis Díaz;co COL;COL;FW;eng Liverpool; Liverpool;25-091;25;2.2;123;0;2;52;78;18;123;4;10;40.0;108;634;410;29;7;5;5;3;147;107;72.8;28;Matches
+Virgil van Dijk\e06683ca;Virgil van Dijk;nl NED;NED;DF;eng Liverpool; Liverpool;30-280;30;6.0;522;46;222;319;14;4;512;2;2;100.0;350;1523;787;33;4;0;0;0;393;388;98.7;1;Matches
+Federico Dimarco\970b8574;Federico Dimarco;it ITA;ITA;DF;it Inter;Inter;24-155;24;3.1;231;13;56;91;99;9;182;0;2;0.0;139;654;417;17;5;2;5;2;150;135;90.0;8;Matches
+Junior Dina Ebimbe\95bb6ddc;Junior Dina Ebimbe;fr FRA;FRA;MF;fr Paris S-G;Paris S-G;21-144;21;0.1;10;0;0;5;6;1;10;0;0;;9;54;17;1;1;1;0;0;10;9;90.0;0;Matches
+Tiago Djaló\b2336681;Tiago Djaló;pt POR;POR;DF;fr Lille;Lille;22-005;22;5.9;364;39;167;182;39;2;333;9;12;75.0;228;1199;558;21;4;1;4;1;236;225;95.3;2;Matches
+Berat Djimsiti\6eee05f1;Berat Djimsiti;al ALB;ALB;DF;it Atalanta;Atalanta;29-054;29;2.9;222;8;86;120;34;3;212;0;0;;129;768;421;15;8;0;2;0;136;131;96.3;2;Matches
+Dodô\b5f7d10b;Dodô;br BRA;BRA;DF;ua Shakhtar;Shakhtar;23-148;23;6.0;400;21;110;201;113;16;356;5;10;50.0;269;1288;699;32;10;3;7;10;282;262;92.9;23;Matches
+Gianluigi Donnarumma\08f5afaa;Gianluigi Donnarumma;it ITA;ITA;GK;fr Paris S-G;Paris S-G;23-048;23;5.0;179;160;179;0;0;0;132;0;0;;63;255;115;0;0;0;0;0;72;71;98.6;0;Matches
+Bas Dost\dc90cfbe;Bas Dost;nl NED;NED;FW;be Club Brugge;Club Brugge;32-318;32;0.8;34;3;6;22;6;4;29;0;0;;10;15;7;0;0;0;0;0;42;23;54.8;3;Matches
+Julian Draxler\1a992676;Julian Draxler;de GER;GER;FWMF;fr Paris S-G;Paris S-G;28-206;28;1.6;92;1;20;57;19;3;91;0;1;0.0;71;348;163;8;0;1;0;2;83;77;92.8;6;Matches
+Rodrigo Duarte\484a3eae;Rodrigo Duarte;pt POR;POR;FW;pt Sporting CP;Sporting CP;16-351;16;0.0;2;0;0;1;1;0;2;0;0;;2;15;11;1;0;0;0;0;1;1;100.0;0;Matches
+Gustavo Dulanto\e426b012;Gustavo Dulanto;pe PER;PER;DF;md Sheriff Tiraspol;Sheriff Tiraspol;26-221;26;6.0;280;103;215;69;8;5;271;1;1;100.0;131;777;355;5;0;0;1;0;166;162;97.6;2;Matches
+Denzel Dumfries\481c9ece;Denzel Dumfries;nl NED;NED;DF;it Inter;Inter;25-361;25;5.2;218;8;49;83;102;29;190;4;6;66.7;127;536;269;12;7;3;11;7;161;130;80.7;21;Matches
+Paulo Dybala\e0921a4f;Paulo Dybala;ar ARG;ARG;FWMF;it Juventus;Juventus;28-150;28;2.8;222;0;14;114;115;19;213;7;9;77.8;162;789;408;16;9;4;4;4;203;176;86.7;24;Matches
+Edin D?eko\3bb7f478;Edin D?eko;ba BIH;BIH;FW;it Inter;Inter;36-028;36;6.0;235;9;26;111;113;40;226;6;11;54.5;162;688;358;15;6;2;13;7;262;181;69.1;52;Matches
+Artem Dzyuba\448a3608;Artem Dzyuba;ru RUS;RUS;FW;ru Zenit;Zenit;33-235;33;3.1;102;9;12;43;53;24;99;2;3;66.7;46;142;71;2;1;0;16;1;133;75;56.4;19;Matches
+Ederson\3bb7b8b4;Ederson;br BRA;BRA;GK;eng Manchester City; Manchester City;28-240;28;8.8;257;212;256;1;0;0;200;0;0;;156;627;359;0;0;0;0;0;147;147;100.0;0;Matches
+Marcus Edwards\57760e66;Marcus Edwards;eng ENG; ENG;MF;pt Sporting CP;Sporting CP;23-132;23;0.4;17;1;4;7;11;1;17;1;2;50.0;18;250;176;7;5;1;0;0;18;14;77.8;4;Matches
+CJ Egan-Riley\d313e8ff;CJ Egan-Riley;eng ENG; ENG;DF;eng Manchester City; Manchester City;19-102;19;1.0;72;3;9;43;24;0;66;3;3;100.0;62;219;84;6;2;0;1;0;60;57;95.0;0;Matches
+Noah Eile\e1574c2d;Noah Eile;se SWE;SWE;DF;se Malmö;Malmö;19-269;19;0.0;1;1;1;0;0;0;1;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Anthony Elanga\2fba6108;Anthony Elanga;se SWE;SWE;FWMF;eng Manchester Utd; Manchester Utd;19-352;19;1.9;66;1;14;24;31;5;66;1;2;50.0;37;142;82;4;1;2;7;1;75;51;68.0;5;Matches
+Harvey Elliott\c8387671;Harvey Elliott;eng ENG; ENG;MF;eng Liverpool; Liverpool;19-010;19;0.6;36;0;6;19;16;3;35;0;1;0.0;30;119;57;3;2;0;0;1;33;29;87.9;2;Matches
+Youssef En-Nesyri\04e17fd5;Youssef En-Nesyri;ma MAR;MAR;FWMF;es Sevilla;Sevilla;24-317;24;0.9;26;0;4;9;14;8;24;0;1;0.0;12;9;3;0;0;0;4;2;49;17;34.7;5;Matches
+Aleksandr Erokhin\1c78737d;Aleksandr Erokhin;ru RUS;RUS;MF;ru Zenit;Zenit;32-183;32;1.2;50;3;7;22;22;6;50;0;0;;29;85;27;1;1;0;2;2;41;31;75.6;5;Matches
+Ricardo Esgaio\12dcbdcc;Ricardo Esgaio;pt POR;POR;DF;pt Sporting CP;Sporting CP;28-333;28;4.3;254;15;106;122;45;4;213;0;2;0.0;136;623;285;12;6;1;3;2;157;141;89.8;9;Matches
+Dario Essugo\1e4319ac;Dario Essugo;pt POR;POR;MF;pt Sporting CP;Sporting CP;17-031;17;0.1;11;1;5;5;1;0;11;0;0;;7;10;3;0;0;0;0;0;8;7;87.5;0;Matches
+Gonçalo Esteves\ea3b4578;Gonçalo Esteves;pt POR;POR;DF;pt Sporting CP;Sporting CP;18-046;18;0.8;47;2;20;21;11;4;42;0;2;0.0;33;191;128;4;1;3;2;2;31;31;100.0;0;Matches
+Pervis Estupiñán\d38fdf53;Pervis Estupiñán;ec ECU;ECU;DF;es Villarreal;Villarreal;24-083;24;5.5;351;40;148;129;91;1;303;4;7;57.1;197;825;397;15;6;1;5;0;195;181;92.8;5;Matches
+Evanilson\6f3cc2fe;Evanilson;br BRA;BRA;FW;pt Porto;Porto;22-190;22;3.4;113;4;9;44;63;17;109;3;8;37.5;70;283;78;6;1;2;8;2;154;80;51.9;20;Matches
+Fabinho\7f3b388c;Fabinho;br BRA;BRA;MF;eng Liverpool; Liverpool;28-173;28;6.5;498;15;90;340;85;4;489;0;2;0.0;302;1058;515;22;5;0;3;4;354;341;96.3;15;Matches
+Guillaume Faivre\11c7fa75;Guillaume Faivre;ch SUI;SUI;GK;ch Young Boys;Young Boys;35-053;35;3.0;143;104;143;0;0;0;129;0;0;;100;363;166;0;0;0;0;0;105;105;100.0;0;Matches
+Christian Fassnacht\0aeeed3f;Christian Fassnacht;ch SUI;SUI;MFFW;ch Young Boys;Young Boys;28-154;28;3.0;132;2;22;69;51;8;125;0;4;0.0;81;442;195;10;3;0;7;2;115;90;78.3;16;Matches
+Ansu Fati\0ba976e4;Ansu Fati;es ESP;ESP;FW;es Barcelona;Barcelona;19-165;19;1.7;104;1;8;33;66;13;101;3;7;42.9;80;377;177;9;2;0;2;10;108;85;78.7;19;Matches
+Zouhair Feddal\89151b16;Zouhair Feddal;ma MAR;MAR;DF;pt Sporting CP;Sporting CP;33-103;33;5.0;313;63;197;125;11;6;302;2;4;50.0;194;804;465;6;1;0;3;2;223;222;99.6;1;Matches
+Felipe\51a3c4c8;Felipe;br BRA;BRA;DFMF;es Atlético Madrid;Atlético Madrid;32-333;32;5.2;262;46;145;122;9;1;250;1;3;33.3;155;790;311;13;1;0;2;3;148;144;97.3;0;Matches
+João Félix\8aafd64f;João Félix;pt POR;POR;FWMF;es Atlético Madrid;Atlético Madrid;22-155;22;6.3;243;7;30;139;93;14;235;4;14;28.6;182;953;609;37;14;4;17;14;305;200;65.6;35;Matches
+Bruno Fernandes\507c7bdf;Bruno Fernandes;pt POR;POR;MF;eng Manchester Utd; Manchester Utd;27-218;27;5.8;422;12;54;208;190;20;393;5;7;71.4;270;1339;829;29;16;3;14;15;385;322;83.6;51;Matches
+Fernandinho\101da2b5;Fernandinho;br BRA;BRA;MF;eng Manchester City; Manchester City;36-345;36;2.9;262;8;47;191;41;4;255;1;1;100.0;202;1062;593;30;6;0;1;0;215;213;99.1;1;Matches
+Fernando\41f32541;Fernando;br BRA;BRA;MFDF;es Sevilla;Sevilla;34-263;34;6.0;349;20;134;210;23;5;337;4;4;100.0;208;903;395;9;4;0;7;6;234;217;92.7;3;Matches
+Fernando\fe29c96e;Fernando;br BRA;BRA;DF;md Sheriff Tiraspol;Sheriff Tiraspol;23-136;23;6.0;304;50;156;104;60;5;251;3;6;50.0;122;679;418;14;4;1;4;7;129;119;92.2;2;Matches
+Fernando\d9d43555;Fernando;br BRA;BRA;FW;ua Shakhtar;Shakhtar;23-044;23;3.8;123;2;6;47;81;20;116;7;11;63.6;96;501;251;12;6;2;11;9;139;91;65.5;26;Matches
+Roberto Firmino\4c370d81;Roberto Firmino;br BRA;BRA;FW;eng Liverpool; Liverpool;30-194;30;3.5;228;2;19;122;104;21;224;6;9;66.7;158;726;357;19;6;1;13;7;208;167;80.3;31;Matches
+Alessandro Florenzi\e288d4b3;Alessandro Florenzi;it ITA;ITA;DFFW;it Milan;Milan;31-034;31;1.0;51;10;25;18;9;2;46;0;0;;27;114;70;1;0;0;1;0;35;26;74.3;2;Matches
+Phil Foden\ed1e53f3;Phil Foden;eng ENG; ENG;FW;eng Manchester City; Manchester City;21-321;21;5.0;284;2;13;121;164;43;269;2;9;22.2;211;900;455;30;6;6;14;11;285;231;81.1;59;Matches
+José Fonte\90f87966;José Fonte;pt POR;POR;DF;fr Lille;Lille;38-113;38;8.0;451;63;224;224;22;5;434;0;0;;241;1329;652;18;0;0;0;2;264;261;98.9;1;Matches
+Emil Forsberg\9a2e0ccc;Emil Forsberg;se SWE;SWE;MFFW;de RB Leipzig;RB Leipzig;30-173;30;4.3;212;2;18;105;105;18;197;1;2;50.0;133;759;427;25;7;2;8;3;195;147;75.4;18;Matches
+Juan Foyth\6c7762c3;Juan Foyth;ar ARG;ARG;DF;es Villarreal;Villarreal;24-092;24;7.9;482;36;188;266;62;4;410;8;12;66.7;273;1586;1016;26;9;0;5;12;253;245;96.8;2;Matches
+Lassina Franck Traoré\f620b04f;Lassina Franck Traoré;bf BFA;BFA;FW;ua Shakhtar;Shakhtar;21-092;21;1.1;29;1;1;7;21;9;26;0;0;;18;27;3;1;0;1;2;3;42;25;59.5;15;Matches
+Fred\b853e0ad;Fred;br BRA;BRA;MF;eng Manchester Utd; Manchester Utd;29-040;29;4.8;325;6;74;206;56;3;314;1;4;25.0;201;702;277;9;0;1;2;6;236;215;91.1;10;Matches
+Remo Freuler\98d2c2c4;Remo Freuler;ch SUI;SUI;MF;it Atalanta;Atalanta;29-364;29;5.8;423;19;107;233;109;6;410;4;7;57.1;282;1588;796;35;8;2;8;6;306;291;95.1;8;Matches
+Roberto Gagliardini\ce30bfc8;Roberto Gagliardini;it ITA;ITA;MF;it Inter;Inter;28-007;28;0.8;59;6;25;21;15;1;59;0;0;;33;171;74;3;0;0;1;1;53;44;83.0;4;Matches
+Idrissa Gana Gueye\72c812f3;Idrissa Gana Gueye;sn SEN;SEN;MF;fr Paris S-G;Paris S-G;32-200;32;4.4;267;15;96;148;43;4;264;5;8;62.5;178;964;405;14;5;1;2;7;209;192;91.9;4;Matches
+Eric García\2bed3eab;Eric García;es ESP;ESP;DF;es Barcelona;Barcelona;21-095;21;2.7;230;24;93;140;14;2;227;0;0;;157;778;393;11;3;0;1;0;185;182;98.4;0;Matches
+Ulisses Garcia\c952f633;Ulisses Garcia;ch SUI;SUI;DF;ch Young Boys;Young Boys;26-093;26;4.8;322;12;109;133;102;5;277;5;8;62.5;211;1218;665;30;13;1;6;9;225;203;90.2;6;Matches
+Mario Gaspar\fb5d47b3;Mario Gaspar;es ESP;ESP;DF;es Villarreal;Villarreal;31-141;31;1.0;52;3;16;24;14;3;43;0;1;0.0;34;124;62;1;0;0;1;0;35;31;88.6;2;Matches
+David de Gea\7ba6d84e;David de Gea;es ESP;ESP;GK;eng Manchester Utd; Manchester Utd;31-158;31;7.0;183;168;183;0;0;0;113;0;0;;68;310;142;0;0;0;0;0;79;78;98.7;0;Matches
+Yannick Gerhardt\62ab9184;Yannick Gerhardt;de GER;GER;FW;de Wolfsburg;Wolfsburg;28-032;28;2.1;100;4;17;55;31;6;98;0;1;0.0;58;244;153;9;1;2;7;6;90;70;77.8;10;Matches
+Rachid Ghezzal\dc3a9a0d;Rachid Ghezzal;dz ALG;ALG;FWMF;tr Beþiktaþ;Beþiktaþ;29-340;29;3.8;226;4;46;126;75;15;216;6;10;60.0;168;1119;710;39;11;6;8;10;192;157;81.8;18;Matches
+Gilberto\1338e42b;Gilberto;br BRA;BRA;DF;pt Benfica;Benfica;29-038;29;7.9;500;35;166;243;120;10;425;10;21;47.6;289;1401;672;31;8;2;17;7;271;251;92.6;7;Matches
+Daniel Ginczek\e5f63987;Daniel Ginczek;de GER;GER;MF;de Wolfsburg;Wolfsburg;31-001;31;0.0;0;0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;1;0;0.0;0;Matches
+Olivier Giroud\16ceb862;Olivier Giroud;fr FRA;FRA;FW;it Milan;Milan;35-196;35;2.9;94;5;14;44;37;12;90;0;1;0.0;47;138;41;1;1;0;14;2;127;73;57.5;15;Matches
+Serge Gnabry\88e357ef;Serge Gnabry;de GER;GER;FWDF;de Bayern Munich;Bayern Munich;26-274;26;4.3;303;2;29;122;178;47;294;12;19;63.2;233;1185;671;37;13;8;8;10;273;240;87.9;50;Matches
+Angel Gomes\645a3363;Angel Gomes;eng ENG; ENG;MF;fr Lille;Lille;21-226;21;1.9;79;2;14;44;25;4;78;1;2;50.0;51;204;97;5;1;1;2;4;72;51;70.8;10;Matches
+Joe Gomez\7a11550b;Joe Gomez;eng ENG; ENG;DF;eng Liverpool; Liverpool;24-326;24;2.7;233;6;74;147;24;2;215;4;4;100.0;156;681;377;12;3;1;1;0;162;157;96.9;2;Matches
+Moi Gómez\5a626448;Moi Gómez;es ESP;ESP;MFFW;es Villarreal;Villarreal;27-295;27;2.5;104;5;21;49;45;5;104;5;5;100.0;83;496;251;15;6;3;3;3;98;74;75.5;10;Matches
+Papu Gómez\6e4df551;Papu Gómez;ar ARG;ARG;FWMF;es Sevilla;Sevilla;34-058;34;3.6;232;3;30;120;101;12;218;7;13;53.8;181;746;372;24;8;2;8;5;213;186;87.3;16;Matches
+Diogo Gonçalves\f4b52308;Diogo Gonçalves;pt POR;POR;FWDF;pt Benfica;Benfica;25-067;25;1.5;81;6;24;33;29;1;69;1;5;20.0;53;245;123;8;4;1;0;4;53;49;92.5;5;Matches
+Pedro Gonçalves\c275947b;Pedro Gonçalves;pt POR;POR;FWMF;pt Sporting CP;Sporting CP;23-290;23;3.6;142;0;22;70;57;14;132;6;16;37.5;97;404;268;16;4;3;9;6;124;89;71.8;19;Matches
+Nicolás González\2c56a792;Nicolás González;es ESP;ESP;MF;es Barcelona;Barcelona;20-101;20;2.8;177;4;22;92;79;4;176;7;11;63.6;135;799;477;18;7;0;4;1;150;132;88.0;12;Matches
+Leon Goretzka\cc86b9a3;Leon Goretzka;de GER;GER;MF;de Bayern Munich;Bayern Munich;27-067;27;5.2;407;17;66;248;123;18;399;1;1;100.0;265;1281;663;34;15;3;5;0;322;302;93.8;16;Matches
+Robin Gosens\2d970560;Robin Gosens;de GER;GER;DF;it Atalanta;Atalanta;27-283;27;1.1;79;3;19;29;33;3;68;1;1;100.0;49;136;67;4;1;0;1;1;59;54;91.5;2;Matches
+Ryan Gravenberch\b8e740fb;Ryan Gravenberch;nl NED;NED;MF;nl Ajax;Ajax;19-333;19;7.8;494;13;69;260;215;33;471;12;19;63.2;367;2017;1237;55;24;3;15;11;410;364;88.8;44;Matches
+Ivo Grbi?\3f034750;Ivo Grbi?;hr CRO;CRO;GK;fr Lille;Lille;26-086;26;6.0;179;161;177;2;0;0;109;0;0;;72;361;199;0;0;0;0;0;59;57;96.6;0;Matches
+Jack Grealish\b0b4fd3e;Jack Grealish;eng ENG; ENG;FW;eng Manchester City; Manchester City;26-216;26;4.6;281;2;25;118;155;32;270;6;11;54.5;232;1620;1000;63;7;20;5;7;281;230;81.9;36;Matches
+Mason Greenwood\58eee997;Mason Greenwood;eng ENG; ENG;FW;eng Manchester Utd; Manchester Utd;20-195;20;3.4;167;3;15;89;73;9;166;4;9;44.4;128;646;310;17;2;4;6;4;176;137;77.8;14;Matches
+Antoine Griezmann\df69b544;Antoine Griezmann;fr FRA;FRA;FWMF;es Atlético Madrid;Atlético Madrid;31-024;31;5.7;259;4;36;146;96;22;250;4;6;66.7;155;816;525;20;6;5;8;7;260;178;68.5;29;Matches
+Álex Grimaldo\b1f4086c;Álex Grimaldo;es ESP;ESP;DF;pt Benfica;Benfica;26-206;26;9.6;511;39;183;204;158;8;419;10;14;71.4;281;1270;735;35;14;0;5;15;307;271;88.3;21;Matches
+Arnaut Groeneveld\f08490a6;Arnaut Groeneveld;nl NED;NED;FW;es Villarreal;Villarreal;25-073;25;9.1;270;1;15;84;188;55;259;13;32;40.6;216;1051;638;33;10;17;22;18;327;214;65.4;67;Matches
+Marko Gruji?\8b8e759d;Marko Gruji?;rs SRB;SRB;MF;pt Porto;Porto;26-001;26;3.6;168;6;30;110;40;11;166;4;4;100.0;102;531;237;14;6;3;4;1;113;103;91.2;3;Matches
+Gabriel Gudmundsson\d5d22a58;Gabriel Gudmundsson;se SWE;SWE;MFDF;fr Lille;Lille;22-350;22;2.7;129;11;43;65;33;3;117;2;3;66.7;71;585;344;14;7;1;5;6;76;65;85.5;3;Matches
+Raphaël Guerreiro\048a1cbc;Raphaël Guerreiro;pt POR;POR;DF;de Dortmund;Dortmund;28-113;28;2.0;162;5;42;84;48;6;145;4;7;57.1;105;365;233;12;2;1;0;1;127;115;90.6;7;Matches
+Josuha Guilavogui\e6c43eec;Josuha Guilavogui;fr FRA;FRA;MFDF;de Wolfsburg;Wolfsburg;31-207;31;4.7;265;34;108;145;16;2;257;1;1;100.0;136;409;183;3;1;0;1;5;130;122;93.8;1;Matches
+Daouda Guindo\e382905a;Daouda Guindo;ml MLI;MLI;DF;at RB Salzburg;RB Salzburg;19-182;19;0.1;8;0;1;6;2;0;7;0;0;;6;59;25;1;0;0;0;0;6;6;100.0;1;Matches
+Péter Gulácsi\bcb2ccd8;Péter Gulácsi;hu HUN;HUN;GK;de RB Leipzig;RB Leipzig;31-343;31;5.0;191;164;190;2;0;0;159;0;0;;100;286;138;0;0;0;0;0;117;116;99.1;0;Matches
+Ýlkay Gündoðan\819b3158;Ýlkay Gündoðan;de GER;GER;MF;eng Manchester City; Manchester City;31-172;31;6.8;438;9;55;245;173;26;422;5;9;55.6;318;1648;772;40;15;1;7;8;391;351;89.8;49;Matches
+Mert Günok\b583aef5;Mert Günok;tr TUR;TUR;GK;tr Beþiktaþ;Beþiktaþ;33-044;33;1.0;47;41;47;0;0;0;33;0;0;;20;101;55;0;0;0;0;0;22;22;100.0;0;Matches
+Miguel Gutiérrez\7e98cff1;Miguel Gutiérrez;es ESP;ESP;DF;es Real Madrid;Real Madrid;20-261;20;0.7;63;0;6;27;31;2;52;2;3;66.7;46;172;80;6;1;1;0;1;45;42;93.3;1;Matches
+Joško Gvardiol\5ad50391;Joško Gvardiol;hr CRO;CRO;DF;de RB Leipzig;RB Leipzig;20-081;20;3.7;244;38;106;109;42;9;232;3;5;60.0;154;840;427;12;5;0;1;4;154;145;94.2;8;Matches
+Erling Haaland\1f44ac21;Erling Haaland;no NOR;NOR;FW;de Dortmund;Dortmund;21-267;21;2.3;92;4;6;35;54;23;86;3;10;30.0;50;162;105;7;1;3;7;5;119;69;58.0;24;Matches
+Munir El Haddadi\8696bc90;Munir El Haddadi;ma MAR;MAR;FWMF;es Sevilla;Sevilla;26-225;26;2.3;78;0;3;28;47;9;75;1;2;50.0;54;208;69;4;0;0;2;5;127;59;46.5;17;Matches
+Amadou Haidara\92432bc6;Amadou Haidara;ml MLI;MLI;MF;de RB Leipzig;RB Leipzig;24-073;24;2.0;151;3;20;95;50;2;147;1;2;50.0;102;522;329;19;10;1;2;1;106;100;94.3;4;Matches
+Achraf Hakimi\e42d61c7;Achraf Hakimi;ma MAR;MAR;DF;fr Paris S-G;Paris S-G;23-161;23;8.0;572;39;202;239;164;16;514;11;21;52.4;385;1720;1086;38;14;6;7;12;434;397;91.5;16;Matches
+Sébastien Haller\ba115a40;Sébastien Haller;ci CIV;CIV;FW;nl Ajax;Ajax;27-296;27;7.4;245;5;14;113;128;53;230;6;10;60.0;154;579;262;14;7;5;14;7;299;184;61.5;61;Matches
+Samir Handanovi?\74419746;Samir Handanovi?;si SVN;SVN;GK;it Inter;Inter;37-274;37;8.0;271;254;270;1;0;0;235;0;0;;169;609;315;0;0;0;0;0;179;177;98.9;0;Matches
+Denys Harmash\bfc5768b;Denys Harmash;ua UKR;UKR;FW;ua Dynamo Kyiv;Dynamo Kyiv;31-360;31;3.6;145;2;24;79;53;11;142;3;4;75.0;88;424;232;8;5;1;10;4;188;109;58.0;19;Matches
+Hans Hateboer\3b333ac3;Hans Hateboer;nl NED;NED;DF;it Atalanta;Atalanta;28-095;28;1.0;58;2;10;14;37;2;48;0;1;0.0;33;157;91;7;3;0;1;1;43;37;86.0;8;Matches
+Kai Havertz\fed7cb61;Kai Havertz;de GER;GER;FW;eng Chelsea; Chelsea;22-307;22;7.5;379;8;22;134;240;66;366;8;14;57.1;234;1082;557;36;9;11;24;20;390;300;76.9;80;Matches
+Eden Hazard\a39bb753;Eden Hazard;be BEL;BEL;FW;es Real Madrid;Real Madrid;31-097;31;0.9;70;0;4;22;47;4;67;2;2;100.0;52;242;101;5;2;0;1;3;73;60;82.2;17;Matches
+Thorgan Hazard\50871bcc;Thorgan Hazard;be BEL;BEL;FW;de Dortmund;Dortmund;29-016;29;1.6;96;3;11;44;50;6;91;1;4;25.0;68;372;253;8;5;0;2;3;80;65;81.3;5;Matches
+Tom Heaton\a6de6361;Tom Heaton;eng ENG; ENG;GK;eng Manchester Utd; Manchester Utd;35-364;35;0.3;11;11;11;0;0;0;6;0;0;;1;10;10;0;0;0;0;0;3;3;100.0;0;Matches
+Silvan Hefti\f8342731;Silvan Hefti;ch SUI;SUI;DF;ch Young Boys;Young Boys;24-171;24;4.3;312;14;101;137;86;16;271;5;7;71.4;183;856;563;31;4;4;3;4;203;185;91.1;20;Matches
+Dean Henderson\e5a76dfe;Dean Henderson;eng ENG; ENG;GK;eng Manchester Utd; Manchester Utd;25-033;25;0.7;34;31;34;0;0;0;28;0;0;;16;90;36;0;0;0;0;0;14;14;100.0;0;Matches
+Jordan Henderson\935e6b8f;Jordan Henderson;eng ENG; ENG;MF;eng Liverpool; Liverpool;31-301;31;5.6;542;9;54;330;179;7;534;2;5;40.0;375;1159;491;19;9;1;8;5;463;432;93.3;24;Matches
+Jack Hendry\ffed43e3;Jack Hendry;sct SCO; SCO;DF;be Club Brugge;Club Brugge;26-342;26;6.0;237;45;152;91;9;5;225;1;1;100.0;115;705;299;4;1;1;2;1;121;117;96.7;0;Matches
+Benjamin Henrichs\0a89e877;Benjamin Henrichs;de GER;GER;DF;de RB Leipzig;RB Leipzig;25-050;25;0.6;33;2;18;11;8;1;30;0;0;;15;89;72;3;1;0;1;0;15;15;100.0;0;Matches
+Mario Hermoso\555f3a0b;Mario Hermoso;es ESP;ESP;DF;es Atlético Madrid;Atlético Madrid;26-300;26;4.7;250;27;132;102;25;2;222;2;3;66.7;120;599;334;11;3;0;1;1;133;122;91.7;2;Matches
+Lucas Hernández\c3ee18ef;Lucas Hernández;fr FRA;FRA;DF;de Bayern Munich;Bayern Munich;26-059;26;6.3;657;36;222;400;86;5;608;5;7;71.4;433;2648;1534;67;18;1;0;4;462;457;98.9;5;Matches
+Theo Hernández\d4c9725f;Theo Hernández;fr FRA;FRA;DF;it Milan;Milan;24-190;24;5.0;335;24;117;149;106;11;281;12;19;63.2;227;1305;816;32;12;3;11;12;237;209;88.2;12;Matches
+Ander Herrera\436a9dd0;Ander Herrera;es ESP;ESP;MF;fr Paris S-G;Paris S-G;32-243;32;3.6;270;10;70;152;57;4;269;1;2;50.0;178;614;221;6;2;0;2;1;231;216;93.5;7;Matches
+Héctor Herrera\a8542814;Héctor Herrera;mx MEX;MEX;MF;es Atlético Madrid;Atlético Madrid;31-360;31;2.5;153;6;38;96;23;1;143;2;4;50.0;84;278;121;5;1;1;3;2;95;82;86.3;1;Matches
+Callum Hudson-Odoi\15f3ec41;Callum Hudson-Odoi;eng ENG; ENG;FWDF;eng Chelsea; Chelsea;21-158;21;3.2;197;1;13;67;130;11;190;6;12;50.0;153;850;471;26;5;4;4;5;180;150;83.3;14;Matches
+Mats Hummels\05d548d8;Mats Hummels;de GER;GER;DFFW;de Dortmund;Dortmund;33-119;33;3.9;351;38;174;191;15;4;348;1;1;100.0;245;1505;983;34;5;0;1;1;266;261;98.1;1;Matches
+Atiba Hutchinson\f1b55719;Atiba Hutchinson;ca CAN;CAN;MF;tr Beþiktaþ;Beþiktaþ;39-065;39;1.7;112;0;21;69;27;7;109;1;2;50.0;78;260;139;5;1;0;1;5;100;86;86.0;4;Matches
+Vicente Iborra\ad1ffcfd;Vicente Iborra;es ESP;ESP;MF;es Villarreal;Villarreal;34-088;34;0.1;6;0;1;5;0;0;6;0;0;;2;2;2;0;0;0;0;0;2;2;100.0;0;Matches
+Zlatan Ibrahimovi?\4cde5509;Zlatan Ibrahimovi?;se SWE;SWE;FW;it Milan;Milan;40-193;40;1.8;64;1;2;38;26;8;60;0;1;0.0;37;125;43;3;1;1;2;1;88;48;54.5;13;Matches
+Mauro Icardi\43b78598;Mauro Icardi;ar ARG;ARG;FW;fr Paris S-G;Paris S-G;29-054;29;0.5;11;1;3;2;7;4;11;0;0;;6;41;13;1;1;0;1;0;24;9;37.5;3;Matches
+Jonathan Ikone\42eaa028;Jonathan Ikone;fr FRA;FRA;MF;fr Lille;Lille;23-347;23;3.3;146;4;13;84;69;10;144;12;19;63.2;124;754;406;19;7;3;16;8;150;114;76.0;18;Matches
+Josip Ili?i?\68252d6d;Josip Ili?i?;si SVN;SVN;FWMF;it Atalanta;Atalanta;34-075;34;2.8;174;0;17;77;98;9;162;5;15;33.3;133;632;326;16;7;1;8;5;176;142;80.7;23;Matches
+Gonçalo Inácio\33651873;Gonçalo Inácio;pt POR;POR;DF;pt Sporting CP;Sporting CP;20-232;20;6.2;319;79;200;134;7;2;306;0;0;;200;1199;717;14;1;0;0;4;215;211;98.1;0;Matches
+Jo Inge Berget\f512a009;Jo Inge Berget;no NOR;NOR;DF;se Malmö;Malmö;31-215;31;4.9;250;16;88;129;49;5;208;5;8;62.5;150;619;314;11;3;1;2;2;183;148;80.9;5;Matches
+Bonke Innocent\546bb36e;Bonke Innocent;ng NGA;NGA;MF;se Malmö;Malmö;26-084;26;5.5;267;13;86;170;17;1;266;0;0;;157;567;152;4;2;0;5;4;185;171;92.4;6;Matches
+Zidane Iqbal\6fa3c28e;Zidane Iqbal;iq IRQ;IRQ;MF;eng Manchester Utd; Manchester Utd;18-352;18;0.0;4;0;2;2;1;0;4;1;1;100.0;4;22;10;1;1;0;0;0;5;3;60.0;0;Matches
+Ismaily\cf182add;Ismaily;br BRA;BRA;DF;ua Shakhtar;Shakhtar;32-093;32;3.9;267;21;85;113;84;17;235;4;7;57.1;171;699;346;15;7;0;3;2;188;167;88.8;16;Matches
+José Izquierdo\ca2bc3df;José Izquierdo;co COL;COL;DF;be Club Brugge;Club Brugge;29-281;29;0.1;6;0;2;1;4;2;6;1;1;100.0;3;10;7;1;0;1;2;0;7;5;71.4;0;Matches
+Reece James\1265a93a;Reece James;eng ENG; ENG;DFMF;eng Chelsea; Chelsea;22-127;22;5.6;466;14;89;210;198;8;422;8;10;80.0;333;1507;729;37;14;3;5;6;342;325;95.0;16;Matches
+Gabriel Jesus\b66315ae;Gabriel Jesus;br BRA;BRA;FW;eng Manchester City; Manchester City;25-011;25;2.2;114;2;7;32;77;17;114;8;11;72.7;97;495;315;22;2;2;6;8;117;89;76.1;11;Matches
+Curtis Jones\4fb9c88f;Curtis Jones;eng ENG; ENG;MFFW;eng Liverpool; Liverpool;21-074;21;1.9;156;3;18;93;67;6;155;3;5;60.0;124;805;475;23;12;3;2;3;134;123;91.8;14;Matches
+Frenkie de Jong\1bacc518;Frenkie de Jong;nl NED;NED;MF;es Barcelona;Barcelona;24-337;24;5.8;378;11;67;248;97;20;375;7;10;70.0;279;1617;885;29;16;2;3;7;332;290;87.3;26;Matches
+Luuk de Jong\abb3bb95;Luuk de Jong;nl NED;NED;FW;es Barcelona;Barcelona;31-230;31;2.0;57;0;5;31;23;9;54;0;1;0.0;29;67;22;0;0;0;7;3;67;42;62.7;5;Matches
+Joan Jordán\2a0c8ba4;Joan Jordán;es ESP;ESP;MF;es Sevilla;Sevilla;27-282;27;3.6;263;7;59;157;62;3;250;4;7;57.1;160;676;309;8;5;0;3;5;204;187;91.7;13;Matches
+Jorginho\45db685d;Jorginho;it ITA;ITA;MF;eng Chelsea; Chelsea;30-115;30;6.2;583;6;89;375;152;6;571;4;6;66.7;399;1839;1039;47;14;0;3;5;455;442;97.1;10;Matches
+Diogo Jota\178ae8f8;Diogo Jota;pt POR;POR;FW;eng Liverpool; Liverpool;25-131;25;5.4;287;1;25;144;139;36;287;10;25;40.0;205;940;541;29;10;3;12;14;300;212;70.7;58;Matches
+Luka Jovi?\4d8cd038;Luka Jovi?;rs SRB;SRB;FW;es Real Madrid;Real Madrid;24-112;24;1.3;52;0;3;28;24;10;51;2;4;50.0;34;128;24;2;1;0;1;0;58;43;74.1;11;Matches
+Keston Julien\76c98b58;Keston Julien;tt TRI;TRI;DFFW;md Sheriff Tiraspol;Sheriff Tiraspol;23-170;23;0.6;25;2;12;7;7;0;24;0;0;;14;97;64;3;0;0;0;1;17;16;94.1;1;Matches
+Vinicius Júnior\7111d552;Vinicius Júnior;br BRA;BRA;FW;es Real Madrid;Real Madrid;21-276;21;10.0;528;1;52;155;373;81;521;33;69;47.8;476;2826;2141;110;30;30;27;16;530;436;82.3;89;Matches
+Felix Kalu Nmecha\091c86e2;Felix Kalu Nmecha;de GER;GER;MFFW;de Wolfsburg;Wolfsburg;21-186;21;0.4;22;1;3;12;9;0;22;0;0;;15;93;35;1;1;0;1;0;20;18;90.0;3;Matches
+Pierre Kalulu\85f7d1be;Pierre Kalulu;fr FRA;FRA;DF;it Milan;Milan;21-313;21;2.4;132;7;44;62;35;3;112;0;1;0.0;68;482;296;11;3;0;4;0;74;63;85.1;4;Matches
+Kevin Kampl\b825a650;Kevin Kampl;si SVN;SVN;MF;de RB Leipzig;RB Leipzig;31-187;31;3.0;211;7;55;129;39;1;208;3;3;100.0;143;685;271;9;1;0;1;2;153;144;94.1;4;Matches
+Wilfried Kanga\b4c816a9;Wilfried Kanga;fr FRA;FRA;FW;ch Young Boys;Young Boys;24-052;24;0.9;29;0;0;13;16;8;26;0;0;;16;78;31;2;0;1;4;1;50;23;46.0;8;Matches
+N'Golo Kanté\b9fbae28;N'Golo Kanté;fr FRA;FRA;MF;eng Chelsea; Chelsea;31-016;31;4.7;336;6;65;194;110;4;332;4;8;50.0;218;1153;682;26;12;4;3;10;289;256;88.6;17;Matches
+Kenan Karaman\8f0f2230;Kenan Karaman;tr TUR;TUR;MFFW;tr Beþiktaþ;Beþiktaþ;28-040;28;3.0;113;2;24;58;44;8;108;5;13;38.5;94;463;224;12;3;3;7;10;138;87;63.0;19;Matches
+Oleksandr Karavayev\1bd5735a;Oleksandr Karavayev;ua UKR;UKR;DFMF;ua Dynamo Kyiv;Dynamo Kyiv;29-316;29;1.8;97;10;27;32;48;7;84;2;4;50.0;55;375;264;9;4;2;5;1;80;62;77.5;9;Matches
+Vyacheslav Karavayev\b0b902c8;Vyacheslav Karavayev;ru RUS;RUS;DF;ru Zenit;Zenit;26-329;26;3.3;184;10;79;66;52;5;156;0;5;0.0;113;542;276;8;6;0;3;2;127;112;88.2;3;Matches
+Moise Kean\3d50bcdb;Moise Kean;it ITA;ITA;FW;it Juventus;Juventus;22-045;22;1.9;67;1;4;32;37;14;65;2;2;100.0;41;227;143;9;3;2;6;3;87;51;58.6;18;Matches
+Tomasz K?dziora\dc52c72f;Tomasz K?dziora;pl POL;POL;DF;ua Dynamo Kyiv;Dynamo Kyiv;27-307;27;4.0;198;23;89;75;45;2;166;1;1;100.0;107;448;271;11;5;0;1;2;119;110;92.4;1;Matches
+Thilo Kehrer\51dbeea9;Thilo Kehrer;de GER;GER;DF;fr Paris S-G;Paris S-G;25-205;25;0.7;41;6;16;24;4;1;39;0;0;;20;111;60;3;1;0;1;2;25;22;88.0;0;Matches
+Naby Keïta\f25c8e3a;Naby Keïta;gn GUI;GUI;MF;eng Liverpool; Liverpool;27-063;27;4.2;345;3;28;228;113;14;340;6;9;66.7;256;1217;676;41;15;4;7;9;301;268;89.0;12;Matches
+Mikhail Kerzhakov\2fabebc0;Mikhail Kerzhakov;ru RUS;RUS;GK;ru Zenit;Zenit;35-076;35;2.0;35;32;35;0;0;0;24;0;0;;16;63;26;0;0;0;0;0;13;13;100.0;0;Matches
+Franck Kessié\05e19d6a;Franck Kessié;ci CIV;CIV;MFFW;it Milan;Milan;25-116;25;3.6;226;14;71;120;43;11;221;2;4;50.0;148;731;276;10;1;0;7;6;176;161;91.5;17;Matches
+Joshua Kimmich\49296448;Joshua Kimmich;de GER;GER;MF;de Bayern Munich;Bayern Munich;27-065;27;7.8;763;20;129;446;242;7;697;4;5;80.0;487;2810;1239;60;18;1;2;4;578;555;96.0;19;Matches
+Presnel Kimpembe\aef6e670;Presnel Kimpembe;fr FRA;FRA;DF;fr Paris S-G;Paris S-G;26-244;26;7.0;467;103;277;209;6;1;453;0;0;;299;1446;718;15;1;0;1;6;336;335;99.7;0;Matches
+Simon Kjær\8b8a56ce;Simon Kjær;dk DEN;DEN;DF;it Milan;Milan;33-019;33;3.0;175;45;120;56;2;2;170;0;0;;90;441;279;6;0;0;1;0;110;108;98.2;0;Matches
+Maurits Kjærgaard\2b0852db;Maurits Kjærgaard;dk DEN;DEN;FWMF;at RB Salzburg;RB Salzburg;18-292;18;0.5;15;0;1;9;6;1;15;0;0;;9;31;14;2;0;1;2;1;20;12;60.0;2;Matches
+Davy Klaassen\15fd5593;Davy Klaassen;nl NED;NED;MF;nl Ajax;Ajax;29-052;29;2.6;132;3;22;72;42;5;129;0;0;;90;227;103;6;2;0;3;0;107;95;88.8;9;Matches
+Lukas Klostermann\ca8033cb;Lukas Klostermann;de GER;GER;DF;de RB Leipzig;RB Leipzig;25-316;25;3.9;216;39;126;94;8;2;205;0;1;0.0;111;492;238;3;1;0;0;0;134;130;97.0;3;Matches
+Ansgar Knauff\19a967ab;Ansgar Knauff;de GER;GER;FWMF;de Dortmund;Dortmund;20-094;20;0.3;19;0;3;10;8;1;19;1;2;50.0;12;58;21;2;1;0;1;0;17;13;76.5;0;Matches
+Gregor Kobel\cd59b9df;Gregor Kobel;ch SUI;SUI;GK;de Dortmund;Dortmund;24-129;24;6.0;191;162;191;0;0;0;147;0;0;;103;365;167;0;0;0;0;0;100;100;100.0;0;Matches
+Philipp Köhn\ff74841d;Philipp Köhn;ch SUI;SUI;GK;at RB Salzburg;RB Salzburg;24-012;24;8.0;240;203;240;0;0;0;157;0;0;;98;360;182;0;0;0;0;0;89;88;98.9;0;Matches
+Koke\55126f3b;Koke;es ESP;ESP;MF;es Atlético Madrid;Atlético Madrid;30-096;30;7.3;373;14;115;210;65;4;364;2;3;66.7;239;880;536;18;5;0;3;5;298;261;87.6;9;Matches
+Aleksandar Kolarov\eda40760;Aleksandar Kolarov;rs SRB;SRB;DF;it Inter;Inter;36-155;36;0.1;8;0;2;2;4;0;7;0;0;;7;36;20;2;0;0;0;0;8;7;87.5;0;Matches
+Dimitris Kolovos\bc8df459;Dimitris Kolovos;gr GRE;GRE;MF;md Sheriff Tiraspol;Sheriff Tiraspol;28-352;28;4.5;136;3;33;74;34;7;133;7;11;63.6;105;540;288;9;1;2;7;14;112;89;79.5;6;Matches
+Ibrahima Konaté\5ed9b537;Ibrahima Konaté;fr FRA;FRA;DF;eng Liverpool; Liverpool;22-324;22;5.0;401;38;197;216;11;5;394;0;1;0.0;273;1416;747;17;1;0;2;3;297;292;98.3;0;Matches
+Geoffrey Kondogbia\cce181df;Geoffrey Kondogbia;cf CTA;CTA;MFDF;es Atlético Madrid;Atlético Madrid;29-058;29;6.4;313;28;127;163;40;3;309;1;1;100.0;196;1085;477;18;4;0;1;7;191;184;96.3;2;Matches
+Teun Koopmeiners\a26fb8aa;Teun Koopmeiners;nl NED;NED;MF;it Atalanta;Atalanta;24-045;24;2.4;162;6;45;81;49;3;147;0;3;0.0;101;529;244;12;3;1;1;3;131;117;89.3;5;Matches
+Viktor Korniienko\f38cc3b3;Viktor Korniienko;ua UKR;UKR;DF;ua Shakhtar;Shakhtar;23-059;23;0.9;65;5;17;26;22;3;53;0;0;;37;83;42;2;0;0;1;0;40;39;97.5;2;Matches
+Nianzou Kouassi\5853ac44;Nianzou Kouassi;fr FRA;FRA;DF;de Bayern Munich;Bayern Munich;19-311;19;2.4;216;13;80;143;8;1;213;0;0;;158;734;486;15;1;0;0;0;172;169;98.3;0;Matches
+Jules Koundé\4d1666ff;Jules Koundé;fr FRA;FRA;DF;es Sevilla;Sevilla;23-153;23;5.0;387;50;184;203;22;8;376;5;5;100.0;254;1448;773;24;3;0;0;2;254;253;99.6;3;Matches
+Mateo Kova?i?\79c0821a;Mateo Kova?i?;hr CRO;CRO;MF;eng Chelsea; Chelsea;27-343;27;4.7;486;7;65;314;155;1;482;10;14;71.4;414;2258;1245;57;23;0;2;7;428;419;97.9;7;Matches
+Kirill Kravtsov\a2c51161;Kirill Kravtsov;ru RUS;RUS;MFDF;ru Zenit;Zenit;19-304;19;0.2;12;1;2;10;0;0;12;0;0;;7;19;5;0;0;0;0;0;9;9;100.0;0;Matches
+Stanislav Kritsyuk\b8798a46;Stanislav Kritsyuk;ru RUS;RUS;GK;ru Zenit;Zenit;31-134;31;4.0;117;107;117;0;0;0;70;1;1;100.0;37;164;91;0;0;0;0;0;31;31;100.0;0;Matches
+Toni Kroos\6ce1f46f;Toni Kroos;de GER;GER;MF;es Real Madrid;Real Madrid;32-100;32;7.2;678;7;125;417;174;4;626;4;5;80.0;523;1969;1015;51;17;2;2;3;576;549;95.3;9;Matches
+Danil Krugovoy\a802405e;Danil Krugovoy;ru RUS;RUS;DFFW;ru Zenit;Zenit;23-321;23;0.8;76;1;10;37;38;9;68;3;4;75.0;56;355;260;14;7;2;2;0;55;52;94.5;8;Matches
+Rade Kruni?\817c6964;Rade Kruni?;ba BIH;BIH;FWMF;it Milan;Milan;28-189;28;2.8;123;6;29;69;36;3;122;5;5;100.0;88;400;158;8;5;1;5;4;96;84;87.5;11;Matches
+Serhiy Kryvtsov\292a652a;Serhiy Kryvtsov;ua UKR;UKR;DF;ua Shakhtar;Shakhtar;31-030;31;2.1;187;30;90;106;8;2;182;0;0;;115;981;731;29;4;0;1;0;146;143;97.9;1;Matches
+Dejan Kulusevski\df3cda47;Dejan Kulusevski;se SWE;SWE;FW;it Juventus;Juventus;21-354;21;0.9;38;2;8;12;22;7;38;0;3;0.0;31;67;31;1;1;0;6;2;48;32;66.7;7;Matches
+Daniil Kuznetsov\18a88e3e;Daniil Kuznetsov;ru RUS;RUS;MF;ru Zenit;Zenit;18-356;18;0.0;3;0;0;1;2;1;3;0;0;;3;10;7;1;0;0;0;0;1;1;100.0;1;Matches
+Daler Kuzyaev\d4e93bab;Daler Kuzyaev;ru RUS;RUS;MF;ru Zenit;Zenit;29-089;29;2.8;114;9;30;48;46;12;114;2;3;66.7;81;401;191;10;2;1;6;5;96;81;84.4;21;Matches
+Maxence Lacroix\277c49ed;Maxence Lacroix;fr FRA;FRA;DF;de Wolfsburg;Wolfsburg;22-008;22;6.0;364;52;233;153;7;3;345;1;1;100.0;198;1237;711;6;0;0;1;1;205;203;99.0;1;Matches
+Konrad Laimer\c1b7847c;Konrad Laimer;at AUT;AUT;MF;de RB Leipzig;RB Leipzig;24-322;24;4.5;248;5;49;122;91;13;242;3;8;37.5;168;875;545;28;7;3;3;4;185;158;85.4;12;Matches
+Érik Lamela\abe66106;Érik Lamela;ar ARG;ARG;FWMF;es Sevilla;Sevilla;30-041;30;1.4;88;2;17;23;56;8;85;5;8;62.5;65;403;236;13;4;1;2;5;71;58;81.7;15;Matches
+Noa Lang\8e034340;Noa Lang;nl NED;NED;MFFW;be Club Brugge;Club Brugge;22-301;22;5.9;322;2;36;131;189;37;291;15;25;60.0;243;1936;1050;58;18;13;17;13;314;236;75.2;47;Matches
+Aymeric Laporte\119b9a8e;Aymeric Laporte;es ESP;ESP;DF;eng Manchester City; Manchester City;27-322;27;6.5;606;61;234;400;29;5;597;0;1;0.0;452;3009;1952;73;13;0;1;1;508;500;98.4;0;Matches
+Cyle Larin\e7af9060;Cyle Larin;ca CAN;CAN;FWMF;tr Beþiktaþ;Beþiktaþ;26-362;26;3.9;174;9;36;100;47;15;172;3;8;37.5;116;487;207;9;1;2;7;14;189;128;67.7;18;Matches
+Eric Larsson\8474cb83;Eric Larsson;se SWE;SWE;DF;se Malmö;Malmö;30-273;30;3.1;128;10;51;60;24;0;111;1;2;50.0;69;312;115;4;4;0;5;4;80;73;91.3;0;Matches
+Sandro Lauper\6a829019;Sandro Lauper;ch SUI;SUI;DF;ch Young Boys;Young Boys;25-171;25;5.1;389;56;215;190;11;2;377;2;3;66.7;261;1620;812;17;2;0;0;1;277;270;97.5;1;Matches
+Valentino Lazaro\016ff750;Valentino Lazaro;at AUT;AUT;DF;pt Benfica;Benfica;26-021;26;1.3;77;4;20;33;31;0;64;2;4;50.0;46;183;107;6;3;0;3;0;46;42;91.3;3;Matches
+Rafael Leão\20730eae;Rafael Leão;pt POR;POR;FW;it Milan;Milan;22-308;22;3.2;103;2;14;52;50;10;100;9;19;47.4;82;505;358;15;8;4;7;7;130;75;57.7;6;Matches
+Jordan Lefort\c3e4ecbb;Jordan Lefort;fr FRA;FRA;DF;ch Young Boys;Young Boys;28-248;28;1.9;138;10;50;71;31;5;122;0;2;0.0;78;433;299;13;3;1;2;0;95;89;93.7;8;Matches
+Thomas Lemar\4dbd0916;Thomas Lemar;fr FRA;FRA;MFFW;es Atlético Madrid;Atlético Madrid;26-153;26;4.2;224;6;40;120;84;9;214;5;9;55.6;180;995;483;28;13;2;4;12;184;156;84.8;13;Matches
+Clément Lenglet\4f28a6ff;Clément Lenglet;fr FRA;FRA;DF;es Barcelona;Barcelona;26-301;26;3.8;340;19;111;229;26;6;332;1;1;100.0;252;1432;735;30;8;0;0;1;285;281;98.6;2;Matches
+Robert Lewandowski\8d78e732;Robert Lewandowski;pl POL;POL;FW;de Bayern Munich;Bayern Munich;33-236;33;9.7;295;3;10;125;171;64;286;9;15;60.0;206;909;435;27;9;6;19;12;354;234;66.1;74;Matches
+Oscar Lewicki\0c09c984;Oscar Lewicki;se SWE;SWE;MF;se Malmö;Malmö;29-274;29;1.4;70;2;14;44;12;0;70;0;0;;45;114;50;2;0;0;0;1;56;49;87.5;5;Matches
+Bohdan Liedniev\b1dae700;Bohdan Liedniev;ua UKR;UKR;MF;ua Dynamo Kyiv;Dynamo Kyiv;24-007;24;0.1;6;0;1;2;4;2;6;0;1;0.0;4;2;2;0;0;0;1;1;6;5;83.3;2;Matches
+Matthijs de Ligt\d6e53a3a;Matthijs de Ligt;nl NED;NED;DF;it Juventus;Juventus;22-245;22;6.9;405;58;184;222;14;5;399;4;4;100.0;272;1326;579;18;1;1;0;0;276;273;98.9;1;Matches
+Isaac Lihadji\57a46f3f;Isaac Lihadji;fr FRA;FRA;MF;fr Lille;Lille;20-004;20;0.3;26;0;4;8;16;1;26;1;1;100.0;24;133;95;3;1;0;3;2;24;20;83.3;1;Matches
+Victor Lindelöf\f5deef4c;Victor Lindelöf;se SWE;SWE;DF;eng Manchester Utd; Manchester Utd;27-271;27;4.7;317;37;165;164;14;1;308;0;0;;210;1171;555;10;0;0;0;1;232;231;99.6;1;Matches
+Jesse Lingard\810e3c74;Jesse Lingard;eng ENG; ENG;MFFW;eng Manchester Utd; Manchester Utd;29-120;29;1.3;60;1;10;35;22;4;59;2;4;50.0;39;128;60;4;3;0;6;2;74;45;60.8;8;Matches
+Marcos Llorente\02c15616;Marcos Llorente;es ESP;ESP;DFMF;es Atlético Madrid;Atlético Madrid;27-074;27;7.8;381;12;111;177;115;11;325;4;8;50.0;224;1291;720;38;12;3;6;4;271;202;74.5;16;Matches
+Giovani Lo Celso\d7553721;Giovani Lo Celso;ar ARG;ARG;MFFW;es Villarreal;Villarreal;26-005;26;3.8;217;5;42;102;94;9;215;6;10;60.0;166;927;511;24;11;1;6;12;184;159;86.4;15;Matches
+Manuel Locatelli\a8a874f1;Manuel Locatelli;it ITA;ITA;MF;it Juventus;Juventus;24-096;24;5.9;426;21;113;247;87;2;414;4;5;80.0;306;1032;516;17;5;0;4;3;328;316;96.3;12;Matches
+Renan Lodi\ed9f7cfe;Renan Lodi;br BRA;BRA;DF;es Atlético Madrid;Atlético Madrid;24-006;24;5.3;265;18;81;100;103;19;234;2;7;28.6;153;908;587;27;8;6;9;5;211;167;79.1;35;Matches
+Ruben Loftus-Cheek\e97fd090;Ruben Loftus-Cheek;eng ENG; ENG;MFDF;eng Chelsea; Chelsea;26-081;26;4.0;307;5;45;159;128;11;302;17;25;68.0;246;1195;790;40;14;2;8;8;269;247;91.8;20;Matches
+Matteo Lovato\5fa57166;Matteo Lovato;it ITA;ITA;DF;it Atalanta;Atalanta;22-059;22;0.5;24;2;14;10;1;0;22;0;0;;13;67;50;2;1;0;0;0;12;12;100.0;0;Matches
+Dejan Lovren\1a2935f6;Dejan Lovren;hr CRO;CRO;DF;ru Zenit;Zenit;32-283;32;3.5;187;38;99;91;8;3;181;0;0;;105;445;235;10;0;0;1;0;132;130;98.5;1;Matches
+José Luis Palomino\921f6058;José Luis Palomino;ar ARG;ARG;DF;it Atalanta;Atalanta;32-099;32;5.0;313;42;148;163;17;6;298;0;0;;160;1043;459;14;1;0;3;0;165;162;98.2;0;Matches
+Romelu Lukaku\5eae500a;Romelu Lukaku;be BEL;BEL;FW;eng Chelsea; Chelsea;28-336;28;3.6;98;0;2;27;70;41;95;2;6;33.3;70;219;129;7;1;3;9;7;146;81;55.5;45;Matches
+Dodi Lukebakio\0c61c77c;Dodi Lukebakio;be BEL;BEL;FWMF;de Wolfsburg;Wolfsburg;24-202;24;3.3;107;2;16;53;51;8;104;9;16;56.3;85;582;366;18;7;2;9;6;117;76;65.0;18;Matches
+Fabian Lustenberger\a63a995f;Fabian Lustenberger;ch SUI;SUI;DF;ch Young Boys;Young Boys;33-347;33;1.0;83;9;38;47;2;1;82;0;0;;54;215;136;3;0;0;0;0;61;60;98.4;1;Matches
+Quentin Maceiras\6c330f30;Quentin Maceiras;ch SUI;SUI;DF;ch Young Boys;Young Boys;26-186;26;1.3;85;1;18;37;32;3;76;0;1;0.0;52;230;143;8;0;1;2;2;61;56;91.8;4;Matches
+Harry Maguire\d8931174;Harry Maguire;eng ENG; ENG;DF;eng Manchester Utd; Manchester Utd;29-040;29;5.9;392;47;187;208;20;9;378;0;1;0.0;248;1340;539;14;2;0;2;1;281;279;99.3;1;Matches
+Riyad Mahrez\892d5bb1;Riyad Mahrez;dz ALG;ALG;FW;eng Manchester City; Manchester City;31-052;31;9.0;543;7;41;191;360;75;506;12;19;63.2;417;2492;1302;73;21;22;14;12;476;415;87.2;74;Matches
+Nico Maier\7ea03b7d;Nico Maier;ch SUI;SUI;FW;ch Young Boys;Young Boys;21-286;21;0.0;1;0;0;0;1;0;1;0;0;;1;11;11;1;0;0;0;0;3;0;0.0;0;Matches
+Mike Maignan\fcb38f57;Mike Maignan;fr FRA;FRA;GK;it Milan;Milan;26-285;26;3.0;123;105;120;3;0;0;92;0;0;;62;321;194;0;0;0;1;0;55;55;100.0;0;Matches
+Malcom\6853490f;Malcom;br BRA;BRA;FWMF;ru Zenit;Zenit;25-047;25;4.8;253;8;31;99;154;21;242;10;15;66.7;194;1196;782;39;14;8;11;7;235;192;81.7;31;Matches
+Daniel Maldini\801831fe;Daniel Maldini;it ITA;ITA;FW;it Milan;Milan;20-185;20;0.3;12;0;2;8;2;0;11;0;1;0.0;7;16;11;1;0;0;0;2;10;6;60.0;1;Matches
+Donyell Malen\864163f3;Donyell Malen;nl NED;NED;FW;de Dortmund;Dortmund;23-085;23;4.3;194;2;15;91;98;22;186;10;16;62.5;145;747;395;28;5;6;7;11;197;143;72.6;39;Matches
+Ruslan Malinovskyi\48d5bd33;Ruslan Malinovskyi;ua UKR;UKR;FWMF;it Atalanta;Atalanta;28-345;28;3.3;222;1;19;99;122;6;199;6;15;40.0;150;610;320;22;8;3;7;11;178;151;84.8;27;Matches
+Felix Mambimbi\1b81794d;Felix Mambimbi;ch SUI;SUI;FWMF;ch Young Boys;Young Boys;21-086;21;0.7;25;0;3;10;13;1;25;1;3;33.3;21;110;74;3;0;0;2;1;35;19;54.3;7;Matches
+Reinildo Mandava\c20bdcd7;Reinildo Mandava;mz MOZ;MOZ;DF;fr Lille;Lille;28-083;28;5.1;371;22;153;182;57;2;311;3;5;60.0;190;1006;501;12;3;2;2;5;186;178;95.7;4;Matches
+Reinildo Mandava\c20bdcd7;Reinildo Mandava;mz MOZ;MOZ;DF;es Atlético Madrid;Atlético Madrid;28-083;28;4.0;197;19;87;97;22;1;171;0;2;0.0;117;529;225;6;2;0;0;0;107;103;96.3;1;Matches
+Aïssa Mandi\fbd6378b;Aïssa Mandi;dz ALG;ALG;DF;es Villarreal;Villarreal;30-174;30;0.3;17;4;11;6;0;0;16;0;0;;14;50;24;0;0;0;0;0;16;15;93.8;0;Matches
+Sadio Mané\c691bfe2;Sadio Mané;sn SEN;SEN;FW;eng Liverpool; Liverpool;30-004;30;6.3;302;4;26;144;155;42;301;7;20;35.0;225;1015;516;37;10;9;22;24;364;242;66.5;69;Matches
+Faitout Maouassa\e54a9890;Faitout Maouassa;fr FRA;FRA;MF;be Club Brugge;Club Brugge;23-282;23;0.0;0;0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Iván Marcano\7a20d90a;Iván Marcano;es ESP;ESP;DF;pt Porto;Porto;34-295;34;1.4;73;18;51;25;0;0;71;0;0;;27;102;16;0;0;0;1;2;37;37;100.0;0;Matches
+Marcelo\603116a7;Marcelo;br BRA;BRA;DF;es Real Madrid;Real Madrid;33-337;33;1.1;85;2;12;34;44;3;78;0;0;;58;237;161;13;2;0;2;1;61;60;98.4;4;Matches
+José María Giménez\f0da930c;José María Giménez;uy URU;URU;DF;es Atlético Madrid;Atlético Madrid;27-084;27;6.5;266;52;137;129;16;7;256;1;1;100.0;146;709;400;8;1;0;2;3;158;153;96.8;1;Matches
+Mariano\5c4dc0ff;Mariano;do DOM;DOM;FW;es Real Madrid;Real Madrid;28-256;28;0.1;4;0;0;0;4;1;4;0;0;;2;10;1;0;0;0;0;1;4;4;100.0;3;Matches
+João Mário Lopes\82a39b66;João Mário Lopes;pt POR;POR;DF;pt Porto;Porto;22-101;22;3.9;223;6;48;115;72;5;170;4;11;36.4;123;679;408;20;6;1;4;4;127;114;89.8;2;Matches
+João Mário\f0021247;João Mário;pt POR;POR;MF;pt Benfica;Benfica;29-085;29;5.4;301;5;56;179;95;4;278;4;7;57.1;210;1139;490;23;8;1;3;4;236;218;92.4;9;Matches
+Marlon\cdf65d12;Marlon;br BRA;BRA;DF;ua Shakhtar;Shakhtar;26-219;26;5.0;474;66;184;312;9;4;456;0;0;;348;2084;1265;34;2;0;2;0;387;385;99.5;0;Matches
+Marlos\9139bb12;Marlos;ua UKR;UKR;FWMF;ua Shakhtar;Shakhtar;33-311;33;2.3;164;1;16;75;85;11;155;6;7;85.7;140;684;348;18;4;0;6;11;154;134;87.0;16;Matches
+Marquinhos\d5f2f82b;Marquinhos;br BRA;BRA;DF;fr Paris S-G;Paris S-G;27-335;27;8.0;613;172;403;228;11;2;595;1;2;50.0;396;2029;938;16;2;0;2;0;461;449;97.4;0;Matches
+Anthony Martial\8b788c01;Anthony Martial;fr FRA;FRA;FW;eng Manchester Utd; Manchester Utd;26-130;26;0.7;40;1;3;28;11;1;40;2;5;40.0;35;144;87;6;1;0;2;1;45;37;82.2;2;Matches
+Josep Martinez\11d8aff0;Josep Martinez;es ESP;ESP;GK;de RB Leipzig;RB Leipzig;23-322;23;1.0;33;27;33;0;0;0;26;0;0;;15;89;37;0;0;0;0;0;14;13;92.9;0;Matches
+Lautaro Martínez\f7036e1c;Lautaro Martínez;ar ARG;ARG;FW;it Inter;Inter;24-235;24;6.4;205;2;19;76;120;45;204;5;11;45.5;140;543;272;19;6;5;13;7;242;148;61.2;56;Matches
+Lisandro Martínez\bac46a10;Lisandro Martínez;ar ARG;ARG;DF;nl Ajax;Ajax;24-086;24;8.0;773;69;325;486;28;7;751;2;2;100.0;552;3406;2051;49;6;0;2;1;574;569;99.1;1;Matches
+Toni Martínez\f3945e07;Toni Martínez;es ESP;ESP;FW;pt Porto;Porto;24-288;24;1.6;35;1;3;18;16;1;35;1;1;100.0;17;128;79;3;1;0;0;3;53;23;43.4;6;Matches
+Christopher Martins\0e96a5e1;Christopher Martins;lu LUX;LUX;MF;ch Young Boys;Young Boys;25-054;25;4.6;233;15;68;148;34;4;226;0;0;;139;719;395;17;8;0;1;6;141;126;89.4;4;Matches
+Clinton Mata\55abe554;Clinton Mata;ao ANG;ANG;DF;be Club Brugge;Club Brugge;29-158;29;5.9;315;34;123;142;67;6;272;2;5;40.0;152;870;447;14;4;1;5;6;195;175;89.7;4;Matches
+Juan Mata\29733c72;Juan Mata;es ESP;ESP;MF;eng Manchester Utd; Manchester Utd;33-351;33;1.1;71;1;18;40;16;1;65;1;1;100.0;44;228;107;6;1;0;1;2;57;51;89.5;0;Matches
+Nemanja Mati?\eb7822d7;Nemanja Mati?;rs SRB;SRB;MFDF;eng Manchester Utd; Manchester Utd;33-256;33;2.2;177;17;79;99;20;0;172;0;0;;115;959;562;15;7;0;2;0;125;122;97.6;0;Matches
+Joël Matip\b217ef29;Joël Matip;cm CMR;CMR;DF;eng Liverpool; Liverpool;30-249;30;7.0;570;54;278;312;21;10;558;2;3;66.7;353;2012;1157;28;3;0;1;0;433;422;97.5;2;Matches
+Mykola Matviyenko\1adcf39e;Mykola Matviyenko;ua UKR;UKR;DF;ua Shakhtar;Shakhtar;25-347;25;4.0;400;54;167;242;29;4;384;2;3;66.7;299;1920;1244;48;9;0;1;2;330;325;98.5;6;Matches
+Eric Maxim Choupo-Moting\0e6bc38c;Eric Maxim Choupo-Moting;cm CMR;CMR;FW;de Bayern Munich;Bayern Munich;33-022;33;0.6;22;0;0;9;13;4;22;1;2;50.0;12;33;14;2;0;1;1;1;28;18;64.3;7;Matches
+Maycon\005ca692;Maycon;br BRA;BRA;MF;ua Shakhtar;Shakhtar;24-273;24;5.3;435;27;85;290;79;2;422;0;0;;312;1164;632;36;8;0;3;2;355;349;98.3;3;Matches
+Noussair Mazraoui\b74277a0;Noussair Mazraoui;ma MAR;MAR;DF;nl Ajax;Ajax;24-151;24;7.3;558;19;111;260;224;29;480;10;18;55.6;374;1802;1069;55;22;4;6;9;375;350;93.3;57;Matches
+Kevin Mbabu\493924a7;Kevin Mbabu;ch SUI;SUI;DF;de Wolfsburg;Wolfsburg;26-360;26;3.6;253;16;66;128;78;11;207;12;19;63.2;147;779;495;26;10;1;6;7;162;141;87.0;6;Matches
+Noah Mbamba\e75129bd;Noah Mbamba;be BEL;BEL;MF;be Club Brugge;Club Brugge;17-099;17;0.6;33;3;10;17;6;0;33;1;1;100.0;18;56;18;1;0;0;0;3;21;20;95.2;1;Matches
+Kylian Mbappé\42fd9c7f;Kylian Mbappé;fr FRA;FRA;FW;fr Paris S-G;Paris S-G;23-115;23;7.5;366;6;26;169;212;65;345;29;43;67.4;294;1935;1389;71;21;29;18;17;427;306;71.7;71;Matches
+Chancel Mbemba\e76cb9cc;Chancel Mbemba;cd COD;COD;DF;pt Porto;Porto;27-249;27;5.0;257;44;142;119;10;4;246;0;1;0.0;162;662;290;9;4;0;2;1;174;171;98.3;1;Matches
+Luke Mbete-Tatu\387e1d35;Luke Mbete-Tatu;eng ENG; ENG;DF;eng Manchester City; Manchester City;21-208;21;0.1;4;0;3;4;0;0;4;0;0;;4;107;96;1;0;0;0;0;4;4;100.0;0;Matches
+James Mcatee\96593e89;James Mcatee;eng ENG; ENG;MF;eng Manchester City; Manchester City;19-178;19;0.5;33;1;1;12;23;3;33;5;6;83.3;32;101;40;3;0;0;0;0;31;28;90.3;6;Matches
+Weston McKennie\01c3aff5;Weston McKennie;us USA;USA;MF;it Juventus;Juventus;23-229;23;4.3;238;11;57;109;89;12;227;1;5;20.0;138;500;312;14;6;1;5;10;189;162;85.7;27;Matches
+Scott McTominay\d93c2511;Scott McTominay;sct SCO; SCO;MF;eng Manchester Utd; Manchester Utd;25-127;25;4.4;264;11;70;166;51;5;255;2;2;100.0;173;1061;495;20;7;0;1;3;181;174;96.1;2;Matches
+Brandon Mechele\0a6dbbf7;Brandon Mechele;be BEL;BEL;DF;be Club Brugge;Club Brugge;29-076;29;1.5;60;17;45;16;1;1;59;0;0;;23;133;74;0;0;0;0;1;30;30;100.0;0;Matches
+Soualiho Meïté\5cec2c74;Soualiho Meïté;fr FRA;FRA;MF;pt Benfica;Benfica;28-028;28;1.7;70;4;23;42;10;1;65;1;2;50.0;40;151;59;3;0;0;0;4;43;37;86.0;1;Matches
+Arthur Melo\48b3dd60;Arthur Melo;br BRA;BRA;MF;it Juventus;Juventus;25-245;25;3.0;326;7;54;227;62;2;319;3;5;60.0;274;1561;702;30;3;0;3;3;270;262;97.0;2;Matches
+Nuno Mendes\f20e4cc9;Nuno Mendes;pt POR;POR;DF;fr Paris S-G;Paris S-G;19-299;19;6.4;396;40;157;155;103;8;349;14;20;70.0;247;1014;614;20;7;3;11;8;265;245;92.5;8;Matches
+Edouard Mendy\33887998;Edouard Mendy;sn SEN;SEN;GK;eng Chelsea; Chelsea;30-044;30;9.3;228;204;225;2;1;0;173;0;0;;104;407;167;0;0;0;0;0;118;118;100.0;0;Matches
+Ferland Mendy\3cefcaef;Ferland Mendy;fr FRA;FRA;DF;es Real Madrid;Real Madrid;26-310;26;6.3;393;26;132;169;116;12;350;9;14;64.3;278;1176;582;26;8;4;3;9;285;267;93.7;12;Matches
+Teden Mengi\91748070;Teden Mengi;eng ENG; ENG;DF;eng Manchester Utd; Manchester Utd;19-349;19;0.3;28;6;13;13;2;0;27;0;0;;14;32;5;0;0;0;0;0;17;15;88.2;0;Matches
+Umut Meraþ\c8112d1e;Umut Meraþ;tr TUR;TUR;DF;tr Beþiktaþ;Beþiktaþ;26-115;26;2.8;145;23;72;65;16;0;130;3;5;60.0;81;403;208;8;5;0;2;2;90;79;87.8;0;Matches
+Elia Meschak\5d51b074;Elia Meschak;cd COD;COD;FW;ch Young Boys;Young Boys;25-251;25;5.4;189;1;18;81;111;21;179;4;14;28.6;131;911;560;22;7;6;15;7;231;138;59.7;46;Matches
+Lionel Messi\d70ce98e;Lionel Messi;ar ARG;ARG;FW;fr Paris S-G;Paris S-G;34-294;34;7.0;529;2;45;311;230;29;500;22;32;68.8;438;2729;1706;93;34;11;5;18;507;452;89.2;26;Matches
+Junior Messias\f49c4ae9;Junior Messias;br BRA;BRA;FWMF;it Milan;Milan;30-336;30;1.3;66;0;10;38;24;3;64;1;3;33.3;38;177;101;6;2;0;4;3;47;39;83.0;10;Matches
+Thomas Meunier\e162b013;Thomas Meunier;be BEL;BEL;DF;de Dortmund;Dortmund;30-214;30;5.4;396;15;114;186;120;7;339;10;12;83.3;223;1077;732;38;11;2;4;3;246;227;92.3;21;Matches
+Simon Mignolet\d436eb94;Simon Mignolet;be BEL;BEL;GK;be Club Brugge;Club Brugge;34-039;34;6.0;254;207;252;2;0;0;190;1;1;100.0;116;627;327;0;0;0;0;0;114;112;98.2;0;Matches
+Éder Militão\2784f898;Éder Militão;br BRA;BRA;DF;es Real Madrid;Real Madrid;24-086;24;8.7;583;126;342;239;28;8;544;4;6;66.7;357;1969;946;13;3;0;6;2;386;375;97.2;0;Matches
+James Milner\2f90f6b8;James Milner;eng ENG; ENG;MFDF;eng Liverpool; Liverpool;36-100;36;2.3;200;6;39;101;67;3;177;0;1;0.0;119;321;139;5;3;1;3;5;160;141;88.1;8;Matches
+Takumi Minamino\f833a830;Takumi Minamino;jp JPN;JPN;FWMF;eng Liverpool; Liverpool;27-088;27;2.4;111;1;17;70;30;6;109;1;3;33.3;77;368;174;10;2;2;5;3;111;75;67.6;10;Matches
+Óscar Mingueza\056269d7;Óscar Mingueza;es ESP;ESP;DF;es Barcelona;Barcelona;22-336;22;2.5;177;3;26;102;55;0;151;0;1;0.0;108;411;211;13;5;0;0;0;119;113;95.0;4;Matches
+Rafa Mir\bbf5c11b;Rafa Mir;es ESP;ESP;FW;es Sevilla;Sevilla;24-300;24;3.0;94;3;13;45;43;13;90;3;5;60.0;47;185;73;4;1;1;13;8;143;69;48.3;16;Matches
+Aleksei Miranchuk\a9aa0d1d;Aleksei Miranchuk;ru RUS;RUS;FWMF;it Atalanta;Atalanta;26-179;26;0.4;21;0;3;8;11;5;21;2;3;66.7;15;57;33;2;0;1;2;1;24;16;66.7;5;Matches
+Fabio Miretti\34693494;Fabio Miretti;it ITA;ITA;MF;it Juventus;Juventus;18-254;18;0.0;4;0;1;3;0;0;4;0;0;;2;28;25;1;0;0;0;0;1;1;100.0;0;Matches
+Luka Modri?\6025fab1;Luka Modri?;hr CRO;CRO;MF;es Real Madrid;Real Madrid;36-217;36;9.2;741;10;167;407;227;10;705;11;18;61.1;547;2775;1320;55;14;2;6;14;637;591;92.8;26;Matches
+Kudus Mohammed\b62878a5;Kudus Mohammed;gh GHA;GHA;MF;nl Ajax;Ajax;21-255;21;0.3;20;0;3;11;9;2;20;0;1;0.0;17;68;45;3;2;0;0;0;16;16;100.0;0;Matches
+Niklas Moisander\00844823;Niklas Moisander;fi FIN;FIN;DF;se Malmö;Malmö;36-197;36;2.1;109;12;50;55;10;0;105;1;2;50.0;67;310;134;5;0;0;1;0;72;68;94.4;0;Matches
+Francisco Montero\3e96f3e7;Francisco Montero;es ESP;ESP;DF;tr Beþiktaþ;Beþiktaþ;23-090;23;3.4;216;43;132;96;2;1;210;0;1;0.0;128;711;386;11;0;0;1;1;138;136;98.6;0;Matches
+Gonzalo Montiel\374d5158;Gonzalo Montiel;ar ARG;ARG;DF;es Sevilla;Sevilla;25-103;25;2.1;176;1;48;88;55;1;156;0;3;0.0;105;627;308;12;4;0;2;2;133;119;89.5;13;Matches
+Wesley Moraes\bfae110f;Wesley Moraes;br BRA;BRA;FW;be Club Brugge;Club Brugge;25-139;25;0.3;13;0;1;6;6;0;13;0;0;;7;9;3;0;0;0;2;2;18;9;50.0;1;Matches
+Álvaro Morata\129af0db;Álvaro Morata;es ESP;ESP;FW;it Juventus;Juventus;29-173;29;5.7;214;6;36;87;106;35;208;3;9;33.3;145;641;380;22;7;4;17;5;245;160;65.3;40;Matches
+Morato\0f41e2ee;Morato;br BRA;BRA;DF;pt Benfica;Benfica;20-288;20;2.0;156;17;62;98;7;1;154;1;1;100.0;111;579;348;15;4;0;2;2;120;119;99.2;0;Matches
+Alberto Moreno\11b9265b;Alberto Moreno;es ESP;ESP;MFDF;es Villarreal;Villarreal;29-283;29;3.5;187;6;40;73;90;9;177;3;7;42.9;134;592;361;21;9;0;5;4;164;142;86.6;21;Matches
+Gerard Moreno\81f0781e;Gerard Moreno;es ESP;ESP;FW;es Villarreal;Villarreal;30-007;30;5.1;230;6;33;105;104;29;224;5;13;38.5;152;658;355;15;5;3;18;14;250;177;70.8;41;Matches
+Ilaix Moriba\f4c69aa6;Ilaix Moriba;gn GUI;GUI;MFFW;de RB Leipzig;RB Leipzig;19-085;19;0.7;36;0;3;16;18;3;36;0;0;;26;124;72;4;1;1;2;0;36;29;80.6;2;Matches
+Tyler Morton\2bc28bb9;Tyler Morton;eng ENG; ENG;MF;eng Liverpool; Liverpool;19-165;19;2.0;102;4;36;61;8;1;100;1;2;50.0;62;203;69;2;0;0;0;0;74;71;95.9;1;Matches
+Andrei Mostovoy\dfb50e5c;Andrei Mostovoy;ru RUS;RUS;FWMF;ru Zenit;Zenit;24-160;24;1.7;71;1;9;25;44;11;71;3;5;60.0;52;250;115;5;5;0;6;2;87;55;63.2;10;Matches
+Youssoufa Moukoko\6ce43701;Youssoufa Moukoko;de GER;GER;FW;de Dortmund;Dortmund;17-145;17;0.2;13;0;0;4;10;7;13;1;3;33.3;7;2;1;0;0;0;0;1;9;7;77.8;3;Matches
+Mason Mount\9674002f;Mason Mount;eng ENG; ENG;MFFW;eng Chelsea; Chelsea;23-094;23;6.0;338;0;10;125;230;34;326;3;5;60.0;250;1154;665;43;23;3;6;13;313;273;87.2;60;Matches
+Mykhailo Mudryk\049a888d;Mykhailo Mudryk;ua UKR;UKR;FW;ua Shakhtar;Shakhtar;21-099;21;2.0;110;2;20;38;65;10;101;1;4;25.0;75;431;310;10;4;2;7;4;100;80;80.0;14;Matches
+Nordi Mukiele\ac73ec79;Nordi Mukiele;fr FRA;FRA;DF;de RB Leipzig;RB Leipzig;24-164;24;5.4;328;22;104;134;101;15;281;3;5;60.0;174;752;393;21;7;1;5;7;190;166;87.4;12;Matches
+Thomas Müller\3c6089ab;Thomas Müller;de GER;GER;MFFW;de Bayern Munich;Bayern Munich;32-213;32;8.6;473;7;42;203;249;45;447;6;10;60.0;256;960;585;30;11;4;10;6;469;374;79.7;91;Matches
+Luis Muriel\eb2fe5b6;Luis Muriel;co COL;COL;FWMF;it Atalanta;Atalanta;30-363;30;1.5;96;0;6;47;51;10;91;5;9;55.6;66;293;144;7;1;3;4;4;84;68;81.0;17;Matches
+Jamal Musiala\2c0558b8;Jamal Musiala;de GER;GER;MFFW;de Bayern Munich;Bayern Munich;19-047;19;5.0;249;6;32;134;99;31;245;12;23;52.2;190;875;476;26;7;2;9;7;205;174;84.9;31;Matches
+Juan Musso\a111cf41;Juan Musso;ar ARG;ARG;GK;it Atalanta;Atalanta;27-343;27;6.0;182;150;181;1;0;0;135;0;0;;86;379;177;0;0;0;0;0;83;82;98.8;0;Matches
+Vitaliy Mykolenko\30d4a2e5;Vitaliy Mykolenko;ua UKR;UKR;DF;ua Dynamo Kyiv;Dynamo Kyiv;22-320;22;5.0;310;21;119;136;69;5;253;2;3;66.7;175;680;363;17;5;2;5;4;202;183;90.6;6;Matches
+Joakim Mæhle\c459a650;Joakim Mæhle;dk DEN;DEN;DF;it Atalanta;Atalanta;24-329;24;4.8;330;5;73;150;130;12;291;2;11;18.2;202;940;632;26;11;1;13;9;241;212;88.0;20;Matches
+Georges-Kévin N'Koudou\76c131da;Georges-Kévin N'Koudou;fr FRA;FRA;FW;tr Beþiktaþ;Beþiktaþ;27-060;27;1.0;57;1;12;36;15;3;57;2;5;40.0;46;294;166;5;2;3;3;2;56;44;78.6;4;Matches
+Fabrice N'Sakala\de85e3cc;Fabrice N'Sakala;cd COD;COD;DF;tr Beþiktaþ;Beþiktaþ;31-267;31;3.0;217;6;64;109;59;3;199;6;6;100.0;159;794;440;21;8;2;6;3;157;149;94.9;11;Matches
+Stanley N'Soki\61590953;Stanley N'Soki;fr FRA;FRA;DF;be Club Brugge;Club Brugge;23-005;23;5.4;243;49;159;95;3;1;239;1;1;100.0;117;737;368;3;0;0;0;2;136;129;94.9;1;Matches
+Nacho\2946f9a1;Nacho;es ESP;ESP;DF;es Real Madrid;Real Madrid;32-086;32;4.6;272;35;101;117;70;3;245;4;4;100.0;176;723;437;14;5;0;1;0;191;184;96.3;2;Matches
+Adi Nalic\ad597bf7;Adi Nalic;ba BIH;BIH;MFFW;se Malmö;Malmö;24-134;24;1.0;64;1;17;32;18;2;64;1;3;33.3;47;252;107;5;1;0;2;7;60;45;75.0;7;Matches
+Sebastian Nanasi\ce747d2a;Sebastian Nanasi;se SWE;SWE;FWMF;se Malmö;Malmö;19-333;19;1.0;40;2;7;24;10;4;39;2;2;100.0;28;153;96;3;1;1;1;1;35;28;80.0;5;Matches
+Jesús Navas\3f10bd22;Jesús Navas;es ESP;ESP;DF;es Sevilla;Sevilla;36-144;36;3.7;317;10;84;157;100;6;282;3;8;37.5;212;882;565;22;9;1;2;2;235;225;95.7;12;Matches
+Keylor Navas\ecada4fc;Keylor Navas;cr CRC;CRC;GK;fr Paris S-G;Paris S-G;35-120;35;3.0;119;114;118;1;0;0;92;0;0;;60;204;120;0;0;0;0;0;59;59;100.0;0;Matches
+Flávio Nazinho\e7281ea9;Flávio Nazinho;pt POR;POR;DF;pt Sporting CP;Sporting CP;18-268;18;0.2;28;1;8;17;4;2;22;0;0;;12;25;11;0;0;0;0;1;13;12;92.3;2;Matches
+David Neres\4f1e6a0b;David Neres;br BRA;BRA;FW;nl Ajax;Ajax;25-042;25;2.3;134;2;6;45;91;26;132;2;7;28.6;111;465;245;16;6;6;3;7;129;104;80.6;21;Matches
+Luís Neto\953597a1;Luís Neto;pt POR;POR;DF;pt Sporting CP;Sporting CP;33-323;33;4.1;266;65;177;97;5;1;243;0;0;;154;525;233;3;1;0;1;1;165;164;99.4;0;Matches
+Manuel Neuer\8778c910;Manuel Neuer;de GER;GER;GK;de Bayern Munich;Bayern Munich;36-018;36;9.0;370;293;357;14;0;0;317;0;0;;207;780;386;1;0;0;1;0;249;249;100.0;0;Matches
+Neymar\69384e5d;Neymar;br BRA;BRA;FW;fr Paris S-G;Paris S-G;30-068;30;5.2;347;1;60;192;122;18;334;10;18;55.6;269;1584;774;48;11;6;13;16;356;294;82.6;32;Matches
+Moumi Ngamaleu\0193a8bf;Moumi Ngamaleu;cm CMR;CMR;MFFW;ch Young Boys;Young Boys;27-279;27;5.9;321;6;57;147;149;19;304;24;44;54.5;256;1493;733;46;14;4;15;15;269;218;81.0;23;Matches
+Lasse Nielsen\06e5b0e4;Lasse Nielsen;dk DEN;DEN;DF;se Malmö;Malmö;34-096;34;5.0;225;57;160;66;4;3;221;1;1;100.0;110;369;139;0;0;0;1;1;117;115;98.3;0;Matches
+Saúl Ñíguez\c14bc029;Saúl Ñíguez;es ESP;ESP;MFDF;eng Chelsea; Chelsea;27-144;27;1.8;141;10;34;69;44;8;133;0;0;;70;344;148;10;3;1;2;1;99;93;93.9;8;Matches
+Boban Nikolov\35862524;Boban Nikolov;mk MKD;MKD;MF;md Sheriff Tiraspol;Sheriff Tiraspol;27-260;27;1.1;42;1;16;12;16;4;42;1;1;100.0;24;93;20;1;0;0;0;1;35;24;68.6;3;Matches
+Rasmus Nissen\39769cff;Rasmus Nissen;dk DEN;DEN;DF;at RB Salzburg;RB Salzburg;24-277;24;8.0;507;26;141;234;153;16;421;9;15;60.0;244;840;514;26;8;3;12;5;282;253;89.7;14;Matches
+Christopher Nkunku\7c56da38;Christopher Nkunku;fr FRA;FRA;FWMF;de RB Leipzig;RB Leipzig;24-151;24;5.9;284;5;28;117;151;39;273;3;7;42.9;182;791;423;29;5;7;11;8;300;200;66.7;59;Matches
+Lukas Nmecha\0cc5f4a5;Lukas Nmecha;de GER;GER;FWMF;de Wolfsburg;Wolfsburg;23-121;23;3.6;132;4;16;69;53;11;130;6;10;60.0;82;398;248;16;4;3;12;9;168;96;57.1;15;Matches
+Hugo Novoa\5458f670;Hugo Novoa;es ESP;ESP;FW;de RB Leipzig;RB Leipzig;19-103;19;0.3;12;0;3;5;4;2;12;0;1;0.0;7;12;6;0;0;0;2;0;14;8;57.1;1;Matches
+Matheus Nunes\e6af02e0;Matheus Nunes;pt POR;POR;MF;pt Sporting CP;Sporting CP;23-230;23;5.6;285;13;70;192;56;5;278;18;28;64.3;203;1420;800;18;10;0;10;16;216;182;84.3;14;Matches
+Darwin Núñez\4d77b365;Darwin Núñez;uy URU;URU;FW;pt Benfica;Benfica;22-294;22;6.8;220;8;36;98;112;42;212;11;20;55.0;160;1178;811;37;14;15;25;15;234;150;64.1;44;Matches
+Jan Oblak\ee8508c0;Jan Oblak;si SVN;SVN;GK;es Atlético Madrid;Atlético Madrid;29-097;29;10.0;310;282;308;4;0;0;184;0;0;;119;626;409;0;0;0;0;0;93;92;98.9;0;Matches
+Lucas Ocampos\a08b974a;Lucas Ocampos;ar ARG;ARG;FW;es Sevilla;Sevilla;27-277;27;5.1;298;4;46;122;153;26;282;8;25;32.0;211;1079;620;34;14;9;17;10;276;215;77.9;32;Matches
+Noah Okafor\ca607d59;Noah Okafor;ch SUI;SUI;FW;at RB Salzburg;RB Salzburg;21-325;21;3.8;126;2;14;48;73;20;126;1;7;14.3;93;542;287;14;2;3;13;10;164;92;56.1;34;Matches
+Sérgio Oliveira\947e036f;Sérgio Oliveira;pt POR;POR;MF;pt Porto;Porto;29-316;29;3.3;180;7;41;92;56;2;154;1;2;50.0;88;316;201;9;2;0;4;2;95;88;92.6;3;Matches
+Dani Olmo\ae44e8e2;Dani Olmo;es ESP;ESP;MF;de RB Leipzig;RB Leipzig;23-342;23;1.0;59;0;5;31;29;2;59;2;5;40.0;48;264;196;13;3;1;2;0;55;44;80.0;2;Matches
+Martin Olsson\2f72f79e;Martin Olsson;se SWE;SWE;DF;se Malmö;Malmö;33-332;33;3.2;183;17;70;84;39;1;143;2;3;66.7;101;394;206;10;3;0;4;5;115;97;84.3;1;Matches
+Amadou Onana\828657ff;Amadou Onana;be BEL;BEL;MFDF;fr Lille;Lille;20-241;20;2.9;135;7;44;73;23;4;134;3;5;60.0;80;404;178;4;0;0;4;6;107;81;75.7;7;Matches
+André Onana\e9c0c1b2;André Onana;cm CMR;CMR;GK;nl Ajax;Ajax;26-012;26;2.0;61;38;60;1;0;0;45;1;1;100.0;38;227;114;0;0;0;0;0;36;36;100.0;0;Matches
+Jérôme Onguéné\e81f0356;Jérôme Onguéné;cm CMR;CMR;DF;at RB Salzburg;RB Salzburg;24-113;24;4.8;315;38;165;164;6;1;310;3;3;100.0;181;852;465;5;0;0;1;1;189;184;97.4;1;Matches
+Willi Orban\20030c06;Willi Orban;hu HUN;HUN;DF;de RB Leipzig;RB Leipzig;29-162;29;3.5;227;36;109;119;14;3;219;0;1;0.0;128;879;460;14;3;0;1;0;144;141;97.9;2;Matches
+Divock Origi\43a166b4;Divock Origi;be BEL;BEL;FW;eng Liverpool; Liverpool;26-361;26;2.0;87;0;2;37;55;22;86;4;7;57.1;64;328;177;14;4;3;7;7;103;65;63.1;18;Matches
+Nicolás Otamendi\0d267745;Nicolás Otamendi;ar ARG;ARG;DF;pt Benfica;Benfica;34-061;34;9.0;513;96;283;241;16;6;490;1;2;50.0;259;1573;893;23;4;0;3;3;294;291;99.0;1;Matches
+Otávio\28b1f3ce;Otávio;pt POR;POR;MF;pt Porto;Porto;27-064;27;5.0;263;6;39;129;107;16;247;3;8;37.5;159;720;419;20;5;2;10;10;219;175;79.9;14;Matches
+Paulo Otávio\1cbe4984;Paulo Otávio;br BRA;BRA;DF;de Wolfsburg;Wolfsburg;27-142;27;1.9;126;5;46;62;23;1;112;3;9;33.3;71;333;195;7;1;1;2;1;69;62;89.9;2;Matches
+Alex Oxlade-Chamberlain\38c7feef;Alex Oxlade-Chamberlain;eng ENG; ENG;MFFW;eng Liverpool; Liverpool;28-242;28;3.3;224;5;39;129;81;9;209;7;10;70.0;169;984;517;29;8;3;6;9;164;149;90.9;8;Matches
+Magomed Ozdoyev\3ef0af0d;Magomed Ozdoyev;ru RUS;RUS;MF;ru Zenit;Zenit;29-160;29;0.1;6;0;3;1;2;0;6;0;0;;3;2;1;0;0;0;0;0;2;2;100.0;0;Matches
+Oðuzhan Özyakup\d8c679be;Oðuzhan Özyakup;tr TUR;TUR;MF;tr Beþiktaþ;Beþiktaþ;29-203;29;0.6;28;0;5;17;7;2;26;1;1;100.0;24;66;41;1;0;1;2;2;22;21;95.5;0;Matches
+Gavi Paez\19cae58d;Gavi Paez;es ESP;ESP;MFFW;es Barcelona;Barcelona;17-252;17;4.4;232;2;24;133;98;13;229;9;15;60.0;187;877;411;19;10;2;3;12;220;177;80.5;19;Matches
+João Palhinha\a78ff07f;João Palhinha;pt POR;POR;MF;pt Sporting CP;Sporting CP;26-279;26;5.9;270;15;66;184;27;4;259;5;8;62.5;158;611;249;11;2;1;3;8;163;139;85.3;3;Matches
+Cole Palmer\dc7f8a28;Cole Palmer;eng ENG; ENG;MFFW;eng Manchester City; Manchester City;19-343;19;0.5;32;2;9;13;11;2;32;1;3;33.3;27;137;70;3;1;1;1;3;26;21;80.8;3;Matches
+Leandro Paredes\dff153a4;Leandro Paredes;ar ARG;ARG;MF;fr Paris S-G;Paris S-G;27-289;27;3.5;340;14;85;220;51;0;334;1;1;100.0;237;880;391;15;5;0;1;0;288;280;97.2;2;Matches
+Daniel Parejo\7460ca0d;Daniel Parejo;es ESP;ESP;MF;es Villarreal;Villarreal;32-363;32;9.9;665;24;159;371;171;3;598;1;4;25.0;418;1846;886;31;10;1;2;5;467;441;94.4;9;Matches
+Mario Pašali?\e599253a;Mario Pašali?;hr CRO;CRO;MFFW;it Atalanta;Atalanta;27-064;27;2.4;93;5;10;53;35;6;91;1;1;100.0;54;248;73;6;2;0;3;4;99;70;70.7;10;Matches
+Felix Passlack\5c899683;Felix Passlack;de GER;GER;DF;de Dortmund;Dortmund;23-320;23;0.7;33;5;14;14;6;1;29;0;0;;14;58;32;2;0;0;0;0;21;17;81.0;0;Matches
+Remko Pasveer\3392603d;Remko Pasveer;nl NED;NED;GK;nl Ajax;Ajax;38-157;38;6.0;252;206;250;2;0;0;214;1;1;100.0;162;421;179;0;0;0;0;0;183;183;100.0;0;Matches
+Alan Patrick\00672021;Alan Patrick;br BRA;BRA;MF;ua Shakhtar;Shakhtar;30-336;30;3.0;175;4;22;100;67;4;170;6;6;100.0;129;624;345;15;5;1;4;9;162;141;87.0;14;Matches
+Paulinho\a62c16d0;Paulinho;pt POR;POR;FWMF;pt Sporting CP;Sporting CP;29-156;29;6.4;219;4;23;117;84;31;201;5;8;62.5;120;401;170;12;2;1;16;5;219;149;68.0;33;Matches
+Benjamin Pavard\45a03961;Benjamin Pavard;fr FRA;FRA;DF;de Bayern Munich;Bayern Munich;26-017;26;8.5;825;41;254;449;165;8;770;2;9;22.2;534;2515;1487;56;13;0;3;1;625;600;96.0;9;Matches
+Alfonso Pedraza\63f04c6c;Alfonso Pedraza;es ESP;ESP;DFMF;es Villarreal;Villarreal;26-005;26;4.2;260;16;75;91;111;18;228;4;14;28.6;173;1121;669;30;4;10;0;5;190;172;90.5;10;Matches
+Pedri\0d9b2d31;Pedri;es ESP;ESP;MF;es Barcelona;Barcelona;19-140;19;1.7;118;4;23;70;32;1;113;2;3;66.7;89;562;266;19;3;0;5;1;103;93;90.3;8;Matches
+Pedrinho\6796e284;Pedrinho;br BRA;BRA;MFFW;ua Shakhtar;Shakhtar;24-001;24;3.8;213;2;11;117;102;8;204;9;12;75.0;162;964;458;25;12;2;8;8;202;170;84.2;26;Matches
+Jordan Pefok\b684a484;Jordan Pefok;us USA;USA;FW;ch Young Boys;Young Boys;25-353;25;3.8;97;3;7;54;41;16;87;3;4;75.0;49;217;94;4;3;0;4;3;139;62;44.6;17;Matches
+Luca Pellegrini\3b61c9ec;Luca Pellegrini;it ITA;ITA;DF;it Juventus;Juventus;23-038;23;0.0;3;0;2;1;0;0;2;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Carlos de Pena\6b915aa1;Carlos de Pena;uy URU;URU;FWMF;ua Dynamo Kyiv;Dynamo Kyiv;30-034;30;4.1;184;8;46;82;67;4;180;1;3;33.3;106;543;337;17;5;0;3;3;152;117;77.0;15;Matches
+Rubén Peña\1f079188;Rubén Peña;es ESP;ESP;MFFW;es Villarreal;Villarreal;30-270;30;0.2;16;1;4;11;2;1;16;0;0;;10;86;39;2;1;0;0;1;13;10;76.9;2;Matches
+Sergio Peña\eda8506a;Sergio Peña;pe PER;PER;MFFW;se Malmö;Malmö;26-198;26;3.1;228;5;68;127;39;0;218;1;11;9.1;157;495;205;9;2;0;3;16;172;156;90.7;2;Matches
+Pepe\c906ce0f;Pepe;pt POR;POR;DF;pt Porto;Porto;39-047;39;3.9;229;34;107;115;13;6;216;1;2;50.0;132;638;204;2;1;0;0;1;131;128;97.7;0;Matches
+Pepê\fc4e7637;Pepê;br BRA;BRA;FWMF;pt Porto;Porto;25-049;25;0.4;10;1;1;7;3;0;10;0;0;;7;71;21;2;0;0;0;0;10;7;70.0;0;Matches
+Danilo Pereira\8fd9996f;Danilo Pereira;pt POR;POR;MF;fr Paris S-G;Paris S-G;30-217;30;4.0;237;29;99;128;20;2;233;1;1;100.0;154;534;259;8;3;0;0;3;180;173;96.1;1;Matches
+Mattia Perin\4c62d0c8;Mattia Perin;it ITA;ITA;GK;it Juventus;Juventus;29-155;29;1.0;23;22;23;0;0;0;20;0;0;;14;51;27;0;0;0;0;0;13;12;92.3;0;Matches
+Ivan Periši?\6fe90922;Ivan Periši?;hr CRO;CRO;DF;it Inter;Inter;33-071;33;5.9;352;23;98;101;176;39;310;5;12;41.7;207;1370;926;51;16;13;5;1;256;225;87.9;28;Matches
+Pavao Pervan\c89e8aae;Pavao Pervan;at AUT;AUT;GK;de Wolfsburg;Wolfsburg;34-152;34;1.0;45;41;44;0;1;0;35;0;0;;10;43;13;0;0;0;0;0;19;19;100.0;0;Matches
+Matteo Pessina\780e3631;Matteo Pessina;it ITA;ITA;MFFW;it Atalanta;Atalanta;24-358;24;2.3;136;4;19;54;69;13;135;6;11;54.5;95;339;149;10;1;3;10;6;118;99;83.9;23;Matches
+Giuseppe Pezzella\149c5f5d;Giuseppe Pezzella;it ITA;ITA;DFMF;it Atalanta;Atalanta;24-136;24;0.6;39;4;10;15;15;5;34;0;0;;16;113;82;7;1;1;1;2;19;17;89.5;2;Matches
+Maximilian Philipp\061e8e23;Maximilian Philipp;de GER;GER;MFFW;de Wolfsburg;Wolfsburg;28-044;28;1.0;25;0;1;16;8;0;25;2;4;50.0;16;34;10;0;0;0;3;0;27;16;59.3;4;Matches
+Nathaniel Phillips\515ebe8d;Nathaniel Phillips;eng ENG; ENG;DF;eng Liverpool; Liverpool;25-024;25;1.0;52;7;38;15;2;1;51;1;1;100.0;25;202;126;1;0;0;0;0;32;32;100.0;2;Matches
+Kamil Pi?tkowski\2cf496fb;Kamil Pi?tkowski;pl POL;POL;DF;at RB Salzburg;RB Salzburg;21-297;21;0.9;46;5;17;28;6;0;46;0;0;;36;224;177;5;2;0;2;0;34;32;94.1;0;Matches
+Yeremi Pino\540ec57b;Yeremi Pino;es ESP;ESP;MFDF;es Villarreal;Villarreal;19-176;19;4.7;179;4;44;68;78;15;175;6;14;42.9;117;680;363;20;5;6;6;10;143;107;74.8;17;Matches
+Gerard Piqué\adfc9123;Gerard Piqué;es ESP;ESP;DF;es Barcelona;Barcelona;35-071;35;4.4;326;51;172;170;4;3;322;0;0;;207;1226;696;15;1;0;0;0;226;223;98.7;1;Matches
+Pizzi\96094cbc;Pizzi;pt POR;POR;FWMF;pt Benfica;Benfica;32-190;32;1.8;79;1;10;31;39;6;71;4;4;100.0;61;160;69;6;1;2;3;4;72;54;75.0;7;Matches
+Miralem Pjani?\ad6df2d5;Miralem Pjani?;ba BIH;BIH;MF;tr Beþiktaþ;Beþiktaþ;32-012;32;2.9;247;7;54;158;51;0;223;2;4;50.0;167;701;326;10;2;0;3;7;175;169;96.6;4;Matches
+Paul Pogba\867239d3;Paul Pogba;fr FRA;FRA;MFFW;eng Manchester Utd; Manchester Utd;29-030;29;3.8;237;4;40;143;66;4;235;3;7;42.9;151;565;229;12;4;0;7;11;211;184;87.2;11;Matches
+Marin Pongra?i?\2a6cd437;Marin Pongra?i?;hr CRO;CRO;DF;de Dortmund;Dortmund;24-215;24;1.9;109;18;56;52;7;0;103;1;2;50.0;65;469;224;10;4;0;0;0;67;67;100.0;0;Matches
+Pedro Porro\27d0a506;Pedro Porro;es ESP;ESP;DF;pt Sporting CP;Sporting CP;22-213;22;5.8;324;16;114;148;82;14;273;5;18;27.8;202;1079;774;37;6;6;6;4;208;189;90.9;11;Matches
+Yussuf Poulsen\d2416c2e;Yussuf Poulsen;dk DEN;DEN;FW;de RB Leipzig;RB Leipzig;27-303;27;1.7;68;4;6;38;30;6;64;3;7;42.9;49;185;110;6;4;1;3;2;79;51;64.6;21;Matches
+Riqui Puig\f090a37a;Riqui Puig;es ESP;ESP;MF;es Barcelona;Barcelona;22-244;22;0.2;17;1;2;9;6;0;17;0;0;;11;28;15;0;0;0;1;0;13;13;100.0;1;Matches
+Christian Pulisic\1bf33a9a;Christian Pulisic;us USA;USA;FWMF;eng Chelsea; Chelsea;23-208;23;4.1;178;1;10;68;114;20;175;7;13;53.8;146;937;496;28;7;3;9;7;193;143;74.1;32;Matches
+Andriy Pyatov\34c3b935;Andriy Pyatov;ua UKR;UKR;GK;ua Shakhtar;Shakhtar;37-290;37;2.9;93;82;92;1;1;1;76;0;0;;49;138;67;0;0;0;0;0;55;55;100.0;0;Matches
+Dani Raba\ea6a7ab4;Dani Raba;es ESP;ESP;DFFW;es Villarreal;Villarreal;26-167;26;0.1;5;0;0;5;0;0;3;0;0;;2;13;2;0;0;0;0;0;3;2;66.7;0;Matches
+Adrien Rabiot\8794e251;Adrien Rabiot;fr FRA;FRA;MF;it Juventus;Juventus;27-011;27;6.0;358;15;80;205;96;11;352;3;6;50.0;246;1591;816;42;12;3;7;10;267;238;89.1;16;Matches
+Stjepan Radelji?\30e03a25;Stjepan Radelji?;ba BIH;BIH;DFMF;md Sheriff Tiraspol;Sheriff Tiraspol;24-221;24;0.9;49;6;32;17;1;0;48;0;0;;31;100;42;1;0;0;2;0;35;35;100.0;0;Matches
+Nemanja Radonji?\0630eb63;Nemanja Radonji?;rs SRB;SRB;FW;pt Benfica;Benfica;26-058;26;0.4;19;0;2;6;13;2;18;2;5;40.0;16;42;8;0;0;0;2;2;17;14;82.4;1;Matches
+Erdal Rakip\e150254d;Erdal Rakip;mk MKD;MKD;MF;se Malmö;Malmö;26-060;26;3.0;104;2;25;53;28;1;101;2;3;66.7;64;194;104;4;1;0;5;3;83;65;78.3;11;Matches
+Ivan Rakiti?\89f951b5;Ivan Rakiti?;hr CRO;CRO;MF;es Sevilla;Sevilla;34-035;34;3.1;185;3;40;90;62;6;165;0;2;0.0;114;420;215;11;1;0;3;2;149;125;83.9;14;Matches
+Yaroslav Rakitskiy\47fd5136;Yaroslav Rakitskiy;ua UKR;UKR;DF;ru Zenit;Zenit;32-254;32;5.5;406;50;189;198;48;4;379;6;7;85.7;288;1288;771;24;10;0;0;0;290;288;99.3;1;Matches
+Eric Ramírez\b9f92e76;Eric Ramírez;ve VEN;VEN;FWMF;ua Dynamo Kyiv;Dynamo Kyiv;23-145;23;0.2;6;0;0;4;2;0;6;0;0;;3;6;2;0;0;0;1;1;11;5;45.5;1;Matches
+Gonçalo Ramos\f63cda26;Gonçalo Ramos;pt POR;POR;MFFW;pt Benfica;Benfica;20-298;20;4.1;156;7;39;80;43;13;150;2;4;50.0;93;354;142;5;1;1;7;3;107;89;83.2;16;Matches
+Aaron Ramsey\ef619b0b;Aaron Ramsey;wls WAL; WAL;MFFW;it Juventus;Juventus;31-109;31;0.2;26;2;5;10;14;0;25;1;1;100.0;22;127;40;3;1;0;0;0;22;22;100.0;0;Matches
+Andrea Ranocchia\539230cf;Andrea Ranocchia;it ITA;ITA;DF;it Inter;Inter;34-057;34;1.1;47;14;35;12;2;2;45;0;0;;29;162;56;1;0;0;0;0;35;32;91.4;0;Matches
+Marcus Rashford\a1d5bd30;Marcus Rashford;eng ENG; ENG;FWMF;eng Manchester Utd; Manchester Utd;24-165;24;2.8;170;1;15;73;91;11;165;1;7;14.3;105;449;261;13;4;4;10;6;176;132;75.0;16;Matches
+Ante Rebi?\536cebe5;Ante Rebi?;hr CRO;CRO;FW;it Milan;Milan;28-205;28;1.3;40;5;7;19;17;6;38;0;2;0.0;26;141;80;3;2;2;3;1;49;26;53.1;9;Matches
+Reinier\6b21b7b5;Reinier;br BRA;BRA;MFFW;de Dortmund;Dortmund;20-085;20;1.4;83;2;9;43;36;6;83;2;3;66.7;59;206;93;5;2;0;0;2;78;64;82.1;7;Matches
+Matheus Reis\ae1159bf;Matheus Reis;br BRA;BRA;DF;pt Sporting CP;Sporting CP;27-055;27;6.7;330;32;138;152;58;4;283;6;7;85.7;197;1025;553;17;7;2;4;2;208;187;89.9;5;Matches
+Karim Rekik\3376a776;Karim Rekik;nl NED;NED;DF;es Sevilla;Sevilla;27-133;27;1.4;111;12;45;51;18;0;104;1;3;33.3;76;231;122;4;1;0;0;2;84;81;96.4;2;Matches
+Devyne Rensch\c5cbbcff;Devyne Rensch;nl NED;NED;DF;nl Ajax;Ajax;19-086;19;0.8;77;4;28;41;16;0;70;0;1;0.0;57;294;111;2;1;0;0;1;57;57;100.0;2;Matches
+Marco Reus\36a3ff67;Marco Reus;de GER;GER;FWMF;de Dortmund;Dortmund;32-318;32;5.5;308;7;27;145;161;35;289;9;14;64.3;195;1051;506;30;18;4;11;12;288;219;76.0;32;Matches
+Federico Ricca\54f5ce34;Federico Ricca;uy URU;URU;DF;be Club Brugge;Club Brugge;27-134;27;1.8;104;14;47;40;26;4;94;1;2;50.0;50;337;207;8;3;0;2;1;63;54;85.7;6;Matches
+Omar Richards\f9b1b7bf;Omar Richards;eng ENG; ENG;DFFW;de Bayern Munich;Bayern Munich;24-058;24;0.6;57;2;19;28;17;1;54;1;2;50.0;37;192;133;7;4;1;0;0;38;33;86.8;3;Matches
+Fabian Rieder\c2bd8585;Fabian Rieder;ch SUI;SUI;MFFW;ch Young Boys;Young Boys;20-057;20;3.0;136;4;29;67;48;8;126;2;4;50.0;79;290;131;6;3;0;5;5;99;77;77.8;8;Matches
+Søren Rieks\572498c7;Søren Rieks;dk DEN;DEN;DF;se Malmö;Malmö;35-007;35;2.4;112;6;26;48;43;8;94;2;3;66.7;63;219;111;8;1;3;2;0;77;63;81.8;7;Matches
+Mats Rits\733e7ad8;Mats Rits;be BEL;BEL;MF;be Club Brugge;Club Brugge;28-270;28;4.6;168;10;35;90;49;8;160;0;0;;60;292;130;7;2;1;1;0;112;91;81.3;11;Matches
+Sergi Roberto\335fa267;Sergi Roberto;es ESP;ESP;DFFW;es Barcelona;Barcelona;30-066;30;1.9;101;6;24;47;34;4;88;2;2;100.0;62;206;79;5;1;0;1;1;82;72;87.8;5;Matches
+Andrew Robertson\2e4f5f03;Andrew Robertson;sct SCO; SCO;DF;eng Liverpool; Liverpool;28-034;28;6.3;554;16;133;270;197;15;477;5;10;50.0;354;1585;1038;53;14;3;6;3;386;365;94.6;18;Matches
+Marc Roca\da27e268;Marc Roca;es ESP;ESP;MF;de Bayern Munich;Bayern Munich;25-139;25;0.9;71;0;18;48;9;1;70;1;1;100.0;50;231;116;4;0;0;0;1;61;58;95.1;0;Matches
+Rodri\6434f10d;Rodri;es ESP;ESP;MF;eng Manchester City; Manchester City;25-296;25;7.2;699;13;132;476;140;4;692;5;7;71.4;523;2294;1192;46;10;1;2;5;581;570;98.1;13;Matches
+Óscar Rodríguez Arnaiz\19709006;Óscar Rodríguez Arnaiz;es ESP;ESP;MF;es Sevilla;Sevilla;23-290;23;0.3;18;2;3;10;7;0;16;0;1;0.0;12;51;24;0;1;0;0;1;12;11;91.7;1;Matches
+Rodrygo\8f5e92a6;Rodrygo;br BRA;BRA;FW;es Real Madrid;Real Madrid;21-095;21;4.3;257;5;32;81;164;34;256;9;17;52.9;197;896;596;39;10;5;8;6;244;199;81.6;42;Matches
+Alessio Romagnoli\3ead85f9;Alessio Romagnoli;it ITA;ITA;DF;it Milan;Milan;27-092;27;4.4;278;48;178;105;7;3;262;0;0;;161;874;396;7;0;0;1;0;181;175;96.7;1;Matches
+Iván Romero\2fbe6af0;Iván Romero;es ESP;ESP;FW;es Sevilla;Sevilla;21-004;21;0.2;3;0;0;2;1;1;3;0;1;0.0;3;0;0;0;0;0;1;0;5;3;60.0;2;Matches
+Cristiano Ronaldo\dea698d9;Cristiano Ronaldo;pt POR;POR;FW;eng Manchester Utd; Manchester Utd;37-068;37;6.8;284;8;22;137;142;35;268;9;14;64.3;181;938;534;34;14;5;17;6;327;226;69.1;48;Matches
+Marten de Roon\2a1beb34;Marten de Roon;nl NED;NED;MFDF;it Atalanta;Atalanta;31-016;31;5.4;354;14;111;205;50;3;345;1;3;33.3;208;842;505;21;3;0;2;2;237;230;97.0;3;Matches
+Valentin Rosier\9b6d9b53;Valentin Rosier;fr FRA;FRA;DF;tr Beþiktaþ;Beþiktaþ;25-238;25;4.5;268;26;90;137;53;4;241;8;9;88.9;175;857;518;24;7;2;5;4;186;156;83.9;6;Matches
+Jérôme Roussillon\13203c45;Jérôme Roussillon;fr FRA;FRA;DF;de Wolfsburg;Wolfsburg;29-098;29;4.0;215;16;93;96;50;4;188;5;12;41.7;120;582;368;16;10;2;3;8;124;108;87.1;5;Matches
+Antonio Rüdiger\18b896d6;Antonio Rüdiger;de GER;GER;DF;eng Chelsea; Chelsea;29-042;29;9.3;843;39;269;512;126;12;826;2;5;40.0;644;3077;1755;47;22;1;4;5;685;675;98.5;5;Matches
+Daniele Rugani\14b8fcdf;Daniele Rugani;it ITA;ITA;DF;it Juventus;Juventus;27-259;27;2.0;146;20;55;88;15;3;145;1;1;100.0;107;481;235;4;3;0;0;1;116;114;98.3;0;Matches
+Gerónimo Rulli\625c144a;Gerónimo Rulli;ar ARG;ARG;GK;es Villarreal;Villarreal;29-329;29;10.0;468;418;467;1;0;0;328;0;0;;209;1095;654;0;0;0;0;0;210;208;99.0;0;Matches
+Serdar Saatçý\760fd987;Serdar Saatçý;tr TUR;TUR;DF;tr Beþiktaþ;Beþiktaþ;19-059;19;1.0;37;15;29;10;1;1;34;0;0;;13;79;14;0;0;0;0;0;14;14;100.0;0;Matches
+Marcel Sabitzer\e280527c;Marcel Sabitzer;at AUT;AUT;MF;de Bayern Munich;Bayern Munich;28-028;28;1.5;109;4;20;62;32;6;105;0;0;;69;386;189;8;1;2;2;2;84;80;95.2;9;Matches
+Alexis Saelemaekers\ee251371;Alexis Saelemaekers;be BEL;BEL;FW;it Milan;Milan;22-291;22;4.9;244;6;47;128;85;8;237;7;20;35.0;165;983;586;23;8;1;16;8;189;161;85.2;21;Matches
+Mohamed Salah\e342ad68;Mohamed Salah;eg EGY;EGY;FW;eng Liverpool; Liverpool;29-303;29;8.2;469;0;15;160;326;77;456;20;41;48.8;366;1598;982;64;13;16;21;27;517;386;74.7;93;Matches
+Renato Sanches\032f894e;Renato Sanches;pt POR;POR;MFFW;fr Lille;Lille;24-239;24;4.5;279;10;51;170;78;4;267;8;15;53.3;177;855;445;25;8;1;13;10;227;197;86.8;11;Matches
+Alexis Sánchez\2c0f8e9e;Alexis Sánchez;cl CHI;CHI;FW;it Inter;Inter;33-116;33;1.8;97;0;9;59;42;4;93;4;6;66.7;80;424;136;8;7;1;3;7;94;78;83.0;17;Matches
+Jadon Sancho\dbf053da;Jadon Sancho;eng ENG; ENG;FW;eng Manchester Utd; Manchester Utd;22-020;22;4.4;258;2;30;122;128;12;255;9;17;52.9;200;1062;648;34;10;0;7;13;247;207;83.8;27;Matches
+Cisse Sandra\2f33776f;Cisse Sandra;be BEL;BEL;FW;be Club Brugge;Club Brugge;18-119;18;0.6;27;0;4;6;17;2;25;0;0;;12;30;0;0;0;0;3;5;27;21;77.8;6;Matches
+Alex Sandro\0d82903c;Alex Sandro;br BRA;BRA;DF;it Juventus;Juventus;31-078;31;6.1;434;25;153;209;107;15;392;3;5;60.0;288;1772;1134;50;19;3;4;9;311;293;94.2;11;Matches
+Leroy Sané\2b114be3;Leroy Sané;de GER;GER;FWMF;de Bayern Munich;Bayern Munich;26-093;26;8.8;528;4;49;240;289;46;512;23;35;65.7;408;2245;1219;72;21;8;25;25;510;425;83.3;89;Matches
+Douglas Santos\c50e5bba;Douglas Santos;br BRA;BRA;DF;ru Zenit;Zenit;28-023;28;4.9;355;26;112;149;113;5;317;2;2;100.0;213;1013;605;29;8;0;1;1;239;221;92.5;17;Matches
+Nuno Santos\a6ee4f55;Nuno Santos;pt POR;POR;FWMF;pt Sporting CP;Sporting CP;27-060;27;2.4;104;0;9;49;55;6;96;0;0;;77;371;184;12;5;0;7;8;116;87;75.0;21;Matches
+Zaidu Sanusi\24051310;Zaidu Sanusi;ng NGA;NGA;DF;pt Porto;Porto;24-305;24;4.3;262;14;90;136;58;3;225;1;3;33.3;138;642;398;20;10;0;7;6;151;129;85.4;7;Matches
+Pablo Sarabia\9744ff80;Pablo Sarabia;es ESP;ESP;FWMF;pt Sporting CP;Sporting CP;29-338;29;5.6;212;2;38;101;91;21;202;2;5;40.0;129;721;485;24;9;7;10;9;234;151;64.5;35;Matches
+Bouna Sarr\1a4b9094;Bouna Sarr;sn SEN;SEN;DFFW;de Bayern Munich;Bayern Munich;30-073;30;1.4;96;2;16;42;42;4;90;4;7;57.1;60;248;107;8;2;0;1;0;79;73;92.4;12;Matches
+Malang Sarr\4315f30d;Malang Sarr;fr FRA;FRA;DF;eng Chelsea; Chelsea;23-081;23;1.1;90;9;31;54;7;0;89;1;1;100.0;65;235;82;3;0;0;1;0;72;65;90.3;1;Matches
+Charlie Savage\e07398f8;Charlie Savage;wls WAL; WAL;MF;eng Manchester Utd; Manchester Utd;18-347;18;0.0;5;1;2;3;0;0;5;0;0;;1;2;0;0;0;0;0;0;1;1;100.0;0;Matches
+Stefan Savi?\f6ac68c1;Stefan Savi?;me MNE;MNE;DF;es Atlético Madrid;Atlético Madrid;31-096;31;5.0;245;45;150;98;7;4;236;1;2;50.0;133;743;470;5;0;0;1;1;137;135;98.5;0;Matches
+Nico Schulz\fa274d97;Nico Schulz;de GER;GER;DF;de Dortmund;Dortmund;29-013;29;2.2;167;5;44;86;44;3;152;1;1;100.0;108;398;219;11;3;1;3;2;126;117;92.9;7;Matches
+Perr Schuurs\e613313c;Perr Schuurs;nl NED;NED;DF;nl Ajax;Ajax;22-139;22;1.6;130;8;59;74;6;2;124;0;0;;91;625;353;11;2;1;0;0;96;95;99.0;1;Matches
+Haris Seferovi?\a45eac1f;Haris Seferovi?;ch SUI;SUI;FW;pt Benfica;Benfica;30-051;30;0.1;11;1;1;4;7;3;11;0;0;;6;60;28;4;1;2;0;0;9;8;88.9;3;Matches
+Nicolas Seiwald\28c6e925;Nicolas Seiwald;at AUT;AUT;MF;at RB Salzburg;RB Salzburg;20-345;20;7.2;358;18;72;171;133;6;331;5;7;71.4;195;881;467;23;4;0;10;2;207;192;92.8;18;Matches
+Stefano Sensi\b70bde8f;Stefano Sensi;it ITA;ITA;MF;it Inter;Inter;26-252;26;0.1;20;0;4;6;12;2;20;0;0;;18;104;53;4;2;1;0;0;18;18;100.0;4;Matches
+Javier Serrano\0a8fd9cb;Javier Serrano;es ESP;ESP;MF;es Atlético Madrid;Atlético Madrid;19-088;19;0.2;4;2;3;1;0;0;4;0;0;;1;0;0;0;0;0;0;1;3;1;33.3;0;Matches
+Benjamin Šeško\3260690c;Benjamin Šeško;si SVN;SVN;FW;at RB Salzburg;RB Salzburg;18-318;18;2.6;85;1;14;38;43;7;82;2;2;100.0;45;311;245;8;5;0;7;3;126;58;46.0;20;Matches
+Artem Shabanov\52e101a8;Artem Shabanov;ua UKR;UKR;DF;ua Dynamo Kyiv;Dynamo Kyiv;30-038;30;1.0;39;14;33;7;0;0;39;1;1;100.0;25;133;59;0;0;0;0;0;31;31;100.0;0;Matches
+Mykola Shaparenko\17e3e467;Mykola Shaparenko;ua UKR;UKR;MF;ua Dynamo Kyiv;Dynamo Kyiv;23-192;23;5.4;395;19;127;202;93;9;370;7;15;46.7;270;1533;761;27;10;1;4;7;294;272;92.5;5;Matches
+Luke Shaw\9c94165b;Luke Shaw;eng ENG; ENG;DF;eng Manchester Utd; Manchester Utd;26-276;26;4.4;334;10;100;165;90;4;283;3;5;60.0;174;819;498;19;8;1;6;4;239;212;88.7;12;Matches
+Volodymyr Shepelyev\a81ed730;Volodymyr Shepelyev;ua UKR;UKR;MF;ua Dynamo Kyiv;Dynamo Kyiv;24-317;24;0.6;34;1;10;19;9;2;33;1;1;100.0;29;190;71;1;1;0;3;0;30;23;76.7;1;Matches
+Oleksiy Shevchenko\e1d4f20d;Oleksiy Shevchenko;ua UKR;UKR;GK;ua Shakhtar;Shakhtar;30-049;30;0.1;4;4;4;0;0;0;2;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Ilya Shkurin\b37c0a9f;Ilya Shkurin;by BLR;BLR;FW;ua Dynamo Kyiv;Dynamo Kyiv;22-240;22;1.1;41;3;6;20;16;3;40;0;2;0.0;27;127;77;3;0;1;7;1;65;30;46.2;7;Matches
+Shola Shoretire\00f0482f;Shola Shoretire;eng ENG; ENG;MF;eng Manchester Utd; Manchester Utd;18-071;18;0.3;15;1;3;12;1;0;15;0;0;;9;27;12;1;1;0;1;0;13;11;84.6;2;Matches
+Vincent Sierro\92ffb8f9;Vincent Sierro;ch SUI;SUI;MF;ch Young Boys;Young Boys;26-188;26;2.7;139;4;41;68;36;2;131;0;1;0.0;89;436;203;5;1;0;3;1;98;91;92.9;6;Matches
+Cristiano da Silva Leite\2567b7b6;Cristiano da Silva Leite;br BRA;BRA;DF;md Sheriff Tiraspol;Sheriff Tiraspol;28-228;28;6.0;258;34;138;80;61;3;225;4;8;50.0;143;1067;656;27;11;0;4;3;165;146;88.5;6;Matches
+André Silva\3effaa34;André Silva;pt POR;POR;FW;de RB Leipzig;RB Leipzig;26-159;26;4.5;178;2;7;86;95;31;163;4;13;30.8;110;428;232;15;5;5;15;10;230;119;51.7;28;Matches
+Bernardo Silva\3eb22ec9;Bernardo Silva;pt POR;POR;MFFW;eng Manchester City; Manchester City;27-247;27;7.4;403;6;42;190;208;31;391;7;16;43.8;300;1604;812;50;15;6;7;13;381;321;84.3;47;Matches
+Bruno Felipe Souza da Silva\0eb83e1a;Bruno Felipe Souza da Silva;br BRA;BRA;FWMF;md Sheriff Tiraspol;Sheriff Tiraspol;27-323;27;3.5;128;9;45;54;47;10;124;7;13;53.8;100;740;492;16;9;3;7;8;96;74;77.1;6;Matches
+Rafa Silva\70cf63ca;Rafa Silva;pt POR;POR;FWMF;pt Benfica;Benfica;28-332;28;7.8;290;1;39;128;156;36;285;19;43;44.2;237;1452;911;40;15;9;14;21;272;208;76.5;50;Matches
+Thiago Silva\86e7deaf;Thiago Silva;br BRA;BRA;DF;eng Chelsea; Chelsea;37-204;37;8.4;671;81;270;410;26;12;651;0;0;;461;2185;1201;44;7;0;4;2;500;497;99.4;1;Matches
+Mohamed Simakan\fcb27134;Mohamed Simakan;fr FRA;FRA;DF;de RB Leipzig;RB Leipzig;21-346;21;3.3;188;25;114;76;3;1;183;1;1;100.0;119;677;280;8;0;0;0;1;124;121;97.6;0;Matches
+Roko Simic\a086ae11;Roko Simic;hr CRO;CRO;FW;at RB Salzburg;RB Salzburg;18-216;18;0.1;4;0;0;0;4;2;4;0;0;;4;8;1;1;0;1;0;1;6;4;66.7;1;Matches
+Milan Škriniar\30f5ffa9;Milan Škriniar;sk SVK;SVK;DF;it Inter;Inter;27-062;27;8.0;544;75;260;250;67;13;529;1;3;33.3;354;1732;782;25;7;0;3;2;405;396;97.8;3;Matches
+Islam Slimani\ffec9769;Islam Slimani;dz ALG;ALG;FW;pt Sporting CP;Sporting CP;33-300;33;1.2;26;0;2;17;10;3;25;0;0;;16;50;19;1;2;0;1;2;31;19;61.3;3;Matches
+Everton Soares\b1cbc666;Everton Soares;br BRA;BRA;FWMF;pt Benfica;Benfica;26-023;26;6.0;199;4;42;79;95;5;188;7;20;35.0;145;798;428;24;6;2;6;18;173;128;74.0;22;Matches
+Eduard Sobol\2ccd89a3;Eduard Sobol;ua UKR;UKR;DF;be Club Brugge;Club Brugge;26-359;26;3.7;171;15;69;73;38;1;142;5;7;71.4;78;346;195;5;4;0;2;6;85;75;88.2;6;Matches
+Oumar Solet\0670ee51;Oumar Solet;fr FRA;FRA;DF;at RB Salzburg;RB Salzburg;22-066;22;3.7;185;40;103;84;10;0;179;2;2;100.0;94;535;323;12;5;0;0;0;91;88;96.7;0;Matches
+Manor Solomon\886f9aac;Manor Solomon;il ISR;ISR;FWMF;ua Shakhtar;Shakhtar;22-264;22;3.6;183;3;25;79;102;23;178;9;14;64.3;153;1078;663;35;13;9;2;9;169;150;88.8;28;Matches
+Josef de Souza\fb6530de;Josef de Souza;br BRA;BRA;MF;tr Beþiktaþ;Beþiktaþ;33-062;33;4.9;334;24;103;218;35;3;321;1;6;16.7;215;921;424;21;6;0;5;6;224;207;92.4;3;Matches
+Kamal Sowah\74b7375f;Kamal Sowah;gh GHA;GHA;MFDF;be Club Brugge;Club Brugge;22-095;22;3.3;175;5;34;68;83;11;163;6;12;50.0;117;506;260;10;5;2;13;10;162;112;69.1;12;Matches
+Marvin Spielmann\59fd245c;Marvin Spielmann;ch SUI;SUI;MF;ch Young Boys;Young Boys;26-050;26;0.1;5;0;1;4;0;0;5;0;1;0.0;2;1;1;0;0;0;0;0;4;2;50.0;0;Matches
+Josip Staniši?\7ed08d5c;Josip Staniši?;hr CRO;CRO;DF;de Bayern Munich;Bayern Munich;22-012;22;0.3;18;1;6;8;4;1;17;0;0;;14;69;24;1;0;0;0;0;14;14;100.0;1;Matches
+Renato Steffen\dd669209;Renato Steffen;ch SUI;SUI;FW;de Wolfsburg;Wolfsburg;30-162;30;2.9;123;5;32;54;41;5;120;3;4;75.0;70;273;124;4;2;0;7;1;102;81;79.4;11;Matches
+Zack Steffen\42130443;Zack Steffen;us USA;USA;GK;eng Manchester City; Manchester City;27-012;27;1.0;29;23;28;1;0;0;26;0;0;;16;39;25;0;0;0;0;0;16;16;100.0;0;Matches
+Taras Stepanenko\ee3519f5;Taras Stepanenko;ua UKR;UKR;MF;ua Shakhtar;Shakhtar;32-249;32;2.5;165;7;43;108;23;2;161;0;0;;117;376;154;10;3;0;0;2;131;129;98.5;1;Matches
+Raheem Sterling\b400bde0;Raheem Sterling;eng ENG; ENG;FW;eng Manchester City; Manchester City;27-127;27;6.2;266;0;16;107;169;39;260;17;23;73.9;232;1277;812;42;14;9;8;13;295;224;75.9;57;Matches
+John Stones\5eecec3d;John Stones;eng ENG; ENG;DF;eng Manchester City; Manchester City;27-321;27;6.7;584;59;205;395;47;11;569;0;1;0.0;458;3257;2048;70;9;0;3;3;481;479;99.6;4;Matches
+Luis Suárez\a6154613;Luis Suárez;uy URU;URU;FW;es Atlético Madrid;Atlético Madrid;35-080;35;3.8;121;2;8;50;66;27;111;1;3;33.3;61;192;87;6;1;3;8;5;149;93;62.4;32;Matches
+Luka Su?i?\1e1378e1;Luka Su?i?;hr CRO;CRO;MF;at RB Salzburg;RB Salzburg;19-218;19;5.7;267;6;45;152;92;7;247;5;9;55.6;178;863;519;23;12;1;8;7;210;172;81.9;12;Matches
+Heorhii Sudakov\a793f5a8;Heorhii Sudakov;ua UKR;UKR;MF;ua Shakhtar;Shakhtar;19-225;19;0.6;59;0;1;26;33;4;56;0;1;0.0;50;134;53;2;1;0;0;1;54;48;88.9;4;Matches
+Niklas Süle\e33c06cf;Niklas Süle;de GER;GER;DF;de Bayern Munich;Bayern Munich;26-223;26;5.7;477;46;232;230;55;5;461;1;4;25.0;315;1859;1147;29;8;0;1;2;371;364;98.1;3;Matches
+Miralem Sulejmani\615c4d8f;Miralem Sulejmani;rs SRB;SRB;MF;ch Young Boys;Young Boys;33-130;33;0.1;7;0;0;1;6;2;5;0;0;;4;28;0;0;0;0;1;0;6;4;66.7;1;Matches
+Vladyslav Supriaha\73affbb6;Vladyslav Supriaha;ua UKR;UKR;FW;ua Dynamo Kyiv;Dynamo Kyiv;22-058;22;0.9;25;0;4;18;7;4;21;0;0;;17;114;70;4;2;2;5;0;58;16;27.6;3;Matches
+Suso\4e219ad2;Suso;es ESP;ESP;FW;es Sevilla;Sevilla;28-146;28;2.5;146;0;14;64;81;7;137;3;4;75.0;117;588;315;23;7;2;7;4;129;109;84.5;12;Matches
+Aleksei Sutormin\bd20f4eb;Aleksei Sutormin;ru RUS;RUS;DF;ru Zenit;Zenit;28-094;28;3.3;208;10;59;97;64;4;183;0;0;;137;562;346;14;5;3;4;3;168;156;92.9;5;Matches
+Serhiy Sydorchuk\c71e97ba;Serhiy Sydorchuk;ua UKR;UKR;MF;ua Dynamo Kyiv;Dynamo Kyiv;30-347;30;5.9;359;23;131;192;51;1;347;5;8;62.5;219;854;359;6;2;1;4;2;240;232;96.7;2;Matches
+Oleksandr Syrota\3d62c18b;Oleksandr Syrota;ua UKR;UKR;DF;ua Dynamo Kyiv;Dynamo Kyiv;21-307;21;5.0;280;63;208;82;4;1;274;0;0;;157;871;403;8;2;0;0;0;197;195;99.0;0;Matches
+Wojciech Szcz?sny\01b8a2b2;Wojciech Szcz?sny;pl POL;POL;GK;it Juventus;Juventus;31-361;31;7.0;203;186;203;2;0;0;145;0;0;;94;335;136;0;0;0;0;0;98;98;100.0;0;Matches
+Dominik Szoboszlai\934e1968;Dominik Szoboszlai;hu HUN;HUN;FWDF;de RB Leipzig;RB Leipzig;21-171;21;2.3;138;4;13;80;51;6;126;3;5;60.0;92;445;271;11;3;0;3;5;123;109;88.6;14;Matches
+Adel Taarabt\47dc80f5;Adel Taarabt;ma MAR;MAR;MF;pt Benfica;Benfica;32-325;32;3.8;180;6;44;111;36;2;174;6;11;54.5;140;749;325;13;1;1;3;7;128;116;90.6;7;Matches
+Bruno Tabata\2e0f6a18;Bruno Tabata;br BRA;BRA;FWMF;pt Sporting CP;Sporting CP;25-015;25;2.3;107;4;25;56;33;4;96;2;5;40.0;75;570;285;10;4;2;3;2;90;76;84.4;7;Matches
+Dušan Tadi?\2475dcc6;Dušan Tadi?;rs SRB;SRB;FW;nl Ajax;Ajax;33-145;33;7.0;412;3;32;105;288;63;391;4;10;40.0;304;1265;747;42;4;9;13;19;409;320;78.2;68;Matches
+Nicolás Tagliafico\f0661424;Nicolás Tagliafico;ar ARG;ARG;DF;nl Ajax;Ajax;29-226;29;1.5;118;6;23;48;51;7;100;1;2;50.0;69;339;224;13;1;2;0;1;80;71;88.8;7;Matches
+Mehdi Taremi\4c2a5d34;Mehdi Taremi;ir IRN;IRN;FW;pt Porto;Porto;29-270;29;5.4;179;7;22;85;81;34;171;3;10;30.0;97;454;283;15;5;4;11;8;203;112;55.2;38;Matches
+Ciprian T?t?ru?anu\b056e3da;Ciprian T?t?ru?anu;ro ROU;ROU;GK;it Milan;Milan;36-064;36;3.0;104;98;104;0;0;0;74;0;0;;53;209;123;0;0;0;0;0;47;47;100.0;0;Matches
+Kenneth Taylor\ad9b2747;Kenneth Taylor;nl NED;NED;MF;nl Ajax;Ajax;19-333;19;0.5;29;0;3;14;14;2;29;2;2;100.0;24;112;80;5;2;0;1;1;22;20;90.9;3;Matches
+Alex Teixeira\ae530c73;Alex Teixeira;br BRA;BRA;MF;tr Beþiktaþ;Beþiktaþ;32-098;32;2.0;69;0;8;46;20;4;68;2;3;66.7;49;282;154;9;1;0;9;1;76;50;65.8;8;Matches
+Alex Telles\e73c9bb2;Alex Telles;br BRA;BRA;DF;eng Manchester Utd; Manchester Utd;29-120;29;3.2;269;8;50;137;95;2;218;3;3;100.0;156;582;263;16;7;1;4;2;182;168;92.3;4;Matches
+Marc-André ter Stegen\6f51e382;Marc-André ter Stegen;de GER;GER;GK;es Barcelona;Barcelona;29-349;29;6.0;225;197;223;3;0;0;178;0;0;;125;458;229;0;0;0;0;0;133;133;100.0;0;Matches
+Tetê\7120a04d;Tetê;br BRA;BRA;FWMF;ua Shakhtar;Shakhtar;22-058;22;4.1;192;1;25;87;95;16;191;7;20;35.0;166;789;493;26;7;8;6;7;198;169;85.4;23;Matches
+Sébastien Thill\fb46125f;Sébastien Thill;lu LUX;LUX;MF;md Sheriff Tiraspol;Sheriff Tiraspol;28-106;28;6.0;287;29;109;123;70;5;262;0;1;0.0;151;744;410;17;3;2;2;1;189;173;91.5;6;Matches
+Steffen Tigges\6b8887c2;Steffen Tigges;de GER;GER;FW;de Dortmund;Dortmund;23-257;23;1.1;35;0;5;17;14;4;32;0;0;;17;89;36;3;1;1;8;3;39;23;59.0;4;Matches
+Samson Tijani\4ce20e90;Samson Tijani;ng NGA;NGA;MF;at RB Salzburg;RB Salzburg;19-332;19;0.3;10;2;7;4;0;0;10;0;0;;7;40;7;0;0;0;0;0;5;5;100.0;0;Matches
+Malik Tillman\a5420709;Malik Tillman;de GER;GER;MFFW;de Bayern Munich;Bayern Munich;19-321;19;0.2;8;0;3;2;4;1;8;0;0;;6;50;32;1;1;0;0;1;8;6;75.0;0;Matches
+Jurrien Timber\41034650;Jurrien Timber;nl NED;NED;DF;nl Ajax;Ajax;20-301;20;6.4;567;43;220;345;47;5;546;6;7;85.7;423;2405;1267;41;8;0;2;3;431;426;98.8;7;Matches
+Corentin Tolisso\652d4c37;Corentin Tolisso;fr FRA;FRA;MF;de Bayern Munich;Bayern Munich;27-254;27;2.6;227;8;47;145;44;4;222;0;0;;151;478;177;6;0;1;2;2;182;167;91.8;12;Matches
+Rafael Tolói\c56dc39e;Rafael Tolói;it ITA;ITA;DF;it Atalanta;Atalanta;31-186;31;4.0;269;13;83;146;60;8;262;0;1;0.0;175;918;489;18;9;0;3;2;190;179;94.2;7;Matches
+Tiago Tomás\b492126a;Tiago Tomás;pt POR;POR;FWMF;pt Sporting CP;Sporting CP;19-302;19;1.8;63;1;9;38;24;5;60;3;6;50.0;40;195;117;4;1;1;4;5;66;39;59.1;10;Matches
+Fikayo Tomori\7edfbb8a;Fikayo Tomori;eng ENG; ENG;DF;it Milan;Milan;24-116;24;4.6;273;63;197;83;3;2;265;0;2;0.0;155;730;363;3;0;0;2;2;158;157;99.4;0;Matches
+Sandro Tonali\0db169ae;Sandro Tonali;it ITA;ITA;MF;it Milan;Milan;21-341;21;3.7;228;12;71;124;45;2;210;3;6;50.0;146;789;376;17;4;0;5;7;148;139;93.9;2;Matches
+Mehmet Topal\f93c876b;Mehmet Topal;tr TUR;TUR;MFDF;tr Beþiktaþ;Beþiktaþ;36-042;36;2.9;112;15;41;55;19;5;108;1;1;100.0;56;236;97;6;0;0;2;1;65;59;90.8;2;Matches
+Gökhan Töre\51960957;Gökhan Töre;tr TUR;TUR;MFFW;tr Beþiktaþ;Beþiktaþ;30-084;30;0.9;35;1;7;22;10;0;33;1;1;100.0;26;127;86;3;2;0;2;6;35;22;62.9;4;Matches
+Ferrán Torres\9e1035f8;Ferrán Torres;es ESP;ESP;FW;eng Manchester City; Manchester City;22-044;22;0.8;20;0;0;11;10;2;18;1;3;33.3;12;42;22;1;0;0;2;2;29;16;55.2;10;Matches
+Óliver Torres\58a9a4d9;Óliver Torres;es ESP;ESP;MF;es Sevilla;Sevilla;27-155;27;1.9;145;3;18;100;32;0;140;3;5;60.0;104;470;221;13;2;0;4;5;129;115;89.1;6;Matches
+Pau Torres\532e1e4f;Pau Torres;es ESP;ESP;DF;es Villarreal;Villarreal;25-088;25;10.0;562;131;354;228;19;9;537;4;6;66.7;365;2172;1316;26;5;0;3;3;389;386;99.2;1;Matches
+Adama Traoré\f9edc384;Adama Traoré;ml MLI;MLI;FWMF;md Sheriff Tiraspol;Sheriff Tiraspol;26-313;26;5.9;193;13;49;94;71;19;185;10;21;47.6;115;734;427;19;11;3;21;12;194;130;67.0;19;Matches
+Manu Trigueros\963829d0;Manu Trigueros;es ESP;ESP;MFFW;es Villarreal;Villarreal;30-179;30;3.3;160;6;27;72;71;7;155;0;0;;111;426;230;11;7;0;3;5;146;118;80.8;13;Matches
+Kieran Trippier\21512407;Kieran Trippier;eng ENG; ENG;DF;es Atlético Madrid;Atlético Madrid;31-207;31;2.4;130;2;34;67;32;1;108;0;1;0.0;66;223;118;0;0;0;1;0;92;79;85.9;3;Matches
+Anatolii Trubin\41f0b196;Anatolii Trubin;ua UKR;UKR;GK;ua Shakhtar;Shakhtar;20-256;20;3.0;106;97;106;0;0;0;91;0;0;;38;108;43;0;0;0;0;0;56;56;100.0;0;Matches
+Kostas Tsimikas\f315ca93;Kostas Tsimikas;gr GRE;GRE;DF;eng Liverpool; Liverpool;25-337;25;3.7;287;8;71;135;102;2;232;6;9;66.7;171;822;548;34;11;0;0;5;185;172;93.0;16;Matches
+Viktor Tsyhankov\f7e87032;Viktor Tsyhankov;ua UKR;UKR;FWMF;ua Dynamo Kyiv;Dynamo Kyiv;24-150;24;5.4;256;16;64;101;117;16;241;3;11;27.3;167;835;455;19;9;2;10;8;219;166;75.8;21;Matches
+Oleksandr Tymchyk\3b996663;Oleksandr Tymchyk;ua UKR;UKR;DF;ua Dynamo Kyiv;Dynamo Kyiv;25-084;25;1.8;130;3;43;52;40;6;111;5;6;83.3;74;459;275;11;3;0;3;0;83;77;92.8;8;Matches
+Salih Uçan\fe154b26;Salih Uçan;tr TUR;TUR;MF;tr Beþiktaþ;Beþiktaþ;28-098;28;1.3;77;7;25;39;18;1;74;2;4;50.0;55;240;82;4;2;0;1;1;54;47;87.0;2;Matches
+Manuel Ugarte Ribeiro\c9817014;Manuel Ugarte Ribeiro;uy URU;URU;MF;pt Sporting CP;Sporting CP;21-003;21;2.3;106;5;38;70;7;2;105;0;2;0.0;77;406;198;5;0;0;2;3;71;68;95.8;0;Matches
+Andreas Ulmer\1a799243;Andreas Ulmer;at AUT;AUT;DF;at RB Salzburg;RB Salzburg;36-166;36;7.9;462;24;145;221;113;5;371;2;4;50.0;215;899;581;19;4;2;2;3;249;225;90.4;11;Matches
+Sven Ulreich\7d3e7da6;Sven Ulreich;de GER;GER;GK;de Bayern Munich;Bayern Munich;33-254;33;1.0;37;28;36;1;0;0;34;0;0;;13;35;17;0;0;0;0;0;19;19;100.0;0;Matches
+Dayot Upamecano\d248cd8f;Dayot Upamecano;fr FRA;FRA;DF;de Bayern Munich;Bayern Munich;23-169;23;7.3;627;58;285;356;36;3;613;1;2;50.0;442;2679;1528;47;12;0;2;0;463;458;98.9;3;Matches
+Mateus Uribe\b997c3de;Mateus Uribe;co COL;COL;MF;pt Porto;Porto;31-024;31;3.2;147;8;36;92;24;1;142;2;5;40.0;84;243;98;1;2;0;2;5;74;72;97.3;2;Matches
+Necip Uysal\2f7af524;Necip Uysal;tr TUR;TUR;DF;tr Beþiktaþ;Beþiktaþ;31-080;31;2.1;93;14;37;38;20;1;77;0;2;0.0;37;91;42;2;1;0;0;1;48;44;91.7;4;Matches
+Jesús Vallejo\c2111b45;Jesús Vallejo;es ESP;ESP;DF;es Real Madrid;Real Madrid;25-099;25;0.0;7;1;3;4;0;0;6;0;0;;5;6;0;0;0;0;0;0;5;5;100.0;0;Matches
+Federico Valverde\0959c2a2;Federico Valverde;uy URU;URU;MFFW;es Real Madrid;Real Madrid;23-266;23;5.7;361;16;64;181;147;11;355;7;9;77.8;261;1649;1062;49;17;5;3;6;298;256;85.9;14;Matches
+Ignace Van Der Brempt\2bf50b37;Ignace Van Der Brempt;be BEL;BEL;DFMF;be Club Brugge;Club Brugge;20-013;20;1.8;102;3;22;54;30;6;96;7;13;53.8;66;339;188;12;3;2;7;6;68;55;80.9;5;Matches
+Hans Vanaken\392a7aea;Hans Vanaken;be BEL;BEL;MF;be Club Brugge;Club Brugge;29-233;29;6.0;370;9;83;200;110;15;351;7;11;63.6;225;1070;452;17;10;0;9;8;327;265;81.0;16;Matches
+Raphaël Varane\9f8e9423;Raphaël Varane;fr FRA;FRA;DF;eng Manchester Utd; Manchester Utd;28-354;28;3.9;286;34;143;155;12;3;281;0;0;;184;1354;807;17;3;0;1;2;194;192;99.0;0;Matches
+Berkay Vardar\708d068c;Berkay Vardar;az AZE;AZE;DF;tr Beþiktaþ;Beþiktaþ;19-090;19;0.2;5;1;2;3;0;0;5;0;0;;1;9;8;0;0;0;0;0;1;1;100.0;0;Matches
+Lucas Vázquez\fd51b456;Lucas Vázquez;es ESP;ESP;DFFW;es Real Madrid;Real Madrid;30-287;30;3.9;294;14;89;109;110;18;280;6;8;75.0;220;942;456;18;3;2;7;3;247;219;88.7;16;Matches
+Matías Vecino\44ac04e9;Matías Vecino;uy URU;URU;MF;it Inter;Inter;30-233;30;1.4;51;2;14;23;16;2;51;1;1;100.0;29;162;70;4;1;0;0;2;42;34;81.0;4;Matches
+Benjamin Verbi?\2ebc1b44;Benjamin Verbi?;si SVN;SVN;MFFW;ua Dynamo Kyiv;Dynamo Kyiv;28-138;28;1.0;46;1;9;22;21;4;46;1;3;33.3;30;131;85;5;4;0;6;1;47;35;74.5;5;Matches
+Lucas Veríssimo\5eaf85b5;Lucas Veríssimo;br BRA;BRA;DF;pt Benfica;Benfica;26-286;26;3.0;157;43;103;50;6;4;152;0;2;0.0;67;257;94;2;0;0;0;0;84;83;98.8;0;Matches
+Marco Verratti\1467af0d;Marco Verratti;it ITA;ITA;MF;fr Paris S-G;Paris S-G;29-160;29;4.8;503;28;153;266;112;11;488;11;16;68.8;379;1557;786;33;8;2;6;11;407;391;96.1;10;Matches
+Jan Vertonghen\ba23a904;Jan Vertonghen;be BEL;BEL;DF;pt Benfica;Benfica;34-355;34;10.0;519;108;297;235;12;9;512;3;3;100.0;308;1572;513;6;1;0;1;2;354;350;98.9;0;Matches
+Domagoj Vida\3f359b33;Domagoj Vida;hr CRO;CRO;DF;tr Beþiktaþ;Beþiktaþ;32-350;32;2.0;120;18;72;55;1;0;116;1;1;100.0;76;409;168;2;0;0;0;1;78;74;94.9;0;Matches
+Arturo Vidal\67cdbc0e;Arturo Vidal;cl CHI;CHI;MF;it Inter;Inter;34-327;34;4.6;311;15;82;166;78;12;305;5;7;71.4;219;914;518;25;6;0;5;3;231;206;89.2;24;Matches
+Fabio Vieira\6412cc03;Fabio Vieira;pt POR;POR;MFDF;pt Porto;Porto;21-319;21;1.0;58;1;11;30;21;2;55;4;7;57.1;46;261;152;5;2;1;3;3;44;40;90.9;5;Matches
+Rúben Vinagre\b937e490;Rúben Vinagre;pt POR;POR;DF;pt Sporting CP;Sporting CP;23-005;23;0.7;43;2;15;18;13;0;36;0;0;;23;170;93;2;2;0;2;2;34;30;88.2;1;Matches
+João Virgínia\728e9b2e;João Virgínia;pt POR;POR;GK;pt Sporting CP;Sporting CP;22-186;22;1.0;40;40;40;0;0;0;34;0;0;;23;59;17;0;0;0;0;0;24;24;100.0;0;Matches
+Vitão\d4f034db;Vitão;br BRA;BRA;DF;ua Shakhtar;Shakhtar;22-071;22;1.0;96;27;47;52;1;0;93;0;0;;59;375;172;10;0;0;0;0;71;71;100.0;0;Matches
+Vitinha\3b029691;Vitinha;pt POR;POR;MF;pt Porto;Porto;22-060;22;2.5;176;5;32;98;54;4;163;4;4;100.0;118;552;240;11;1;1;2;4;131;118;90.1;4;Matches
+Vitinho\06d4b2e4;Vitinho;br BRA;BRA;FWMF;ua Dynamo Kyiv;Dynamo Kyiv;23-013;23;1.1;45;0;8;14;24;9;44;0;2;0.0;31;136;65;2;1;1;2;4;53;31;58.5;6;Matches
+Odisseas Vlachodimos\03df04ff;Odisseas Vlachodimos;gr GRE;GRE;GK;pt Benfica;Benfica;27-353;27;10.0;394;366;393;1;0;0;253;0;0;;161;631;272;0;0;0;0;0;153;153;100.0;0;Matches
+Dušan Vlahovi?\79443529;Dušan Vlahovi?;rs SRB;SRB;FW;it Juventus;Juventus;22-076;22;2.0;56;0;1;31;25;9;50;0;1;0.0;37;135;33;2;1;0;6;5;65;42;64.6;10;Matches
+Ruud Vormer\c24544c7;Ruud Vormer;nl NED;NED;MF;be Club Brugge;Club Brugge;33-338;33;1.8;99;5;21;45;33;6;87;0;0;;49;240;137;5;0;1;1;0;90;71;78.9;14;Matches
+Aster Vranckx\f86cd5df;Aster Vranckx;be BEL;BEL;MFFW;de Wolfsburg;Wolfsburg;19-192;19;3.7;168;4;41;95;42;1;164;10;15;66.7;116;504;245;13;2;0;10;8;122;101;82.8;9;Matches
+Stefan de Vrij\d0d8dd44;Stefan de Vrij;nl NED;NED;DF;it Inter;Inter;30-068;30;5.4;378;48;194;202;6;4;368;1;1;100.0;262;1887;968;35;2;0;1;2;277;276;99.6;0;Matches
+Šime Vrsaljko\46a8347f;Šime Vrsaljko;hr CRO;CRO;DF;es Atlético Madrid;Atlético Madrid;30-094;30;3.4;159;22;70;60;33;2;134;0;1;0.0;47;168;48;1;0;0;4;0;84;60;71.4;3;Matches
+Luca Waldschmidt\e5a35ae9;Luca Waldschmidt;de GER;GER;MFFW;de Wolfsburg;Wolfsburg;25-330;25;1.3;44;3;6;25;18;1;43;0;1;0.0;26;126;95;6;4;0;3;0;41;30;73.2;4;Matches
+Kyle Walker\86dd77d1;Kyle Walker;eng ENG; ENG;DF;eng Manchester City; Manchester City;31-321;31;5.6;465;19;107;286;96;12;422;1;1;100.0;307;1377;601;20;7;0;2;1;335;323;96.4;13;Matches
+Aaron Wan-Bissaka\9e525177;Aaron Wan-Bissaka;eng ENG; ENG;DFFW;eng Manchester Utd; Manchester Utd;24-139;24;4.7;355;15;128;172;87;4;317;10;12;83.3;229;1423;891;28;8;0;5;2;234;226;96.6;5;Matches
+Timothy Weah\8eec784d;Timothy Weah;us USA;USA;MFFW;fr Lille;Lille;22-051;22;2.8;105;1;9;44;57;9;101;3;6;50.0;71;428;218;16;3;1;8;5;100;77;77.0;16;Matches
+Wout Weghorst\c4e87b8b;Wout Weghorst;nl NED;NED;FW;de Wolfsburg;Wolfsburg;29-250;29;4.4;150;5;13;96;48;18;146;2;6;33.3;70;273;135;5;5;2;13;1;186;115;61.8;19;Matches
+Julian Weigl\346d51d9;Julian Weigl;de GER;GER;MF;pt Benfica;Benfica;26-218;26;9.0;441;21;123;276;54;3;419;5;10;50.0;264;957;397;11;1;0;3;2;288;276;95.8;3;Matches
+Welinton\292f1130;Welinton;br BRA;BRA;DF;tr Beþiktaþ;Beþiktaþ;33-004;33;3.5;227;29;107;118;9;2;219;1;3;33.3;134;419;206;5;0;0;1;2;122;119;97.5;0;Matches
+Wendel\33b11df6;Wendel;br BRA;BRA;MF;ru Zenit;Zenit;24-229;24;5.3;364;18;94;214;81;15;353;4;8;50.0;281;1512;840;33;9;4;9;6;302;278;92.1;16;Matches
+Wendell\f9acca3a;Wendell;br BRA;BRA;DF;pt Porto;Porto;28-268;28;1.5;87;1;26;55;21;0;71;0;1;0.0;40;327;232;8;6;0;2;1;53;44;83.0;0;Matches
+Timo Werner\49fe9070;Timo Werner;de GER;GER;FW;eng Chelsea; Chelsea;26-039;26;2.7;115;0;6;41;79;22;112;7;10;70.0;90;437;247;12;5;1;6;11;121;87;71.9;25;Matches
+Georginio Wijnaldum\eb58eef0;Georginio Wijnaldum;nl NED;NED;MF;fr Paris S-G;Paris S-G;31-154;31;2.9;130;6;31;83;22;8;127;4;8;50.0;92;349;135;5;1;1;4;5;131;108;82.4;5;Matches
+Neco Williams\dd323728;Neco Williams;wls WAL; WAL;DFFW;eng Liverpool; Liverpool;21-001;21;2.0;157;3;37;82;50;5;136;5;7;71.4;103;536;287;15;5;2;1;2;109;95;87.2;11;Matches
+Axel Witsel\5dfc6ad5;Axel Witsel;be BEL;BEL;MF;de Dortmund;Dortmund;33-092;33;5.2;355;24;91;239;45;1;344;0;0;;234;1157;482;20;5;0;4;0;258;244;94.6;3;Matches
+Maximilian Wöber\4b803b3c;Maximilian Wöber;at AUT;AUT;DF;at RB Salzburg;RB Salzburg;24-069;24;6.3;411;56;224;188;23;2;396;2;2;100.0;210;1033;535;17;2;0;1;1;246;242;98.4;1;Matches
+Marius Wolf\fa661778;Marius Wolf;de GER;GER;DFFW;de Dortmund;Dortmund;26-322;26;1.9;112;5;15;46;55;8;95;2;3;66.7;63;305;176;10;3;2;3;1;78;63;80.8;7;Matches
+Max Woltman\0e5b695f;Max Woltman;eng ENG; ENG;FW;eng Liverpool; Liverpool;18-237;18;0.0;0;0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Xeka\f3600c02;Xeka;pt POR;POR;MF;fr Lille;Lille;27-155;27;4.8;274;10;67;174;46;5;252;3;3;100.0;143;618;209;5;1;0;8;4;185;164;88.6;7;Matches
+Momo Yansané\683a8f5f;Momo Yansané;gn GUI;GUI;FW;md Sheriff Tiraspol;Sheriff Tiraspol;24-259;24;1.7;53;2;9;28;19;3;51;0;0;;35;283;155;9;1;1;2;2;58;34;58.6;7;Matches
+Roman Yaremchuk\cb641b9d;Roman Yaremchuk;ua UKR;UKR;FW;pt Benfica;Benfica;26-138;26;5.7;169;2;6;96;77;23;163;8;9;88.9;123;649;317;13;8;3;16;16;205;129;62.9;38;Matches
+Jasur Yaxshiboyev\8fb94908;Jasur Yaxshiboyev;uz UZB;UZB;FW;md Sheriff Tiraspol;Sheriff Tiraspol;24-294;24;2.2;57;4;12;29;17;7;53;2;2;100.0;34;118;47;5;0;3;4;8;70;37;52.9;4;Matches
+Yusuf Yazýcý\f5c8b425;Yusuf Yazýcý;tr TUR;TUR;FWMF;fr Lille;Lille;25-075;25;0.6;51;0;6;20;29;1;47;4;6;66.7;43;167;88;5;2;0;1;3;45;39;86.7;2;Matches
+Burak Yýlmaz\165a2e40;Burak Yýlmaz;tr TUR;TUR;FW;fr Lille;Lille;36-273;36;5.9;198;3;9;78;121;27;183;7;14;50.0;129;704;392;25;5;5;11;8;278;150;54.0;35;Matches
+Rýdvan Yýlmaz\94721522;Rýdvan Yýlmaz;tr TUR;TUR;DFMF;tr Beþiktaþ;Beþiktaþ;20-328;20;1.5;83;5;30;50;8;0;74;2;4;50.0;58;205;115;5;1;0;2;1;56;48;85.7;1;Matches
+Illia Zabarnyi\88968486;Illia Zabarnyi;ua UKR;UKR;DF;ua Dynamo Kyiv;Dynamo Kyiv;19-225;19;6.0;304;83;206;111;5;4;298;0;1;0.0;177;1091;573;9;1;0;0;2;208;204;98.1;1;Matches
+Dan-Axel Zagadou\a4effc55;Dan-Axel Zagadou;fr FRA;FRA;DF;de Dortmund;Dortmund;22-315;22;1.1;117;6;39;85;5;1;117;0;0;;96;683;424;13;2;0;0;1;100;99;99.0;0;Matches
+Denis Zakaria\384d58d9;Denis Zakaria;ch SUI;SUI;MF;it Juventus;Juventus;25-145;25;0.1;5;0;2;3;0;0;5;0;0;;4;14;3;0;0;0;1;0;5;4;80.0;1;Matches
+Duván Zapata\d3de9af0;Duván Zapata;co COL;COL;FW;it Atalanta;Atalanta;31-013;31;5.2;223;3;11;96;133;54;211;9;16;56.3;161;662;387;25;8;10;32;21;275;169;61.5;68;Matches
+Davide Zappacosta\7fe90ccd;Davide Zappacosta;it ITA;ITA;DF;it Atalanta;Atalanta;29-307;29;4.5;294;5;60;113;140;12;246;5;12;41.7;194;868;468;25;6;3;5;10;233;203;87.1;13;Matches
+Cedric Zesiger\2bab583c;Cedric Zesiger;ch SUI;SUI;DF;ch Young Boys;Young Boys;23-294;23;0.0;1;0;1;0;0;0;1;0;0;;0;0;0;0;0;0;0;0;0;0;;0;Matches
+Edon Zhegrova\34a88e3e;Edon Zhegrova;xk KVX;KVX;FW;fr Lille;Lille;23-014;23;0.1;7;0;1;5;3;0;7;1;1;100.0;4;13;2;0;0;0;0;2;3;3;100.0;0;Matches
+Oleksandr Zinchenko\51cf8561;Oleksandr Zinchenko;ua UKR;UKR;DFMF;eng Manchester City; Manchester City;25-120;25;4.0;302;9;46;173;102;6;274;1;1;100.0;207;1097;664;39;11;1;1;4;234;217;92.7;12;Matches
+Hakim Ziyech\6622454d;Hakim Ziyech;ma MAR;MAR;FWMF;eng Chelsea; Chelsea;29-026;29;4.9;341;4;17;132;215;32;310;5;19;26.3;226;994;456;22;11;7;9;11;282;238;84.4;44;Matches
